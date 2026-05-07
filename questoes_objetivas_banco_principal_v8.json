@@ -28,19 +28,19 @@
         "C": "Invaginação intestinal.",
         "D": "Alergia à proteína do leite de vaca."
       },
-      "correct_answer": "",
+      "correct_answer": "D",
       "theme": "Gastroenterologia",
       "subtheme": "Sangue nas Fezes / APLV",
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de 804c967f.md. Material de estudo/apostila; requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Sangue nas fezes + muco + alteração do hábito intestinal em AME exclusivo = APLV por via materna. A proteína do leite de vaca ingerida pela mãe passa para o leite materno.",
       "origin_file": "804c967f.md",
       "year": 2022,
       "source": "TEP 2022 apostila parcial recuperada",
       "source_type": "apostila_markdown",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Sangue nas fezes + muco + alteração do hábito intestinal em AME exclusivo = APLV por via materna. A proteína do leite de vaca ingerida pela mãe passa para o leite materno."
     },
     {
       "id": "TEP2022-Q04-APOSTILA",
@@ -50,15 +50,14 @@
         "A": "Neuroblastoma.",
         "B": "Linfoma.",
         "C": "Tumor de Wilms.",
-        "D": "[alternativa não recuperada no material parcial]"
+        "D": "Hepatoblastoma"
       },
-      "correct_answer": "",
+      "correct_answer": "C",
       "theme": "Oncologia pediátrica",
       "subtheme": "Tumor de Wilms",
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de 804c967f.md. Material de estudo/apostila; requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Tumor de Wilms — massa renal firme, indolor, não cruza a linha média. Neuroblastoma cruza a linha média e causa síndrome paraneoplásica.",
       "origin_file": "804c967f.md",
       "year": 2022,
       "source": "TEP 2022 apostila parcial recuperada",
@@ -66,7 +65,8 @@
       "type": "objetiva",
       "requires_2026_review": false,
       "incomplete_choices": true,
-      "material_note": "Alternativas ausentes no material parcial: D."
+      "material_note": "Alternativas ausentes no material parcial: D.",
+      "commentary": "Tumor de Wilms — massa renal firme, indolor, não cruza a linha média. Neuroblastoma cruza a linha média e causa síndrome paraneoplásica."
     },
     {
       "id": "TEP2022-Q10-APOSTILA",
@@ -78,19 +78,19 @@
         "C": "Eutrofia.",
         "D": "Risco de sobrepeso."
       },
-      "correct_answer": "",
+      "correct_answer": "D",
       "theme": "Nutrição e crescimento",
       "subtheme": "Classificação Nutricional",
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de 804c967f.md. Material de estudo/apostila; requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "OMS 2006/2007: >+1 a +2 DP = risco de sobrepeso.",
       "origin_file": "804c967f.md",
       "year": 2022,
       "source": "TEP 2022 apostila parcial recuperada",
       "source_type": "apostila_markdown",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "OMS 2006/2007: >+1 a +2 DP = risco de sobrepeso."
     },
     {
       "id": "TEP2022-Q14-APOSTILA",
@@ -102,19 +102,19 @@
         "C": "Camomila.",
         "D": "Sulfonilureia."
       },
-      "correct_answer": "",
+      "correct_answer": "D",
       "theme": "Toxicologia",
       "subtheme": "Intoxicação por Sulfonilureia",
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de 804c967f.md. Material de estudo/apostila; requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Sulfonilureia causa hipoglicemia grave. Hemoglicoteste \"normal\" pode ser falso negativo se coletado após tratamento inicial. Paracetamol = hepatotoxicidade tardia.",
       "origin_file": "804c967f.md",
       "year": 2022,
       "source": "TEP 2022 apostila parcial recuperada",
       "source_type": "apostila_markdown",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Sulfonilureia causa hipoglicemia grave. Hemoglicoteste \"normal\" pode ser falso negativo se coletado após tratamento inicial. Paracetamol = hepatotoxicidade tardia."
     },
     {
       "id": "TEP2022-Q22-APOSTILA",
@@ -126,19 +126,19 @@
         "C": "Ultrassonografia abdominal.",
         "D": "Colangiopancreatografia retrógrada."
       },
-      "correct_answer": "",
+      "correct_answer": "C",
       "theme": "Neonatologia / Gastroenterologia",
       "subtheme": "Icterícia Colestática",
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de 804c967f.md. Material de estudo/apostila; requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Icterícia colestática + fezes claras = atresia de vias biliares? USG abdominal é exame de primeira escolha — avalia vesícula biliar e ductos biliares.",
       "origin_file": "804c967f.md",
       "year": 2022,
       "source": "TEP 2022 apostila parcial recuperada",
       "source_type": "apostila_markdown",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Icterícia colestática + fezes claras = atresia de vias biliares? USG abdominal é exame de primeira escolha — avalia vesícula biliar e ductos biliares."
     },
     {
       "id": "TEP2022-Q29-APOSTILA",
@@ -150,19 +150,19 @@
         "C": "Antibioticoterapia.",
         "D": "Amiodarona."
       },
-      "correct_answer": "",
+      "correct_answer": "B",
       "theme": "Cardiologia pediátrica",
       "subtheme": "Cardiopatia Ductal Dependente",
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de 804c967f.md. Material de estudo/apostila; requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Cardiopatia cianótica ductal dependente (provavelmente TGA). Prostaglandina E1 mantém ducto patente, permitindo mistura sangue sistêmico/pulmonar.",
       "origin_file": "804c967f.md",
       "year": 2022,
       "source": "TEP 2022 apostila parcial recuperada",
       "source_type": "apostila_markdown",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Cardiopatia cianótica ductal dependente (provavelmente TGA). Prostaglandina E1 mantém ducto patente, permitindo mistura sangue sistêmico/pulmonar."
     },
     {
       "id": "TEP2022-Q33-APOSTILA",
@@ -174,19 +174,19 @@
         "C": "Digoxina.",
         "D": "Dobutamina."
       },
-      "correct_answer": "",
+      "correct_answer": "B",
       "theme": "Cardiologia pediátrica",
       "subtheme": "Tetralogia de Fallot",
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de 804c967f.md. Material de estudo/apostila; requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "\"Tet spell\" — metoprolol/propranolol relaxa infundíbulo. Furosemida reduz pré-carga (piora). Posição de cócoras, oxigênio, fluidos IV, morfina também úteis.",
       "origin_file": "804c967f.md",
       "year": 2022,
       "source": "TEP 2022 apostila parcial recuperada",
       "source_type": "apostila_markdown",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "\"Tet spell\" — metoprolol/propranolol relaxa infundíbulo. Furosemida reduz pré-carga (piora). Posição de cócoras, oxigênio, fluidos IV, morfina também úteis."
     },
     {
       "id": "TEP2022-Q38-APOSTILA",
@@ -198,19 +198,19 @@
         "C": "Grooming.",
         "D": "Sexting."
       },
-      "correct_answer": "",
+      "correct_answer": "C",
       "theme": "Adolescência / Violência",
       "subtheme": "Grooming",
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de 804c967f.md. Material de estudo/apostila; requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Grooming = aproximação/sedução de crianças pela internet com objetivo de abuso sexual. Sextorção = extorsão com ameaça de divulgar imagens.",
       "origin_file": "804c967f.md",
       "year": 2022,
       "source": "TEP 2022 apostila parcial recuperada",
       "source_type": "apostila_markdown",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Grooming = aproximação/sedução de crianças pela internet com objetivo de abuso sexual. Sextorção = extorsão com ameaça de divulgar imagens."
     },
     {
       "id": "TEP2022-Q40-APOSTILA",
@@ -222,19 +222,19 @@
         "C": "Insuficiência cardíaca.",
         "D": "Síndrome inflamatória multissistêmica pediátrica."
       },
-      "correct_answer": "",
+      "correct_answer": "D",
       "theme": "Vacinação e infectologia",
       "subtheme": "SIM-P (MIS-C)",
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de 804c967f.md. Material de estudo/apostila; requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "SIM-P (MIS-C): pós-COVID, febre persistente, inflamação sistêmica, disfunção multissistêmica. Tratamento: imunoglobulina IV + corticoide.",
       "origin_file": "804c967f.md",
       "year": 2022,
       "source": "TEP 2022 apostila parcial recuperada",
       "source_type": "apostila_markdown",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "SIM-P (MIS-C): pós-COVID, febre persistente, inflamação sistêmica, disfunção multissistêmica. Tratamento: imunoglobulina IV + corticoide."
     },
     {
       "id": "TEP2022-Q49-APOSTILA",
@@ -246,19 +246,19 @@
         "C": "Taquipneia transitória do recém-nascido.",
         "D": "Pneumonia congênita."
       },
-      "correct_answer": "",
+      "correct_answer": "C",
       "theme": "Neonatologia",
       "subtheme": "Taquipneia Transitória do RN",
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de 804c967f.md. Material de estudo/apostila; requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "TTRN: atraso reabsorção líquido fetal. Fatores de risco: cesárea, prematuridade. RX: congestão peri-hilar, cardiomegalia, líquido nas fissuras. Melhora em 24-72h.",
       "origin_file": "804c967f.md",
       "year": 2022,
       "source": "TEP 2022 apostila parcial recuperada",
       "source_type": "apostila_markdown",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "TTRN: atraso reabsorção líquido fetal. Fatores de risco: cesárea, prematuridade. RX: congestão peri-hilar, cardiomegalia, líquido nas fissuras. Melhora em 24-72h."
     },
     {
       "number": 1,
@@ -2553,13 +2553,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Com via aérea avançada (TOT ou LMA), compressões e ventilações são independentes. As compressões devem ser contínuas a 100-120/min. As ventilações: 1 a cada 2-3 segundos (20-30/min). A relação 30:2 é para pacientes NÃO intubados. A relação 15:2 é para resgate com dois socorristas em paciente NÃO intubado.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": true,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "Com via aérea avançada (TOT ou LMA), compressões e ventilações são independentes. As compressões devem ser contínuas a 100-120/min. As ventilações: 1 a cada 2-3 segundos (20-30/min). A relação 30:2 é para pacientes NÃO intubados. A relação 15:2 é para resgate com dois socorristas em paciente NÃO intubado."
     },
     {
       "id": "TEP2025-Q02",
@@ -2577,13 +2577,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Icterícia prolongada (>14 dias em a termo, >21 dias em prematuro) com bilirrubina direta >1 mg/dL ou >20% da total configura colestase neonatal. Feces acolicas, urina escura e hepatomegalia são características da atresia de vias biliares extra-hepáticas. O diagnóstico precoce é crucial — a enterostomia de Kasai deve ser realizada até os 60 dias de vida para melhor prognóstico. Icterícia fisiológica não tem bilirrubina direta elevada. Incompatibilidade ABO causa hiperbilirrubinemia indireta.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "Icterícia prolongada (>14 dias em a termo, >21 dias em prematuro) com bilirrubina direta >1 mg/dL ou >20% da total configura colestase neonatal. Feces acolicas, urina escura e hepatomegalia são características da atresia de vias biliares extra-hepáticas. O diagnóstico precoce é crucial — a enterostomia de Kasai deve ser realizada até os 60 dias de vida para melhor prognóstico. Icterícia fisiológica não tem bilirrubina direta elevada. Incompatibilidade ABO causa hiperbilirrubinemia indireta."
     },
     {
       "id": "TEP2025-Q03",
@@ -2601,13 +2601,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "A síndrome de Churg-Strauss (atualmente Eosinofilia com Poliangiite — EPA) é caracterizada pela tríade: asma refratária, eosinofilia >1500/mm³ e vasculite sistêmica. Pode apresentar polipose nasal, neuropatia periférica e P-ANCA positivo. Granulomatose com poliangiite é c-ANCA positivo com granulomas. Poliangiite microscópica é pauci-imune sem eosinofilia. Goodpasture é anti-GBM com hemorragia alveolar e glomerulonefrite.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "A síndrome de Churg-Strauss (atualmente Eosinofilia com Poliangiite — EPA) é caracterizada pela tríade: asma refratária, eosinofilia >1500/mm³ e vasculite sistêmica. Pode apresentar polipose nasal, neuropatia periférica e P-ANCA positivo. Granulomatose com poliangiite é c-ANCA positivo com granulomas. Poliangiite microscópica é pauci-imune sem eosinofilia. Goodpasture é anti-GBM com hemorragia alveolar e glomerulonefrite."
     },
     {
       "id": "TEP2025-Q04",
@@ -2625,13 +2625,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "O diagnóstico de doença celíaca exige: (1) sorologia positiva (anti-tTG IgA, anti-endomísio, ou anti-gliadina desamidada); (2) biopsia com atrofia de vilosidades (Marsh III); (3) haplótipos HLA-DQ2 ou DQ8. A dieta isenta de glúten é o tratamento definitivo. APLV não tem atrofia de vilosidades. Crohn tem lesões transmurais e granulomas. SII é diagnóstico de exclusão.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "O diagnóstico de doença celíaca exige: (1) sorologia positiva (anti-tTG IgA, anti-endomísio, ou anti-gliadina desamidada); (2) biopsia com atrofia de vilosidades (Marsh III); (3) haplótipos HLA-DQ2 ou DQ8. A dieta isenta de glúten é o tratamento definitivo. APLV não tem atrofia de vilosidades. Crohn tem lesões transmurais e granulomas. SII é diagnóstico de exclusão."
     },
     {
       "id": "TEP2025-Q05",
@@ -2649,13 +2649,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Na cetoacidose diabética (CAD) pediátrica, a reposição de líquidos deve ser gradual para evitar edema cerebral. Protocolo ISPAD/SBP: 10-20 ml/kg de SF 0,9% em 1-2 horas (expansão), depois manutenção calculada para reidratação em 48h. Nunca bolus rápido de >20 ml/kg. Ringer lactato não é indicado na CAD. A solução de manutenção com glicose só inicia quando a glicemia cair para 250 mg/dL.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "Na cetoacidose diabética (CAD) pediátrica, a reposição de líquidos deve ser gradual para evitar edema cerebral. Protocolo ISPAD/SBP: 10-20 ml/kg de SF 0,9% em 1-2 horas (expansão), depois manutenção calculada para reidratação em 48h. Nunca bolus rápido de >20 ml/kg. Ringer lactato não é indicado na CAD. A solução de manutenção com glicose só inicia quando a glicemia cair para 250 mg/dL."
     },
     {
       "id": "TEP2025-Q06",
@@ -2673,13 +2673,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Anemia ferropriva moderada (Hb 7-9,9 g/dL em lactente). Tratamento: sulfato ferroso 3-6 mg/kg/dia de ferro elementar (1 ml/kg do SF 25 mg/5ml) por 6 meses — 3 meses para corrigir a anemia e 3 meses para repor estoques. A resposta esperada: aumento de 1 g/dL de hemoglobina em 1 mês. Transfusão é reservada para anemia grave (Hb <5 g/dL) ou sinais de descompensação cardíaca.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "Anemia ferropriva moderada (Hb 7-9,9 g/dL em lactente). Tratamento: sulfato ferroso 3-6 mg/kg/dia de ferro elementar (1 ml/kg do SF 25 mg/5ml) por 6 meses — 3 meses para corrigir a anemia e 3 meses para repor estoques. A resposta esperada: aumento de 1 g/dL de hemoglobina em 1 mês. Transfusão é reservada para anemia grave (Hb <5 g/dL) ou sinais de descompensação cardíaca."
     },
     {
       "id": "TEP2025-Q07",
@@ -2697,13 +2697,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Crise febril SIMPLES: generalizada, duração <15 minutos, única em 24h, sem déficit neurológico prévio. Crise febril COMPLEXA: qualquer um dos seguintes — duração >15 minutos, recorrência em 24h, ou características focais. A crise complexa aumenta o risco de epilepsia subsequente (2-4% vs 1% na simples). Investigação com EEG e neuroimagem deve ser considerada, especialmente se primeira crise complexa.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "Crise febril SIMPLES: generalizada, duração <15 minutos, única em 24h, sem déficit neurológico prévio. Crise febril COMPLEXA: qualquer um dos seguintes — duração >15 minutos, recorrência em 24h, ou características focais. A crise complexa aumenta o risco de epilepsia subsequente (2-4% vs 1% na simples). Investigação com EEG e neuroimagem deve ser considerada, especialmente se primeira crise complexa."
     },
     {
       "id": "TEP2025-Q08",
@@ -2721,13 +2721,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Resposta à corticoterapia: corticossensível = remissão completa em até 4-6 semanas de prednisona. Corticorresistente = não remissão após 8 semanas. Corticodependente = remissão com corticoide, mas recidiva ao tentar reduzir ou suspender. Recidivante frequente = ≥2 recidivas em 6 meses ou ≥4 em 12 meses. A lesão mínima é a causa mais comum em pré-escolares e é quase sempre corticossensível.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "Resposta à corticoterapia: corticossensível = remissão completa em até 4-6 semanas de prednisona. Corticorresistente = não remissão após 8 semanas. Corticodependente = remissão com corticoide, mas recidiva ao tentar reduzir ou suspender. Recidivante frequente = ≥2 recidivas em 6 meses ou ≥4 em 12 meses. A lesão mínima é a causa mais comum em pré-escolares e é quase sempre corticossensível."
     },
     {
       "id": "TEP2025-Q09",
@@ -2745,13 +2745,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "A solução salina 3% (hipersalino) é atualmente preferida ao manitol no trauma pediátrico. Vantagens: não causa hipotensão por diurese osmótica, não causa nefrotoxicidade, efeito mais duradouro, e não interfere com a avaliação de débito urinário. A dose é 3-5 ml/kg em 15-20 minutos. Alvo de sódio sérico: 145-155 mEq/L. Mannitol ainda é útil mas perdeu espaço como primeira linha. Dexametasona é para edema vasogênico (tumores), não trauma.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": true,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "A solução salina 3% (hipersalino) é atualmente preferida ao manitol no trauma pediátrico. Vantagens: não causa hipotensão por diurese osmótica, não causa nefrotoxicidade, efeito mais duradouro, e não interfere com a avaliação de débito urinário. A dose é 3-5 ml/kg em 15-20 minutos. Alvo de sódio sérico: 145-155 mEq/L. Mannitol ainda é útil mas perdeu espaço como primeira linha. Dexametasona é para edema vasogênico (tumores), não trauma."
     },
     {
       "id": "TEP2025-Q10",
@@ -2769,13 +2769,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Sarampo é doença de notificação compulsória imediata (agravo de notificação compulsória — ANC). As manchas de Koplik (pontos brancos em mucosa bucal) são patognomônicas, aparecendo 1-2 dias antes do exantema. O tratamento de suporte inclui vitamina A (200.000 UI em dose única ou dividida) para reduzir morbimortalidade. Isolamento respiratório por 5 dias após início do exantema (ou 4 dias após). Complicações: pneumonia bacteriana, encefalite, laringite. Sem tratamento antiviral específico.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "Sarampo é doença de notificação compulsória imediata (agravo de notificação compulsória — ANC). As manchas de Koplik (pontos brancos em mucosa bucal) são patognomônicas, aparecendo 1-2 dias antes do exantema. O tratamento de suporte inclui vitamina A (200.000 UI em dose única ou dividida) para reduzir morbimortalidade. Isolamento respiratório por 5 dias após início do exantema (ou 4 dias após). Complicações: pneumonia bacteriana, encefalite, laringite. Sem tratamento antiviral específico."
     },
     {
       "id": "TEP2025-Q11",
@@ -2793,13 +2793,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "O guia de manejo da dengue classifica em 4 grupos: A (sem sinal de alarme, ambulatorial), B (com sinal de alarme, observação), C (com sinal de alarme + comorbidade/risco, internação), D (dengue grave: choque, sangramento grave, disfunção orgânica). Neste caso: dor abdominal intensa e persistente, vômitos incontroláveis, letargia, hipotensão postural, hepatomegalia >2 cm, plaquetopenia <100.000, hemoconcentração — configura dengue grave (Grupo D) por choque e disfunção orgânica. Requer internação em UTI.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": true,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "O guia de manejo da dengue classifica em 4 grupos: A (sem sinal de alarme, ambulatorial), B (com sinal de alarme, observação), C (com sinal de alarme + comorbidade/risco, internação), D (dengue grave: choque, sangramento grave, disfunção orgânica). Neste caso: dor abdominal intensa e persistente, vômitos incontroláveis, letargia, hipotensão postural, hepatomegalia >2 cm, plaquetopenia <100.000, hemoconcentração — configura dengue grave (Grupo D) por choque e disfunção orgânica. Requer internação em UTI."
     },
     {
       "id": "TEP2025-Q12",
@@ -2817,13 +2817,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "A mãe recebeu tratamento inadequado (apenas 1 dose de benzatina, sem esquema completo de 3 doses). O RN com VDRL título ≥4x o materno (1:16 vs provável materno baixo) e FTA-ABS positivo requer tratamento completo. A penicilina cristalina IV por 10 dias é o tratamento de escolha para sífilis congênita sintomática ou com critérios de tratamento completo (VDRL do RN ≥4x o materno, ou sintomas, ou LCR alterado, ou radiografia alterada). Ceftriaxona não é tratamento de escolha para sífilis. A benzatina não alcança níveis adequados no SNC.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": true,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "A mãe recebeu tratamento inadequado (apenas 1 dose de benzatina, sem esquema completo de 3 doses). O RN com VDRL título ≥4x o materno (1:16 vs provável materno baixo) e FTA-ABS positivo requer tratamento completo. A penicilina cristalina IV por 10 dias é o tratamento de escolha para sífilis congênita sintomática ou com critérios de tratamento completo (VDRL do RN ≥4x o materno, ou sintomas, ou LCR alterado, ou radiografia alterada). Ceftriaxona não é tratamento de escolha para sífilis. A benzatina não alcança níveis adequados no SNC."
     },
     {
       "id": "TEP2025-Q13",
@@ -2841,13 +2841,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Tempo de desaparecimento dos reflexos primitivos: Moro (0-3 meses), preensão palmar (0-4 meses), preensão plantar (0-8 meses), sucção-engolida (0-4 meses), marcha automática (0-2 meses), Babinski (presente até 2 anos — é normal em lactentes). Reflexo de Moro deve ter desaparecido aos 3 meses. Preensão palmar pode persistir até 4 meses. Sucção-engolida é esperada até 4 meses. Babinski é fisiológico em lactentes e só é patológico após os 2 anos.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "Tempo de desaparecimento dos reflexos primitivos: Moro (0-3 meses), preensão palmar (0-4 meses), preensão plantar (0-8 meses), sucção-engolida (0-4 meses), marcha automática (0-2 meses), Babinski (presente até 2 anos — é normal em lactentes). Reflexo de Moro deve ter desaparecido aos 3 meses. Preensão palmar pode persistir até 4 meses. Sucção-engolida é esperada até 4 meses. Babinski é fisiológico em lactentes e só é patológico após os 2 anos."
     },
     {
       "id": "TEP2025-Q14",
@@ -2865,13 +2865,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Classificação do estado nutricional em crianças e adolescentes pelo IMC/Idade (OMS 2007): <P3 = desnutrição aguda; P3-P85 = eutrofia; >P85 = sobrepeso; >P95 = obesidade; >P97 = obesidade grave (alguns critérios usam >P99 para obesidade grave). Com IMC >P95, a classificação é obesidade. A avaliação deve considerar também a velocidade de crescimento e a história familiar.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "Classificação do estado nutricional em crianças e adolescentes pelo IMC/Idade (OMS 2007): <P3 = desnutrição aguda; P3-P85 = eutrofia; >P85 = sobrepeso; >P95 = obesidade; >P97 = obesidade grave (alguns critérios usam >P99 para obesidade grave). Com IMC >P95, a classificação é obesidade. A avaliação deve considerar também a velocidade de crescimento e a história familiar."
     },
     {
       "id": "TEP2025-Q15",
@@ -2889,13 +2889,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "O tratamento de manutenção da dermatite atópica em lactentes prevê o uso de corticoide de baixa potência (hidrocortisona 1%) em regime intermitente (2x/semana em áreas propensas) associado a emolientes diários. Isso reduz recidivas sem causar atrofia cutânea. Tacrolimus é aprovado a partir de 2 anos. Fototerapia é reservada para casos refratários e mais velhos. Corticoide de alta potência em face de lactente é contraindicado.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "O tratamento de manutenção da dermatite atópica em lactentes prevê o uso de corticoide de baixa potência (hidrocortisona 1%) em regime intermitente (2x/semana em áreas propensas) associado a emolientes diários. Isso reduz recidivas sem causar atrofia cutânea. Tacrolimus é aprovado a partir de 2 anos. Fototerapia é reservada para casos refratários e mais velhos. Corticoide de alta potência em face de lactente é contraindicado."
     },
     {
       "id": "TEP2025-Q16",
@@ -2913,13 +2913,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "O transplante de medula óssea (TCTH) é o único tratamento que pode alterar o curso natural da doença de Hurler (MPS I severe) se realizado precocemente (idealmente <2,5 anos). Melhora a sobrevida, reduz a hepatoesplenomegalia, preserva a função cardíaca e pode melhorar a função cognitiva. A terapia de reposição enzimática (laronidase) não atravessa a barreira hematoencefálica e não previne o comprometimento neurológico. O TCTH é o tratamento de escolha para a forma severa.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "O transplante de medula óssea (TCTH) é o único tratamento que pode alterar o curso natural da doença de Hurler (MPS I severe) se realizado precocemente (idealmente <2,5 anos). Melhora a sobrevida, reduz a hepatoesplenomegalia, preserva a função cardíaca e pode melhorar a função cognitiva. A terapia de reposição enzimática (laronidase) não atravessa a barreira hematoencefálica e não previne o comprometimento neurológico. O TCTH é o tratamento de escolha para a forma severa."
     },
     {
       "id": "TEP2025-Q17",
@@ -2937,13 +2937,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "A tríada clássica da insuficiência adrenocortical primária: astenia/fadiga, hiperpigmentação (ACTH elevado estimulando melanócitos) e distúrbios hidroeletrolíticos (hiponatremia + hipercalemia por déficit de aldosterona). O tratamento substitutivo é vitalício: hidrocortisona (15-20 mg/m²/dia, dividida em 2-3 doses) para o cortisol e fludrocortisona (0,05-0,1 mg/dia) para o mineralocorticoide. Em crises agudas (crise addisoniana): hidrocortisona IV em bolus seguida de infusão contínua.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "A tríada clássica da insuficiência adrenocortical primária: astenia/fadiga, hiperpigmentação (ACTH elevado estimulando melanócitos) e distúrbios hidroeletrolíticos (hiponatremia + hipercalemia por déficit de aldosterona). O tratamento substitutivo é vitalício: hidrocortisona (15-20 mg/m²/dia, dividida em 2-3 doses) para o cortisol e fludrocortisona (0,05-0,1 mg/dia) para o mineralocorticoide. Em crises agudas (crise addisoniana): hidrocortisona IV em bolus seguida de infusão contínua."
     },
     {
       "id": "TEP2025-Q18",
@@ -2961,13 +2961,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Classificação da hipertensão em crianças e adolescentes pelo percentil: <P90 = normotensão; P90-P95 ou ≥120/80 (se <13 anos) = pressão normal-alta; ≥P95 = hipertensão estágio 1; ≥P95+12 mmHg = hipertensão estágio 2. Com 12 anos, os valores absolutos já podem ser usados: ≥130/80 = hipertensão estágio 1; ≥140/90 = estágio 2. Neste caso, PA entre P95 e P95+12 (e ≥130/80) = hipertensão estágio 1. Conduta inicial: mudança do estilo de vida e reavaliação.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": true,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "Classificação da hipertensão em crianças e adolescentes pelo percentil: <P90 = normotensão; P90-P95 ou ≥120/80 (se <13 anos) = pressão normal-alta; ≥P95 = hipertensão estágio 1; ≥P95+12 mmHg = hipertensão estágio 2. Com 12 anos, os valores absolutos já podem ser usados: ≥130/80 = hipertensão estágio 1; ≥140/90 = estágio 2. Neste caso, PA entre P95 e P95+12 (e ≥130/80) = hipertensão estágio 1. Conduta inicial: mudança do estilo de vida e reavaliação."
     },
     {
       "id": "TEP2025-Q19",
@@ -2985,13 +2985,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "A presença de gametócitos em falciforme é patognomônica de Plasmodium falciparum. No Brasil, o tratamento de escolha para malária não complicada por P. falciparum é a combinação de artemisinina (ACT) — artemeter-lumefantrina por 3 dias ou artesunato-mefloquina. Cloroquina é reservada para P. vivax (sensível no Brasil) e P. malariae. Quinina + clindamicina é para casos graves ou grávidas. Primaquina é para hipnozoítos de P. vivax (radical cura) e transmissão de P. falciparum (gametocida).",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "A presença de gametócitos em falciforme é patognomônica de Plasmodium falciparum. No Brasil, o tratamento de escolha para malária não complicada por P. falciparum é a combinação de artemisinina (ACT) — artemeter-lumefantrina por 3 dias ou artesunato-mefloquina. Cloroquina é reservada para P. vivax (sensível no Brasil) e P. malariae. Quinina + clindamicina é para casos graves ou grávidas. Primaquina é para hipnozoítos de P. vivax (radical cura) e transmissão de P. falciparum (gametocida)."
     },
     {
       "id": "TEP2025-Q20",
@@ -3009,13 +3009,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Dose do paracetamol em crianças: 10-15 mg/kg/dose a cada 4-6h. Para 20 kg: 200-300 mg/dose. A dose máxima é 60-75 mg/kg/dia (até 4 g/dia em adultos). Com 20 kg: máximo 1,2-1,5 g/dia. A alternativa correta é 400 mg a cada 4-6h — está dentro da dose por peso (20 mg/kg seria alta, mas a alternativa C apresenta 400 mg = 20 mg/kg, que é o limite superior aceitável). Nota: alguns protocolos usam até 15 mg/kg (300 mg para 20 kg). A banca pode aceitar variações dentro do intervalo terapêutico.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "Dose do paracetamol em crianças: 10-15 mg/kg/dose a cada 4-6h. Para 20 kg: 200-300 mg/dose. A dose máxima é 60-75 mg/kg/dia (até 4 g/dia em adultos). Com 20 kg: máximo 1,2-1,5 g/dia. A alternativa correta é 400 mg a cada 4-6h — está dentro da dose por peso (20 mg/kg seria alta, mas a alternativa C apresenta 400 mg = 20 mg/kg, que é o limite superior aceitável). Nota: alguns protocolos usam até 15 mg/kg (300 mg para 20 kg). A banca pode aceitar variações dentro do intervalo terapêutico."
     },
     {
       "id": "TEP2025-Q21",
@@ -3033,13 +3033,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "A síndrome de Guillain-Barré é a causa mais comum de paralisia flácida aguda em crianças. O diagnóstico é confirmado pela dissociação proteíno-citológica (proteína elevada com poucas células) e pela eletroneuromiografia. O tratamento de escolha em crianças é a imunoglobulina intravenosa (2 g/kg em 2-5 dias) ou plasmaférese. Corticoide não tem benefício comprovado. A monitorização da função respiratória é essencial — a fraqueza pode progredir para insuficiência respiratória.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "A síndrome de Guillain-Barré é a causa mais comum de paralisia flácida aguda em crianças. O diagnóstico é confirmado pela dissociação proteíno-citológica (proteína elevada com poucas células) e pela eletroneuromiografia. O tratamento de escolha em crianças é a imunoglobulina intravenosa (2 g/kg em 2-5 dias) ou plasmaférese. Corticoide não tem benefício comprovado. A monitorização da função respiratória é essencial — a fraqueza pode progredir para insuficiência respiratória."
     },
     {
       "id": "TEP2025-Q22",
@@ -3057,13 +3057,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "A osteomielite hematogênica aguda em crianças saudáveis é mais comum em metáfises de ossos longos (fêmur, tíbia) e o principal agente é S. aureus (incluindo MRSA em algumas regiões). O tratamento requer antibioticoterapia IV por 3-4 semanas, seguida de oral por 2-4 semanas, totalizando 4-6 semanas. A drenagem cirúrgica é indicada para abscessos subperiostei ou intraósseos. A remissão precoce para oral é possível após melhora clínica e queda de VHS/PCR.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "A osteomielite hematogênica aguda em crianças saudáveis é mais comum em metáfises de ossos longos (fêmur, tíbia) e o principal agente é S. aureus (incluindo MRSA em algumas regiões). O tratamento requer antibioticoterapia IV por 3-4 semanas, seguida de oral por 2-4 semanas, totalizando 4-6 semanas. A drenagem cirúrgica é indicada para abscessos subperiostei ou intraósseos. A remissão precoce para oral é possível após melhora clínica e queda de VHS/PCR."
     },
     {
       "id": "TEP2025-Q23",
@@ -3081,13 +3081,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "O hemograma com leucocitose e predominio de blastos (>20%) é sugestivo de leucemia aguda. O mielograma com aspirado e biópsia é o exame confirmatório. A imunofenotipagem por citometria de fluxo diferencia LLA de LMA e subclassifica LLA-B de LLA-T. A citogenética (FISH, cariótipo) define o prognóstico de risco (filadelfia, MLL, hipodiploidia, iAMP21). RNM de crânio é para avaliar infiltração meníngea (CNS3). TC de abdome não é essencial para o diagnóstico inicial.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "O hemograma com leucocitose e predominio de blastos (>20%) é sugestivo de leucemia aguda. O mielograma com aspirado e biópsia é o exame confirmatório. A imunofenotipagem por citometria de fluxo diferencia LLA de LMA e subclassifica LLA-B de LLA-T. A citogenética (FISH, cariótipo) define o prognóstico de risco (filadelfia, MLL, hipodiploidia, iAMP21). RNM de crânio é para avaliar infiltração meníngea (CNS3). TC de abdome não é essencial para o diagnóstico inicial."
     },
     {
       "id": "TEP2025-Q24",
@@ -3105,13 +3105,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "O DSM-5 estabelece que os sintomas de TDAH devem estar presentes por pelo menos 6 meses, em dois ou mais ambientes (casa, escola, trabalho), com impacto funcional significativo. Além disso, alguns sintomas devem ter iniciado antes dos 12 anos de idade. A desatenção e/ou hiperatividade-impulsividade devem ser incompatíveis com o nível de desenvolvimento. Outras condições psiquiátricas, neurológicas ou medicamentosas devem ser excluídas.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "O DSM-5 estabelece que os sintomas de TDAH devem estar presentes por pelo menos 6 meses, em dois ou mais ambientes (casa, escola, trabalho), com impacto funcional significativo. Além disso, alguns sintomas devem ter iniciado antes dos 12 anos de idade. A desatenção e/ou hiperatividade-impulsividade devem ser incompatíveis com o nível de desenvolvimento. Outras condições psiquiátricas, neurológicas ou medicamentosas devem ser excluídas."
     },
     {
       "id": "TEP2025-Q25",
@@ -3129,13 +3129,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "A transposição das grandes artérias (TGA) é uma cardiopatia ductal dependente. A cianose intensa que não melhora com oxigênio é característica. O \"ovo em gaveta\" no RX é clássico. A conduta emergencial é a infusão de prostaglandina E1 (alprostadil) 0,05-0,1 mcg/kg/min para manter o ducto arterioso aberto, permitindo a mistura de sangue sistêmico e pulmonar. A septostomia de Rashkind (cateterismo com balão) pode ser realizada se o canal arterial fechar ou for insuficiente. A cirurgia de troca arterial (Jatene) é definitiva, mas não é a primeira conduta nas primeiras horas de vida.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "A transposição das grandes artérias (TGA) é uma cardiopatia ductal dependente. A cianose intensa que não melhora com oxigênio é característica. O \"ovo em gaveta\" no RX é clássico. A conduta emergencial é a infusão de prostaglandina E1 (alprostadil) 0,05-0,1 mcg/kg/min para manter o ducto arterioso aberto, permitindo a mistura de sangue sistêmico e pulmonar. A septostomia de Rashkind (cateterismo com balão) pode ser realizada se o canal arterial fechar ou for insuficiente. A cirurgia de troca arterial (Jatene) é definitiva, mas não é a primeira conduta nas primeiras horas de vida."
     },
     {
       "id": "TEP2025-Q26",
@@ -3153,13 +3153,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Em hemofilia A, o tratamento de sangramento é reposição do fator VIII. Para hematomas musculares: 25-50 UI/kg de fator VIII recombinante para atingir nível de 25-50%. Para sangramentos mais graves (articulares, cefálicos, abdominais): 50 UI/kg para níveis de 50-100%. A profilaxia primária em hemofilia grave é 25-40 UI/kg 3x/semana para manter níveis >1%. O plasma fresco congelado não é indicado devido ao baixo teor de fator VIII e risco de volume.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "Em hemofilia A, o tratamento de sangramento é reposição do fator VIII. Para hematomas musculares: 25-50 UI/kg de fator VIII recombinante para atingir nível de 25-50%. Para sangramentos mais graves (articulares, cefálicos, abdominais): 50 UI/kg para níveis de 50-100%. A profilaxia primária em hemofilia grave é 25-40 UI/kg 3x/semana para manter níveis >1%. O plasma fresco congelado não é indicado devido ao baixo teor de fator VIII e risco de volume."
     },
     {
       "id": "TEP2025-Q27",
@@ -3177,13 +3177,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Na hiperglicemia, a glicose extracelular atrai água, diluindo o sódio sérico. A correção estimada: para cada 100 mg/dL de glicemia acima de 100, adiciona-se 1,6 mEq/L ao sódio medido. Exemplo: glicemia 520, sódio 132. (520-100)/100 = 4,2. 4,2 × 1,6 = 6,7. Sódio corrigido = 132 + 6,7 = 138,7 mEq/L (normonatremia aparente). Isso é importante para avaliar o verdadeiro estado de sódio e orientar a reposição de fluidos.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "Na hiperglicemia, a glicose extracelular atrai água, diluindo o sódio sérico. A correção estimada: para cada 100 mg/dL de glicemia acima de 100, adiciona-se 1,6 mEq/L ao sódio medido. Exemplo: glicemia 520, sódio 132. (520-100)/100 = 4,2. 4,2 × 1,6 = 6,7. Sódio corrigido = 132 + 6,7 = 138,7 mEq/L (normonatremia aparente). Isso é importante para avaliar o verdadeiro estado de sódio e orientar a reposição de fluidos."
     },
     {
       "id": "TEP2025-Q28",
@@ -3201,13 +3201,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "A síndrome de nefropatia por refluxo (SNR) é definida por: refluxo vesicoureteral + UTIs + lesão renal no DMSA. Indicações cirúrgicas para reimplante ureteral: grau IV-V, lesão renal progressiva, infecções de repetição apesar da profilaxia, ou não adesão à profilaxia. Com lesão renal já estabelecida (cicatriz) e grau IV bilateral, o reimplante está indicado. A antibioticoprofilaxia é temporária. A endoscopia com Deflux é para graus I-III. O controle da pressão arterial é parte do manejo da nefropatia crônica, mas não substitui a correção do refluxo.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "A síndrome de nefropatia por refluxo (SNR) é definida por: refluxo vesicoureteral + UTIs + lesão renal no DMSA. Indicações cirúrgicas para reimplante ureteral: grau IV-V, lesão renal progressiva, infecções de repetição apesar da profilaxia, ou não adesão à profilaxia. Com lesão renal já estabelecida (cicatriz) e grau IV bilateral, o reimplante está indicado. A antibioticoprofilaxia é temporária. A endoscopia com Deflux é para graus I-III. O controle da pressão arterial é parte do manejo da nefropatia crônica, mas não substitui a correção do refluxo."
     },
     {
       "id": "TEP2025-Q29",
@@ -3225,13 +3225,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "Em lactentes menores de 2-3 meses com pielonefrite (ITU alta com febre), o tratamento deve ser endovenoso inicialmente por 7-10 dias, seguido de oral para completar 10-14 dias. Crianças <2 meses são consideradas de alto risco por maior chance de bacteremia e sepse. A ceftriaxona (desaconselhada em <2 meses por risco de bilirrubina) ou ampicilina + gentamicina são opções. Com 3 meses, ceftriaxona pode ser considerada. A duração total é de 7-14 dias dependendo da resposta clínica.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "Em lactentes menores de 2-3 meses com pielonefrite (ITU alta com febre), o tratamento deve ser endovenoso inicialmente por 7-10 dias, seguido de oral para completar 10-14 dias. Crianças <2 meses são consideradas de alto risco por maior chance de bacteremia e sepse. A ceftriaxona (desaconselhada em <2 meses por risco de bilirrubina) ou ampicilina + gentamicina são opções. Com 3 meses, ceftriaxona pode ser considerada. A duração total é de 7-14 dias dependendo da resposta clínica."
     },
     {
       "id": "TEP2025-Q30",
@@ -3249,13 +3249,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "O distúrbio do processamento sensorial (DPS) caracteriza-se por dificuldade em receber, interpretar e responder a estímulos sensoriais de forma adequada. Diferente do TEA, a interação social é preservada em ambientes controlados. A abordagem de integração sensorial pela terapeuta ocupacional é a conduta de escolha — inclui desensibilização gradual, protocolos de estímulo controlado e adaptações ambientais. O diagnóstico de autismo requer déficits persistentes na comunicação social + comportamentos restritivos/repetitivos. Medicamentos não são indicados para DPS isolado.",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "O distúrbio do processamento sensorial (DPS) caracteriza-se por dificuldade em receber, interpretar e responder a estímulos sensoriais de forma adequada. Diferente do TEA, a interação social é preservada em ambientes controlados. A abordagem de integração sensorial pela terapeuta ocupacional é a conduta de escolha — inclui desensibilização gradual, protocolos de estímulo controlado e adaptações ambientais. O diagnóstico de autismo requer déficits persistentes na comunicação social + comportamentos restritivos/repetitivos. Medicamentos não são indicados para DPS isolado."
     },
     {
       "id": "TEP2025-Q31",
@@ -3273,13 +3273,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "\"A gente tem aqui uma infecção do tecido celular subcutâneo e o tecido celular subcutâneo é como jovens — ele não tem limites. Se ele não tem limites, essa infecção pode se espalhar, pode ser algo que se torne muito grave. Sendo possível, interno e faz antibiótico intravenoso.\"\n\n\"Qual é a bactéria? O sítio e quais são as bactérias que estão provocando esta infecção? Celulite é Gram positivo: Staphylococcus aureus e estrepto beta-hemolítico do grupo A (Streptococcus pyogenes). Cefalosporinas de 1ª geração são uma boa ideia. Mas e se for um Staphylococcus resistente à meticilina vindo da comunidade (CA-MRSA)? Aí a clindamicina é melhor. Mas o que faz nessa questão uma cefalosporina de 3ª geração para tratar Staph e Strepto? Não é uma boa ideia — antibiótico a mais sem utilidade, desnecessário e pode ser prejudicial. Então a letra B está errada. Se a B fosse só clindamicina IV, eu marcaria. Mas entrou a cefalosporina de 3ª geração que estragou a B, deixando a D como a única possibilidade.\"",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "\"A gente tem aqui uma infecção do tecido celular subcutâneo e o tecido celular subcutâneo é como jovens — ele não tem limites. Se ele não tem limites, essa infecção pode se espalhar, pode ser algo que se torne muito grave. Sendo possível, interno e faz antibiótico intravenoso.\"\n\n\"Qual é a bactéria? O sítio e quais são as bactérias que estão provocando esta infecção? Celulite é Gram positivo: Staphylococcus aureus e estrepto beta-hemolítico do grupo A (Streptococcus pyogenes). Cefalosporinas de 1ª geração são uma boa ideia. Mas e se for um Staphylococcus resistente à meticilina vindo da comunidade (CA-MRSA)? Aí a clindamicina é melhor. Mas o que faz nessa questão uma cefalosporina de 3ª geração para tratar Staph e Strepto? Não é uma boa ideia — antibiótico a mais sem utilidade, desnecessário e pode ser prejudicial. Então a letra B está errada. Se a B fosse só clindamicina IV, eu marcaria. Mas entrou a cefalosporina de 3ª geração que estragou a B, deixando a D como a única possibilidade.\""
     },
     {
       "id": "TEP2025-Q32",
@@ -3297,13 +3297,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "\"Artrite padrão migratório + alteração cardíaca = cardite. Temos aqui dois sinais maiores. Logicamente a necessidade de outros como esses dois maiores + uma evidência de infecção estreptocócica já seria suficiente pra gente fechar a febre reumática. E quando eu tenho cardite, o tratamento é corticoide — controla o processo inflamatório sem dúvida alguma. Letra A é o gabarito. Sabendo qual é a doença fica mais fácil — é uma febre reumática com cardite.\"",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "\"Artrite padrão migratório + alteração cardíaca = cardite. Temos aqui dois sinais maiores. Logicamente a necessidade de outros como esses dois maiores + uma evidência de infecção estreptocócica já seria suficiente pra gente fechar a febre reumática. E quando eu tenho cardite, o tratamento é corticoide — controla o processo inflamatório sem dúvida alguma. Letra A é o gabarito. Sabendo qual é a doença fica mais fácil — é uma febre reumática com cardite.\""
     },
     {
       "id": "TEP2025-Q33",
@@ -3321,13 +3321,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "\"Olha pro hemograma: tem anemia importante, pelo menos moderada, e tem TROMBOCITOPENIA. Eu já tenho uma BISTOPENIA. O número de leucócitos é normal mas eu tenho muito linfócito. Dá para desconfiar.\"\n\n\"Anemia ferropriva: VCM mínimo para criança de 5 anos é 70 + idade = 75. Ele tem VCM 81, então não tem microcitose. Fala contra anemia ferropriva. Na ferropriva a gente tem TROMBOCITOSE, aumento de plaquetas — ao contrário, aqui eu tenho trombocitopenia.\"\n\n\"Anemia por B12: é macrocítica. VCM de macrocitose seria > 84 + (5 × 0,5) = 87. VCM é 81, também não tem macrocitose.\"\n\n\"Doença falciforme: é comum haver leucocitose e trombocitose. Aqui tem linfocitose mas não leucocitose. E na falciforme, como é anemia hemolítica crônica, você tem reticulocitose. A medula tá sempre trabalhando para compensar a hemólise. Aqui o reticulócito é 1% — fala muito contra a doença falciforme.\"\n\n\"Anemia + trombocitopenia + hemograma com predomínio de linfócitos + criança pálida com episódios febris = tem que pensar em LEUCEMIA. E dessa vez a banca não colocou uma LMC — colocou repetidamente nos anos anteriores. Trabalhei 20 anos no Instituto Nacional do Câncer, devo ter visto pelo menos umas 1000 crianças com leucemia, e nunca vi em criança uma leucemia mieloide crônica. Não é que não exista, mas não é comum. Caiu por dois anos seguidos no TEP. Dessa vez caiu uma leucemia que é o padrão, a mais comum em pediatria: LLA.\"",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "\"Olha pro hemograma: tem anemia importante, pelo menos moderada, e tem TROMBOCITOPENIA. Eu já tenho uma BISTOPENIA. O número de leucócitos é normal mas eu tenho muito linfócito. Dá para desconfiar.\"\n\n\"Anemia ferropriva: VCM mínimo para criança de 5 anos é 70 + idade = 75. Ele tem VCM 81, então não tem microcitose. Fala contra anemia ferropriva. Na ferropriva a gente tem TROMBOCITOSE, aumento de plaquetas — ao contrário, aqui eu tenho trombocitopenia.\"\n\n\"Anemia por B12: é macrocítica. VCM de macrocitose seria > 84 + (5 × 0,5) = 87. VCM é 81, também não tem macrocitose.\"\n\n\"Doença falciforme: é comum haver leucocitose e trombocitose. Aqui tem linfocitose mas não leucocitose. E na falciforme, como é anemia hemolítica crônica, você tem reticulocitose. A medula tá sempre trabalhando para compensar a hemólise. Aqui o reticulócito é 1% — fala muito contra a doença falciforme.\"\n\n\"Anemia + trombocitopenia + hemograma com predomínio de linfócitos + criança pálida com episódios febris = tem que pensar em LEUCEMIA. E dessa vez a banca não colocou uma LMC — colocou repetidamente nos anos anteriores. Trabalhei 20 anos no Instituto Nacional do Câncer, devo ter visto pelo menos umas 1000 crianças com leucemia, e nunca vi em criança uma leucemia mieloide crônica. Não é que não exista, mas não é comum. Caiu por dois anos seguidos no TEP. Dessa vez caiu uma leucemia que é o padrão, a mais comum em pediatria: LLA.\""
     },
     {
       "id": "TEP2025-Q34",
@@ -3345,13 +3345,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "\"O que é esse quadro? Num falcêmico em que ele fica pálido subitamente e o baço está grande — esse é o famoso SEQUESTRO ESPLÊNICO, onde a criança choca muitas vezes por retenção de volume no baço. O baço aumenta, a criança choca.\"\n\n\"Quando eu olho para as respostas, não tem nenhuma que eu considero ideal. Quando não tem resposta ideal, a gente tira a melhor entre elas — a menos pior. Plaquetas 140.000 é MUITA plaqueta — onde coloca transfusão de plaquetas, esquece. Letras B e D eliminadas.\"\n\n\"Letra A: espera corrigir a hipovolemia para DEPOIS transfundir — não é por aí. A transfusão de hemácias aqui é FUNDAMENTAL. Se eu fizer só cristaloide, a volemia está mais baixa porque tem retenção no baço, a tendência é a anemia ficar mais grave. Tem que ser concomitante: reposição de volume + transfusão.\"\n\n\"O falcêmico não deve transfundir ao ponto de ultrapassar Hb 10,5 porque leva a hiperviscosidade. Para cada 10 ml/kg de transfusão, aumenta a hemoglobina em cerca de 3,5. Se eu faço 15 ml/kg: 3,5 × 1,5 = 5,3. Com Hb de 5,8, vou ultrapassar 10,5. O ideal seria 10 ml/kg, não 15.\"\n\n\"A letra C transfunde 5 ml/kg — é possível começar com menos e reavaliar. Conforme eu vou repor, o baço pode começar a liberar sangue retido e eu vou melhorando a volemia. É um tratamento aos poucos. A resposta ideal seria reposição de volume + 10 ml/kg — não tenho essa resposta, então a única que cabe é a C.\"",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "\"O que é esse quadro? Num falcêmico em que ele fica pálido subitamente e o baço está grande — esse é o famoso SEQUESTRO ESPLÊNICO, onde a criança choca muitas vezes por retenção de volume no baço. O baço aumenta, a criança choca.\"\n\n\"Quando eu olho para as respostas, não tem nenhuma que eu considero ideal. Quando não tem resposta ideal, a gente tira a melhor entre elas — a menos pior. Plaquetas 140.000 é MUITA plaqueta — onde coloca transfusão de plaquetas, esquece. Letras B e D eliminadas.\"\n\n\"Letra A: espera corrigir a hipovolemia para DEPOIS transfundir — não é por aí. A transfusão de hemácias aqui é FUNDAMENTAL. Se eu fizer só cristaloide, a volemia está mais baixa porque tem retenção no baço, a tendência é a anemia ficar mais grave. Tem que ser concomitante: reposição de volume + transfusão.\"\n\n\"O falcêmico não deve transfundir ao ponto de ultrapassar Hb 10,5 porque leva a hiperviscosidade. Para cada 10 ml/kg de transfusão, aumenta a hemoglobina em cerca de 3,5. Se eu faço 15 ml/kg: 3,5 × 1,5 = 5,3. Com Hb de 5,8, vou ultrapassar 10,5. O ideal seria 10 ml/kg, não 15.\"\n\n\"A letra C transfunde 5 ml/kg — é possível começar com menos e reavaliar. Conforme eu vou repor, o baço pode começar a liberar sangue retido e eu vou melhorando a volemia. É um tratamento aos poucos. A resposta ideal seria reposição de volume + 10 ml/kg — não tenho essa resposta, então a única que cabe é a C.\""
     },
     {
       "id": "TEP2025-Q35",
@@ -3369,13 +3369,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "\"Bronquiolite — não há um residente de pediatria ou pediatra na face da Terra que não trate bronquiolite com beta-2. Eu não conheço. Embora os guidelines falem que não é para fazer broncodilatador, na prática a gente acaba fazendo beta-2 porque ocasionalmente você pega uma criança com hiperreatividade brônquica e aí ela vai responder.\"\n\n\"Mas o que a gente vê na maioria das vezes é uma certa teimosia: faz o beta-2, não melhora, faz de novo, e de novo, e de novo. O paciente melhora com o tempo, não com o beta-2. Conforme ele está hipoxêmico, a gente tem que fazer oxigênio, e obviamente mantê-lo hidratado.\"\n\n\"O guideline diz que não é para marcar broncodilatador na prova. Na nossa aula do curso eu falo: no guideline está falando que é para não fazer beta-2, e quando você for fazer a prova você bota que é para não fazer. Eu entendo que na prática a gente acaba fazendo, mas do ponto de vista teórico está errado.\"\n\n\"Corticoide na bronquiolite? Meu amigo e mestre Luciano fala que quando usa corticoide para bronquiolite, muda o nome do diagnóstico para ASMA. Se tem uma medicação que você não deve fazer na bronquiolite, é o corticoide — principalmente na fase inicial em que você tem viremia que pode piorar.\"\n\n\"Então é isso: oxigênio na bronquiolite e manter a hidratação adequada.\"",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "\"Bronquiolite — não há um residente de pediatria ou pediatra na face da Terra que não trate bronquiolite com beta-2. Eu não conheço. Embora os guidelines falem que não é para fazer broncodilatador, na prática a gente acaba fazendo beta-2 porque ocasionalmente você pega uma criança com hiperreatividade brônquica e aí ela vai responder.\"\n\n\"Mas o que a gente vê na maioria das vezes é uma certa teimosia: faz o beta-2, não melhora, faz de novo, e de novo, e de novo. O paciente melhora com o tempo, não com o beta-2. Conforme ele está hipoxêmico, a gente tem que fazer oxigênio, e obviamente mantê-lo hidratado.\"\n\n\"O guideline diz que não é para marcar broncodilatador na prova. Na nossa aula do curso eu falo: no guideline está falando que é para não fazer beta-2, e quando você for fazer a prova você bota que é para não fazer. Eu entendo que na prática a gente acaba fazendo, mas do ponto de vista teórico está errado.\"\n\n\"Corticoide na bronquiolite? Meu amigo e mestre Luciano fala que quando usa corticoide para bronquiolite, muda o nome do diagnóstico para ASMA. Se tem uma medicação que você não deve fazer na bronquiolite, é o corticoide — principalmente na fase inicial em que você tem viremia que pode piorar.\"\n\n\"Então é isso: oxigênio na bronquiolite e manter a hidratação adequada.\""
     },
     {
       "id": "TEP2025-Q36",
@@ -3393,13 +3393,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "\"Diagnóstico diferencial principal de massas em flanco fica entre neuroblastoma e tumor de Wilms. A mãe que percebe dando banho — em geral descoberta acidental. Lembra da síndrome de Beckwith-Wiedemann? Microcefalia, língua grande, macroglossia, hérnia umbilical, hipoglicemia... e HEMIHIPERTROFIA. Essa criança tem um membro maior que o outro. Na síndrome de Beckwith-Wiedemann, assim como na aniridia e na hemipertrofia, há um risco maior de tumor de Wilms.\"\n\n\"Massa no flanco, loja renal, hemipertrofia... idade: neuroblastoma geralmente é no lactente, tumor de Wilms no pré-escolar. Tudo aqui encaixado para o tumor de Wilms ou nefroblastoma. No ano passado caiu, só que o gabarito era nefroblastoma. Trabalhei 20 anos no INCA, nunca vi ninguém chamando tumor de Wilms de nefroblastoma no dia a dia. Pelos corredores pediátricos é tumor de Wilms. Letra C é o gabarito.\"",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "\"Diagnóstico diferencial principal de massas em flanco fica entre neuroblastoma e tumor de Wilms. A mãe que percebe dando banho — em geral descoberta acidental. Lembra da síndrome de Beckwith-Wiedemann? Microcefalia, língua grande, macroglossia, hérnia umbilical, hipoglicemia... e HEMIHIPERTROFIA. Essa criança tem um membro maior que o outro. Na síndrome de Beckwith-Wiedemann, assim como na aniridia e na hemipertrofia, há um risco maior de tumor de Wilms.\"\n\n\"Massa no flanco, loja renal, hemipertrofia... idade: neuroblastoma geralmente é no lactente, tumor de Wilms no pré-escolar. Tudo aqui encaixado para o tumor de Wilms ou nefroblastoma. No ano passado caiu, só que o gabarito era nefroblastoma. Trabalhei 20 anos no INCA, nunca vi ninguém chamando tumor de Wilms de nefroblastoma no dia a dia. Pelos corredores pediátricos é tumor de Wilms. Letra C é o gabarito.\""
     },
     {
       "id": "TEP2025-Q37",
@@ -3417,13 +3417,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "\"Qual é a nossa hipótese? Estupro, violência sexual. O que o médico é obrigado a fazer? OBRIGATÓRIO: notificar o Conselho Tutelar. O médico NÃO é obrigado a notificar a polícia — qualquer cidadão pode fazer isso, inclusive o médico pode, mas não é obrigatório.\"\n\n\"A sua obrigação é o Conselho Tutelar. O Conselho Tutelar dá sequência e notifica a polícia. O médico também tem obrigação de cuidar de ISTs — PEP (profilaxia pós-exposição) para HIV, sífilis, HPV, hepatites, clamídia, gonorreia.\"\n\n\"O caminho do gabarito é: proteger a vítima, notificar o Conselho Tutelar e fazer profilaxia das ISTs. Letra C é o gabarito. Comunicar a polícia, solicitar perícia do IML — você pode ou não fazer. Sua obrigação é o Conselho Tutelar.\"",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "\"Qual é a nossa hipótese? Estupro, violência sexual. O que o médico é obrigado a fazer? OBRIGATÓRIO: notificar o Conselho Tutelar. O médico NÃO é obrigado a notificar a polícia — qualquer cidadão pode fazer isso, inclusive o médico pode, mas não é obrigatório.\"\n\n\"A sua obrigação é o Conselho Tutelar. O Conselho Tutelar dá sequência e notifica a polícia. O médico também tem obrigação de cuidar de ISTs — PEP (profilaxia pós-exposição) para HIV, sífilis, HPV, hepatites, clamídia, gonorreia.\"\n\n\"O caminho do gabarito é: proteger a vítima, notificar o Conselho Tutelar e fazer profilaxia das ISTs. Letra C é o gabarito. Comunicar a polícia, solicitar perícia do IML — você pode ou não fazer. Sua obrigação é o Conselho Tutelar.\""
     },
     {
       "id": "TEP2025-Q38",
@@ -3441,13 +3441,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "\"Criança com fratura de crânio, hemorragia intracraniana... pelo histórico parece que caiu do colo, mas será que foi negligência? Será que bateram? Há suspeita fortíssima de violência, de maus tratos.\"\n\n\"O médico pode acionar a polícia? Pode, mas não é obrigatório. O que é obrigatório? NOTIFICAR O CONSELHO TUTELAR. A única opção que tem o Conselho Tutelar é a C. Nessa opção ele também aciona a polícia, registra BO e garante medidas de proteção.\"\n\n\"Entenderam a diferença? Eu posso acionar a polícia, mas não é obrigatório. O que é obrigatório? Conselho Tutelar. Letra C.\"",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "\"Criança com fratura de crânio, hemorragia intracraniana... pelo histórico parece que caiu do colo, mas será que foi negligência? Será que bateram? Há suspeita fortíssima de violência, de maus tratos.\"\n\n\"O médico pode acionar a polícia? Pode, mas não é obrigatório. O que é obrigatório? NOTIFICAR O CONSELHO TUTELAR. A única opção que tem o Conselho Tutelar é a C. Nessa opção ele também aciona a polícia, registra BO e garante medidas de proteção.\"\n\n\"Entenderam a diferença? Eu posso acionar a polícia, mas não é obrigatório. O que é obrigatório? Conselho Tutelar. Letra C.\""
     },
     {
       "id": "TEP2025-Q39",
@@ -3465,13 +3465,13 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "Extraído de ca4bbbac.md (TEP 2025 — Apostila Completa enviada pelo usuário). Requer validação 2026 em fonte oficial/institucional.",
-      "explanation": "\"Caiu uma questão muito parecida no ano passado. O segredo é: higiene do sono. As crianças mamam, você coloca para dormir, e com alguns meses elas têm muitas horas de sono à noite. Mas ocasionalmente a criança simplesmente não dorme — acorda com muita frequência.\"\n\n\"Cada pessoa tem uma maneira própria de dormir. Aquilo que você habituou seu filho, como dar o mamá para ele dormir, se a criança acordar de noite ela tem que voltar a fazer aquele gatilho do sono — adormecer mamando. Isso vai criando um problema para a família, extremamente cansativo.\"\n\n\"O segredo é parar de dar o peito para essas crianças com dificuldade intensa de dormir e colocá-la no berço ANTES dela dormir, para que ela aprenda um passo a passo para dormir próprio que não dependa do aleitamento.\"\n\n\"O fator perpetuador é adormecer mamando — ela sempre volta nisso. Você tem que ir aos poucos tirando esse hábito. Isso é um dos detalhes da técnica de Ferber.\"",
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": false,
       "source": "TEP 2025 apostila/JSON saneado",
       "source_type": "apostila_comentada_saneada",
-      "type": "objetiva"
+      "type": "objetiva",
+      "commentary": "\"Caiu uma questão muito parecida no ano passado. O segredo é: higiene do sono. As crianças mamam, você coloca para dormir, e com alguns meses elas têm muitas horas de sono à noite. Mas ocasionalmente a criança simplesmente não dorme — acorda com muita frequência.\"\n\n\"Cada pessoa tem uma maneira própria de dormir. Aquilo que você habituou seu filho, como dar o mamá para ele dormir, se a criança acordar de noite ela tem que voltar a fazer aquele gatilho do sono — adormecer mamando. Isso vai criando um problema para a família, extremamente cansativo.\"\n\n\"O segredo é parar de dar o peito para essas crianças com dificuldade intensa de dormir e colocá-la no berço ANTES dela dormir, para que ela aprenda um passo a passo para dormir próprio que não dependa do aleitamento.\"\n\n\"O fator perpetuador é adormecer mamando — ela sempre volta nisso. Você tem que ir aos poucos tirando esse hábito. Isso é um dos detalhes da técnica de Ferber.\""
     },
     {
       "id": "tep_2018_pdf_q01",
@@ -3489,14 +3489,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q02",
@@ -3514,14 +3514,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q03",
@@ -3539,14 +3539,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q04",
@@ -3564,14 +3564,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q05",
@@ -3589,14 +3589,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q06",
@@ -3614,14 +3614,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q07",
@@ -3639,14 +3639,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q08",
@@ -3664,14 +3664,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q09",
@@ -3689,14 +3689,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q10",
@@ -3714,14 +3714,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q11",
@@ -3739,14 +3739,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q12",
@@ -3764,14 +3764,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q13",
@@ -3789,14 +3789,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q14",
@@ -3814,14 +3814,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q15",
@@ -3839,14 +3839,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q16",
@@ -3864,14 +3864,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q17",
@@ -3889,14 +3889,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q18",
@@ -3914,14 +3914,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q19",
@@ -3939,14 +3939,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q20",
@@ -3964,14 +3964,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q21",
@@ -3989,14 +3989,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q22",
@@ -4014,14 +4014,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q23",
@@ -4039,14 +4039,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q24",
@@ -4064,14 +4064,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q25",
@@ -4089,14 +4089,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q26",
@@ -4114,14 +4114,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q27",
@@ -4139,14 +4139,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q28",
@@ -4164,14 +4164,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q29",
@@ -4189,14 +4189,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q30",
@@ -4214,14 +4214,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q31",
@@ -4239,14 +4239,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q32",
@@ -4264,14 +4264,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q33",
@@ -4289,14 +4289,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q34",
@@ -4314,14 +4314,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q35",
@@ -4339,14 +4339,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q36",
@@ -4364,14 +4364,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q37",
@@ -4389,14 +4389,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q38",
@@ -4414,14 +4414,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q39",
@@ -4439,14 +4439,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q40",
@@ -4464,14 +4464,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q41",
@@ -4489,14 +4489,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q42",
@@ -4514,14 +4514,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q43",
@@ -4539,14 +4539,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q44",
@@ -4564,14 +4564,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q45",
@@ -4587,14 +4587,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "incompleta/revisar"
+      "extraction_quality": "incompleta/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q46",
@@ -4612,14 +4612,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2018_pdf_q47",
@@ -4636,14 +4636,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "incompleta/revisar"
+      "extraction_quality": "incompleta/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q01",
@@ -4661,14 +4661,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q02",
@@ -4686,14 +4686,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q03",
@@ -4711,14 +4711,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q04",
@@ -4736,14 +4736,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q05",
@@ -4761,14 +4761,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q06",
@@ -4786,14 +4786,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q07",
@@ -4811,14 +4811,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q08",
@@ -4836,14 +4836,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q09",
@@ -4861,14 +4861,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q10",
@@ -4886,14 +4886,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q11",
@@ -4911,14 +4911,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q12",
@@ -4936,14 +4936,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q13",
@@ -4961,14 +4961,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q14",
@@ -4986,14 +4986,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q15",
@@ -5011,14 +5011,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q16",
@@ -5036,14 +5036,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q17",
@@ -5061,14 +5061,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q18",
@@ -5086,14 +5086,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q19",
@@ -5111,14 +5111,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q20",
@@ -5136,14 +5136,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q21",
@@ -5161,14 +5161,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q22",
@@ -5186,14 +5186,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q23",
@@ -5211,14 +5211,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q24",
@@ -5236,14 +5236,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q25",
@@ -5261,14 +5261,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q26",
@@ -5286,14 +5286,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q27",
@@ -5311,14 +5311,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q28",
@@ -5336,14 +5336,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q29",
@@ -5361,14 +5361,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q30",
@@ -5386,14 +5386,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q31",
@@ -5411,14 +5411,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q32",
@@ -5436,14 +5436,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q33",
@@ -5461,14 +5461,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q34",
@@ -5486,14 +5486,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q35",
@@ -5511,14 +5511,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q36",
@@ -5536,14 +5536,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q37",
@@ -5561,14 +5561,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q38",
@@ -5586,14 +5586,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q39",
@@ -5611,14 +5611,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q40",
@@ -5636,14 +5636,14 @@
       "difficulty": "dificil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q41",
@@ -5661,14 +5661,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q42",
@@ -5686,14 +5686,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q43",
@@ -5711,14 +5711,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q44",
@@ -5736,14 +5736,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q45",
@@ -5761,14 +5761,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q46",
@@ -5786,14 +5786,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q47",
@@ -5810,14 +5810,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "incompleta/revisar"
+      "extraction_quality": "incompleta/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q48",
@@ -5835,14 +5835,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q49",
@@ -5860,14 +5860,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "automatica/revisar"
+      "extraction_quality": "automatica/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2019_pdf_q50",
@@ -5884,14 +5884,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
-      "explanation": "",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
       "source_type": "pdf_comentado_extraido",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "incompleta/revisar"
+      "extraction_quality": "incompleta/revisar",
+      "commentary": ""
     },
     {
       "id": "tep_2021_q01",
@@ -5909,14 +5909,14 @@
       "difficulty": "media",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "A doença de Legg-Calvé-Perthes é uma osteonecrose da epífise proximal do fêmur. É mais comum em meninos de 4-8 anos. A radiografia mostra achatamento e fragmentação da epífise. O prognóstico é melhor em crianças mais jovens (<6 anos) com menos comprometimento da epífise. A ressonância magnética é sensível mas a radiografia é o exame inicial. O tratamento pode ser clínico (restrição de atividades, fisioterapia) ou cirúrgico (osteotomia) dependendo da idade e gravidade.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "A doença de Legg-Calvé-Perthes é uma osteonecrose da epífise proximal do fêmur. É mais comum em meninos de 4-8 anos. A radiografia mostra achatamento e fragmentação da epífise. O prognóstico é melhor em crianças mais jovens (<6 anos) com menos comprometimento da epífise. A ressonância magnética é sensível mas a radiografia é o exame inicial. O tratamento pode ser clínico (restrição de atividades, fisioterapia) ou cirúrgico (osteotomia) dependendo da idade e gravidade."
     },
     {
       "id": "tep_2021_q02",
@@ -5934,14 +5934,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "O acidente ofídico botrópico pode causar arritmias cardíacas devido à ação das enzimas do veneno sobre o miocárdio e aos distúrbios hidroeletrolíticos. A arritmia ventricular no contexto de acidente ofídico é tratada com antiarrítmicos — amiodarona é a escolha para arritmias ventriculares estáveis. Desfibrilação é para fibrilação ventricular sem pulso. Dobutamina é inotrópico, não antiarrítmico.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "O acidente ofídico botrópico pode causar arritmias cardíacas devido à ação das enzimas do veneno sobre o miocárdio e aos distúrbios hidroeletrolíticos. A arritmia ventricular no contexto de acidente ofídico é tratada com antiarrítmicos — amiodarona é a escolha para arritmias ventriculares estáveis. Desfibrilação é para fibrilação ventricular sem pulso. Dobutamina é inotrópico, não antiarrítmico."
     },
     {
       "id": "tep_2021_q03",
@@ -5959,14 +5959,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "A história de sangue nas fezes em lactente com aleitamento materno exclusivo pode ser confundida com fissura anal. Porém, a presença de muco, aumento do número de evacuações e história familiar de atopia (asma em pai e irmão) sugerem alergia à proteína do leite de vaca (APLV) por via materna — a proteína do leite de vaca ingerida pela mãe passa para o leite materno e sensibiliza o lactente. A fissura anal causa sangue em traço nas fezes, não muco nem aumento de frequência.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "A história de sangue nas fezes em lactente com aleitamento materno exclusivo pode ser confundida com fissura anal. Porém, a presença de muco, aumento do número de evacuações e história familiar de atopia (asma em pai e irmão) sugerem alergia à proteína do leite de vaca (APLV) por via materna — a proteína do leite de vaca ingerida pela mãe passa para o leite materno e sensibiliza o lactente. A fissura anal causa sangue em traço nas fezes, não muco nem aumento de frequência."
     },
     {
       "id": "tep_2021_q04",
@@ -5984,14 +5984,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Quadro de miocardite/insuficiência cardíaca com choque cardiogênico em lactente. FC 220 (taquicardia extremamente), enchimento capilar prolongado, pulsos filiformes, bulhas hipofonéticas. O tratamento é dobutamina — inotrópico positivo que aumenta a contratilidade miocárdica e o débito cardíaco. Amiodarona é para arritmias, não para choque cardiogênico sem arritmia.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Quadro de miocardite/insuficiência cardíaca com choque cardiogênico em lactente. FC 220 (taquicardia extremamente), enchimento capilar prolongado, pulsos filiformes, bulhas hipofonéticas. O tratamento é dobutamina — inotrópico positivo que aumenta a contratilidade miocárdica e o débito cardíaco. Amiodarona é para arritmias, não para choque cardiogênico sem arritmia."
     },
     {
       "id": "tep_2021_q05",
@@ -6009,14 +6009,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "A SBP recomenda a vacinação contra COVID-19 para crianças e adolescentes conforme calendário do PNI. As vacinas de RNAm (Pfizer) e inativada (Coronavac) são seguras e eficazes nas faixas etárias aprovadas. Vacinas de vetor viral (AstraZeneca) não são recomendadas para <18 anos. Imunocomprometidos podem e devem receber vacinas de RNAm.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "A SBP recomenda a vacinação contra COVID-19 para crianças e adolescentes conforme calendário do PNI. As vacinas de RNAm (Pfizer) e inativada (Coronavac) são seguras e eficazes nas faixas etárias aprovadas. Vacinas de vetor viral (AstraZeneca) não são recomendadas para <18 anos. Imunocomprometidos podem e devem receber vacinas de RNAm."
     },
     {
       "id": "tep_2021_q06",
@@ -6034,14 +6034,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Tumor de Wilms (nefroblastoma) é a neoplasia renal mais comum em crianças, com pico de incidência entre 2-5 anos. Pode ser associado a síndromes genéticas (hipospadia é uma anomalia associada). A massa abdominal no flanco, firme, indolor, que não cruza a linha média é característica.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Tumor de Wilms (nefroblastoma) é a neoplasia renal mais comum em crianças, com pico de incidência entre 2-5 anos. Pode ser associado a síndromes genéticas (hipospadia é uma anomalia associada). A massa abdominal no flanco, firme, indolor, que não cruza a linha média é característica."
     },
     {
       "id": "tep_2021_q07",
@@ -6059,14 +6059,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "A transmissão vertical da hepatite B é prevenida com a administração simultânea da vacina (primeira dose) e da imunoglobulina anti-HBs (HBIG) nas primeiras 12 horas de vida. O aleitamento materno NÃO é contraindicado — desde que a criança receba a profilaxia adequada.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "A transmissão vertical da hepatite B é prevenida com a administração simultânea da vacina (primeira dose) e da imunoglobulina anti-HBs (HBIG) nas primeiras 12 horas de vida. O aleitamento materno NÃO é contraindicado — desde que a criança receba a profilaxia adequada."
     },
     {
       "id": "tep_2021_q08",
@@ -6084,14 +6084,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "A pesquisa em crianças requer: (1) consentimento livre e esclarecido dos responsáveis legais; (2) assentimento da criança/adolescente, na medida de sua compreensão (a partir de 7 anos); (3) comitê de ética; (4) benefício potencial; (5) risco mínimo.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "A pesquisa em crianças requer: (1) consentimento livre e esclarecido dos responsáveis legais; (2) assentimento da criança/adolescente, na medida de sua compreensão (a partir de 7 anos); (3) comitê de ética; (4) benefício potencial; (5) risco mínimo."
     },
     {
       "id": "tep_2021_q09",
@@ -6109,14 +6109,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Na fase terminal da fibrose cística, o manejo da dispneia aguda inclui: tratamento da causa (antibióticos), suporte ventilatório (VNI), fisioterapia respiratória e opioides (morfina) para alívio da dispneia refratária.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Na fase terminal da fibrose cística, o manejo da dispneia aguda inclui: tratamento da causa (antibióticos), suporte ventilatório (VNI), fisioterapia respiratória e opioides (morfina) para alívio da dispneia refratária."
     },
     {
       "id": "tep_2021_q10",
@@ -6134,14 +6134,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "OMS 2006/2007: <-3 DP = desnutrição grave; -3 a -2 DP = desnutrição moderada; -2 a +1 DP = eutrofia; >+1 a +2 DP = risco de sobrepeso; >+2 a +3 DP = sobrepeso; >+3 DP = obesidade.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "OMS 2006/2007: <-3 DP = desnutrição grave; -3 a -2 DP = desnutrição moderada; -2 a +1 DP = eutrofia; >+1 a +2 DP = risco de sobrepeso; >+2 a +3 DP = sobrepeso; >+3 DP = obesidade."
     },
     {
       "id": "tep_2021_q11",
@@ -6159,14 +6159,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "A introdução alimentar deve ocorrer aos 6 meses completos de vida (OMS/SBP). Antes dos 6 meses, não é necessária e pode aumentar o risco de alergias e infecções.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "A introdução alimentar deve ocorrer aos 6 meses completos de vida (OMS/SBP). Antes dos 6 meses, não é necessária e pode aumentar o risco de alergias e infecções."
     },
     {
       "id": "tep_2021_q12",
@@ -6184,14 +6184,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "O RN é caso suspeito (não confirmado nem descartado) porque é assintomático. A investigação inicial inclui: sorologia (IgM e IgA), fundo de olho, USG transfontanelar, hemograma, função hepática.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "O RN é caso suspeito (não confirmado nem descartado) porque é assintomático. A investigação inicial inclui: sorologia (IgM e IgA), fundo de olho, USG transfontanelar, hemograma, função hepática."
     },
     {
       "id": "tep_2021_q13",
@@ -6209,14 +6209,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "RN a termo, AME, COM fator de risco (pré-natal inadequado = 2 consultas) — ferro aos 3 meses. Dose: 1 mg/kg/dia de ferro elementar (máximo 15 mg/dia), até os 2 anos.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "RN a termo, AME, COM fator de risco (pré-natal inadequado = 2 consultas) — ferro aos 3 meses. Dose: 1 mg/kg/dia de ferro elementar (máximo 15 mg/dia), até os 2 anos."
     },
     {
       "id": "tep_2021_q14",
@@ -6234,14 +6234,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Sulfonilureia é hipoglicemiante oral. Intoxicação em crianças causa hipoglicemia grave, letargia, sudorese, taquicardia. Hemoglicoteste \"normal\" pode ser falso negativo.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Sulfonilureia é hipoglicemiante oral. Intoxicação em crianças causa hipoglicemia grave, letargia, sudorese, taquicardia. Hemoglicoteste \"normal\" pode ser falso negativo."
     },
     {
       "id": "tep_2021_q15",
@@ -6259,14 +6259,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Guia de Avaliação do Estado Nutricional em Crianças Hospitalizadas (SBP): peso diário, estatura e perímetro cefálico semanalmente.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Guia de Avaliação do Estado Nutricional em Crianças Hospitalizadas (SBP): peso diário, estatura e perímetro cefálico semanalmente."
     },
     {
       "id": "tep_2021_q16",
@@ -6284,14 +6284,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Indicação de neuroimagem na cefaleia pediátrica depende de sinais de alarme: alteração no exame neurológico, cefaleia de início súbito, piora progressiva, sinais de hipertensão intracraniana, convulsões, déficit focal.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Indicação de neuroimagem na cefaleia pediátrica depende de sinais de alarme: alteração no exame neurológico, cefaleia de início súbito, piora progressiva, sinais de hipertensão intracraniana, convulsões, déficit focal."
     },
     {
       "id": "tep_2021_q17",
@@ -6309,14 +6309,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "O paciente (ou responsável) tem direito de decidir pelo tratamento e pela alta. A equipe deve aceitar, documentar que é contra o parecer médico, fornecer todas as orientações e agendar retorno.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "O paciente (ou responsável) tem direito de decidir pelo tratamento e pela alta. A equipe deve aceitar, documentar que é contra o parecer médico, fornecer todas as orientações e agendar retorno."
     },
     {
       "id": "tep_2021_q18",
@@ -6334,34 +6334,39 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Critérios MENORES: poliartralgia (não poliartrite), febre, VHS/PCR elevados, prolongamento do PR. A poliartrite (artrite inflamatória em >1 articulação) é critério MAIOR.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Critérios MENORES: poliartralgia (não poliartrite), febre, VHS/PCR elevados, prolongamento do PR. A poliartrite (artrite inflamatória em >1 articulação) é critério MAIOR."
     },
     {
       "id": "tep_2021_q19",
       "number": 19,
       "statement": "Pré-escolar sozinho com medicamentos abertos. Pálido, letárgico. Bradicardia sinusal. Hemoglicoteste normal. Medicamentos: paracetamol, BCC, camomila, sulfonilureia.",
-      "choices": {},
-      "correct_answer": "",
+      "choices": {
+        "A": "Paracetamol",
+        "B": "Bloqueador de canais de cálcio",
+        "C": "Camomila",
+        "D": "Sulfonilureia"
+      },
+      "correct_answer": "D",
       "theme": "Pediatria Geral",
       "subtheme": "Intoxicação",
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Mesmo raciocínio do item 14.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "sem alternativas estruturadas/revisar"
+      "extraction_quality": "sem alternativas estruturadas/revisar",
+      "commentary": "Mesmo raciocínio do item 14."
     },
     {
       "id": "tep_2021_q20",
@@ -6379,14 +6384,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "O pediatra orienta sobre fatores de risco que podem afetar o RN. Não prescreve para a gestante — função do obstetra.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "O pediatra orienta sobre fatores de risco que podem afetar o RN. Não prescreve para a gestante — função do obstetra."
     },
     {
       "id": "tep_2021_q21",
@@ -6404,14 +6409,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Calendário adolescente: HPV (2 doses se <15 anos), meningite ACWY (1 dose), febre amarela (1 dose se não vacinado), dupla adulto (dT a cada 10 anos). Tríplice viral deve ter sido recebida na infância.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Calendário adolescente: HPV (2 doses se <15 anos), meningite ACWY (1 dose), febre amarela (1 dose se não vacinado), dupla adulto (dT a cada 10 anos). Tríplice viral deve ter sido recebida na infância."
     },
     {
       "id": "tep_2021_q22",
@@ -6429,14 +6434,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Icterícia com bilirrubina direta elevada + fezes claras + urina escura = colestase. Principal hipótese: atresia de vias biliares extra-hepáticas. Exame de primeira escolha: ultrassonografia abdominal — avalia vesícula biliar e ductos biliares.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Icterícia com bilirrubina direta elevada + fezes claras + urina escura = colestase. Principal hipótese: atresia de vias biliares extra-hepáticas. Exame de primeira escolha: ultrassonografia abdominal — avalia vesícula biliar e ductos biliares."
     },
     {
       "id": "tep_2021_q23",
@@ -6454,14 +6459,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "RN com depressão neonatal que respondeu à reanimação. Encaminhar para UTI neonatal para observação contínua e monitorização. Hipotermia terapêutica é para encefalopatia hipóxico-isquêmica com critérios específicos.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "RN com depressão neonatal que respondeu à reanimação. Encaminhar para UTI neonatal para observação contínua e monitorização. Hipotermia terapêutica é para encefalopatia hipóxico-isquêmica com critérios específicos."
     },
     {
       "id": "tep_2021_q24",
@@ -6479,14 +6484,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Prevenção de acidentes em crianças com síndrome de Down requer avaliação individualizada. Andadores são desaconselhados (risco de quedas). Boias de braço não são recomendadas. Alimentos de risco de engasgamento são contraindicados até os 3 anos.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Prevenção de acidentes em crianças com síndrome de Down requer avaliação individualizada. Andadores são desaconselhados (risco de quedas). Boias de braço não são recomendadas. Alimentos de risco de engasgamento são contraindicados até os 3 anos."
     },
     {
       "id": "tep_2021_q25",
@@ -6504,14 +6509,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Linfopenia de T e B sugere SCID (Severe Combined Immunodeficiency). Vacinas vivas atenuadas (BCG, tríplice viral, varicela, febre amarela) são ABSOLUTAMENTE CONTRAINDICADAS. Vacinas inativadas podem ser administradas.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Linfopenia de T e B sugere SCID (Severe Combined Immunodeficiency). Vacinas vivas atenuadas (BCG, tríplice viral, varicela, febre amarela) são ABSOLUTAMENTE CONTRAINDICADAS. Vacinas inativadas podem ser administradas."
     },
     {
       "id": "tep_2021_q26",
@@ -6529,14 +6534,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "A humilhação, ridicularização e discriminação da criança configuram abuso psicológico — maus tratos, conforme o ECA. A intenção dos pais não justifica o meio.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "A humilhação, ridicularização e discriminação da criança configuram abuso psicológico — maus tratos, conforme o ECA. A intenção dos pais não justifica o meio."
     },
     {
       "id": "tep_2021_q27",
@@ -6554,14 +6559,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Sífilis congênita precoce: (1) anemia hemolítica/icterícia direta; (2) hepatoesplenomegalia; (3) lesões cutâneas (condiloma lato/plantas/palmas). Pseudo-paralisia de Parrot (dor à movimentação por osteocondrite).",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Sífilis congênita precoce: (1) anemia hemolítica/icterícia direta; (2) hepatoesplenomegalia; (3) lesões cutâneas (condiloma lato/plantas/palmas). Pseudo-paralisia de Parrot (dor à movimentação por osteocondrite)."
     },
     {
       "id": "tep_2021_q28",
@@ -6579,14 +6584,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Sopro de Still: sistólico curto suave (≤2/6), axila esquerda/dorso, sem sinais sistêmicos. Não é urgente. Sopros diastólicos, >3/6, com sinais de IC requerem investigação imediata.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Sopro de Still: sistólico curto suave (≤2/6), axila esquerda/dorso, sem sinais sistêmicos. Não é urgente. Sopros diastólicos, >3/6, com sinais de IC requerem investigação imediata."
     },
     {
       "id": "tep_2021_q29",
@@ -6604,14 +6609,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Cardiopatia cianótica ductal dependente (provavelmente transposição das grandes artérias). Prostaglandina E1 mantém o ducto arterioso patente, permitindo mistura de sangue sistêmico e pulmonar.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Cardiopatia cianótica ductal dependente (provavelmente transposição das grandes artérias). Prostaglandina E1 mantém o ducto arterioso patente, permitindo mistura de sangue sistêmico e pulmonar."
     },
     {
       "id": "tep_2021_q30",
@@ -6629,14 +6634,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "DMD: mutação no gene da distrofina (Xp21). Apenas meninos, pseudo-hipertrofia de panturrilhas, sinal de Gowers, marcha anserina. CK muito elevada. Perda de marcha entre 8-12 anos.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "DMD: mutação no gene da distrofina (Xp21). Apenas meninos, pseudo-hipertrofia de panturrilhas, sinal de Gowers, marcha anserina. CK muito elevada. Perda de marcha entre 8-12 anos."
     },
     {
       "id": "tep_2021_q31",
@@ -6654,14 +6659,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Leite de prematuro: maior relação whey/caseína (70:30), maior lactoferrina, maior IgA secretora, maior DHA/ARA. Favorece maturidade intestinal, absorção e proteção imunológica.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Leite de prematuro: maior relação whey/caseína (70:30), maior lactoferrina, maior IgA secretora, maior DHA/ARA. Favorece maturidade intestinal, absorção e proteção imunológica."
     },
     {
       "id": "tep_2021_q32",
@@ -6679,14 +6684,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Contraindicações absolutas para dieta enteral: choque refratário com doses crescentes de drogas vasoativas, isquemia mesentérica, obstrução intestinal, ileo paralítico grave, hemorragia digestiva ativa.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Contraindicações absolutas para dieta enteral: choque refratário com doses crescentes de drogas vasoativas, isquemia mesentérica, obstrução intestinal, ileo paralítico grave, hemorragia digestiva ativa."
     },
     {
       "id": "tep_2021_q33",
@@ -6704,14 +6709,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Tetralogia de Fallot com \"tet spell\" (crise hipóxica). Metoprolol/propranolol relaxa o infundíbul. Furosemida reduz pré-carga (prejudicial). Posição de cócoras, oxigênio, fluidos IV, morfina também úteis.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Tetralogia de Fallot com \"tet spell\" (crise hipóxica). Metoprolol/propranolol relaxa o infundíbul. Furosemida reduz pré-carga (prejudicial). Posição de cócoras, oxigênio, fluidos IV, morfina também úteis."
     },
     {
       "id": "tep_2021_q34",
@@ -6729,14 +6734,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Anemia ferropriva é a causa mais comum. Fatores de risco: desmame precoce, baixo peso ao nascer. É hipocrômica microcítica. Esferocitose causa anemia hemolítica com esplenomegalia.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Anemia ferropriva é a causa mais comum. Fatores de risco: desmame precoce, baixo peso ao nascer. É hipocrômica microcítica. Esferocitose causa anemia hemolítica com esplenomegalia."
     },
     {
       "id": "tep_2021_q35",
@@ -6754,14 +6759,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Manejo da febre aguda (SBP): antitérmico quando a criança está incomodada (mal estar, irritabilidade), não apenas pela temperatura. Não fazer banho frio. Não intercalar antitérmicos (risco de overdose).",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Manejo da febre aguda (SBP): antitérmico quando a criança está incomodada (mal estar, irritabilidade), não apenas pela temperatura. Não fazer banho frio. Não intercalar antitérmicos (risco de overdose)."
     },
     {
       "id": "tep_2021_q36",
@@ -6779,14 +6784,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Dilatação pielocalicial bilateral com diâmetro >10 mm e piora progressiva sugere uropatia obstrutiva. Conduta: investigar ao nascimento com USG renal e encaminhar para urologia.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Dilatação pielocalicial bilateral com diâmetro >10 mm e piora progressiva sugere uropatia obstrutiva. Conduta: investigar ao nascimento com USG renal e encaminhar para urologia."
     },
     {
       "id": "tep_2021_q37",
@@ -6804,14 +6809,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Recomendações BLH: higienização, eliminação dos primeiros jatos, frascos esterilizados, congelamento horizontal por até 15 dias, transporte em isopor com gelo.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Recomendações BLH: higienização, eliminação dos primeiros jatos, frascos esterilizados, congelamento horizontal por até 15 dias, transporte em isopor com gelo."
     },
     {
       "id": "tep_2021_q38",
@@ -6829,14 +6834,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Grooming é o processo de aproximação e sedução de crianças pela internet com objetivo de obter imagens ou estabelecer encontros para abuso sexual. Sextorção é extorsão com ameaça de divulgar imagens. Sexting é envio voluntário.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Grooming é o processo de aproximação e sedução de crianças pela internet com objetivo de obter imagens ou estabelecer encontros para abuso sexual. Sextorção é extorsão com ameaça de divulgar imagens. Sexting é envio voluntário."
     },
     {
       "id": "tep_2021_q39",
@@ -6854,14 +6859,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Esofagite eosinofílica: disfagia para sólidos (principalmente), impactação alimentar, associação com atopia. Diagnóstico: endoscopia com biópsia (>15 eos/CH). Tratamento: dieta de eliminação, corticoide tópico.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Esofagite eosinofílica: disfagia para sólidos (principalmente), impactação alimentar, associação com atopia. Diagnóstico: endoscopia com biópsia (>15 eos/CH). Tratamento: dieta de eliminação, corticoide tópico."
     },
     {
       "id": "tep_2021_q40",
@@ -6879,14 +6884,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "SIM-P (MIS-C): pós-COVID-19 (2-6 semanas), febre persistente, sinais sistêmicos de inflamação, disfunção de ≥2 órgãos (GI, cardiovascular, dermatológica). Tratamento: imunoglobulina IV + corticoide.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "SIM-P (MIS-C): pós-COVID-19 (2-6 semanas), febre persistente, sinais sistêmicos de inflamação, disfunção de ≥2 órgãos (GI, cardiovascular, dermatológica). Tratamento: imunoglobulina IV + corticoide."
     },
     {
       "id": "tep_2021_q41",
@@ -6904,14 +6909,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "O atestado deve refletir a realidade clínica. O médico NÃO pode fornecer atestado retroativo para doença que não avaliou.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "O atestado deve refletir a realidade clínica. O médico NÃO pode fornecer atestado retroativo para doença que não avaliou."
     },
     {
       "id": "tep_2021_q42",
@@ -6929,14 +6934,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "A menarca ocorre geralmente entre M3 e M4 (Tanner), na fase de desaceleração do crescimento, após o pico de velocidade. Idade média no Brasil: 11,5-12 anos.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "A menarca ocorre geralmente entre M3 e M4 (Tanner), na fase de desaceleração do crescimento, após o pico de velocidade. Idade média no Brasil: 11,5-12 anos."
     },
     {
       "id": "tep_2021_q43",
@@ -6954,14 +6959,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "ALERTA = não alcança marco em até 2 meses após idade esperada. Conduta: orientar estimulação, retornar em 30 dias. ATRASO = não alcança mesmo após estimulação → encaminhamento imediato.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "ALERTA = não alcança marco em até 2 meses após idade esperada. Conduta: orientar estimulação, retornar em 30 dias. ATRASO = não alcança mesmo após estimulação → encaminhamento imediato."
     },
     {
       "id": "tep_2021_q44",
@@ -6979,14 +6984,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Larva migrans cutânea (\"bicho-geográfico\"): causada por Ancylostoma caninum/braziliense. Tratamento: albendazol 400 mg/dia por 3-5 dias ou ivermectina 200 mcg/kg dose única.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Larva migrans cutânea (\"bicho-geográfico\"): causada por Ancylostoma caninum/braziliense. Tratamento: albendazol 400 mg/dia por 3-5 dias ou ivermectina 200 mcg/kg dose única."
     },
     {
       "id": "tep_2021_q45",
@@ -7004,14 +7009,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Hipodermóclise: infusão subcutânea para hidratação em cuidados paliativos. Vantagens: menor desconforto, múltiplos sítios, troca semanal. Contraindicada em desidratação grave e falência circulatória.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Hipodermóclise: infusão subcutânea para hidratação em cuidados paliativos. Vantagens: menor desconforto, múltiplos sítios, troca semanal. Contraindicada em desidratação grave e falência circulatória."
     },
     {
       "id": "tep_2021_q46",
@@ -7029,14 +7034,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "LMC: leucocitose massiva com todos os estágios de maturação, basofilia, eosinofilia, anemia discreta, plaquetas normais/elevadas. Cromossomo Filadélfia (BCR-ABL1). Tratamento: inibidores de tirosina quinase.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "LMC: leucocitose massiva com todos os estágios de maturação, basofilia, eosinofilia, anemia discreta, plaquetas normais/elevadas. Cromossomo Filadélfia (BCR-ABL1). Tratamento: inibidores de tirosina quinase."
     },
     {
       "id": "tep_2021_q47",
@@ -7054,14 +7059,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Dermatite atópica em lactentes: face (sinal da salvação), extensores. Tratamento: emolientes + hidrocortisona 1% (baixa potência). Clobetasol é alta potência — reservado para áreas espessas, nunca face de lactente.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Dermatite atópica em lactentes: face (sinal da salvação), extensores. Tratamento: emolientes + hidrocortisona 1% (baixa potência). Clobetasol é alta potência — reservado para áreas espessas, nunca face de lactente."
     },
     {
       "id": "tep_2021_q48",
@@ -7079,14 +7084,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Adolescente ≥12 anos tem direito ao atendimento confidencial (ECA art. 14). Deve-se prescrever, orientar dupla proteção (condom + hormonal), manter sigilo.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Adolescente ≥12 anos tem direito ao atendimento confidencial (ECA art. 14). Deve-se prescrever, orientar dupla proteção (condom + hormonal), manter sigilo."
     },
     {
       "id": "tep_2021_q49",
@@ -7104,14 +7109,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "TTRN: atraso na reabsorção do líquido fetal. Fatores de risco: cesárea, prematuridade. RX: congestão peri-hilar, cardiomegalia, líquido nas fissuras. Melhora em 24-72h.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "TTRN: atraso na reabsorção do líquido fetal. Fatores de risco: cesárea, prematuridade. RX: congestão peri-hilar, cardiomegalia, líquido nas fissuras. Melhora em 24-72h."
     },
     {
       "id": "tep_2021_q50",
@@ -7129,14 +7134,14 @@
       "difficulty": "facil",
       "status_2026": "revisar",
       "source_validation": "TEP 2021 apostila definitiva enviada pelo usuário; pendente validação 2026",
-      "explanation": "Fissura labial unilateral SEM palatosquize NÃO impede o aleitamento materno. Estimular amamentação imediata, encaminhar para queilorrafia (3-6 meses) e fonoaudiologia.",
       "origin_file": "3f7b3879.txt",
       "year": 2021,
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "objetiva",
       "requires_2026_review": true,
-      "extraction_quality": "estruturada"
+      "extraction_quality": "estruturada",
+      "commentary": "Fissura labial unilateral SEM palatosquize NÃO impede o aleitamento materno. Estimular amamentação imediata, encaminhar para queilorrafia (3-6 meses) e fonoaudiologia."
     }
   ],
   "v7_update": {
