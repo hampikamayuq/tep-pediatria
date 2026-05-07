@@ -1,0 +1,749 @@
+{
+  "source": "Rubricas discursivas total v8",
+  "type": "rubricas_discursivas",
+  "note": "Rubricas oficiais não anexadas. Algumas entradas de 2021 contêm respostas esperadas didáticas, não critérios oficiais.",
+  "rubrics": [
+    {
+      "case_id": "TEP2021-D01-APOSTILA",
+      "rubric_id": "rubrica_TEP2021-D01-APOSTILA",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [
+        {
+          "item": "Principal hipótese diagnóstica?",
+          "expected_answer": "Intolerância à lactose secundária.",
+          "points": null
+        },
+        {
+          "item": "Método não invasivo para confirmação?",
+          "expected_answer": "Teste H2 respiratório (2g/kg até 25g).",
+          "points": null
+        },
+        {
+          "item": "Há necessidade de testes diagnósticos? Justifique.",
+          "expected_answer": "Não são obrigatórios. Mudanças na dieta que reduzem/eliminem lactose aliviam os sintomas.",
+          "points": null
+        }
+      ],
+      "ideal_answer": "Intolerância à lactose secundária.; Teste H2 respiratório (2g/kg até 25g).; Não são obrigatórios. Mudanças na dieta que reduzem/eliminem lactose aliviam os sintomas.",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2021-D02-APOSTILA",
+      "rubric_id": "rubrica_TEP2021-D02-APOSTILA",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [
+        {
+          "item": "Hipótese diagnóstica?",
+          "expected_answer": "Glomerulonefrite pós-estreptocócica (GNDA).",
+          "points": null
+        },
+        {
+          "item": "Dois exames laboratoriais específicos?",
+          "expected_answer": "C3 diminuído, CH50 diminuído.",
+          "points": null
+        },
+        {
+          "item": "Próximo passo?",
+          "expected_answer": "Biópsia renal.",
+          "points": null
+        }
+      ],
+      "ideal_answer": "Glomerulonefrite pós-estreptocócica (GNDA).; C3 diminuído, CH50 diminuído.; Biópsia renal.",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2021-D03-APOSTILA",
+      "rubric_id": "rubrica_TEP2021-D03-APOSTILA",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [
+        {
+          "item": "Retorno seguro às atividades físicas recreativas?",
+          "expected_answer": "Liberar 10 dias após PCR positivo, sem exames complementares.",
+          "points": null
+        },
+        {
+          "item": "Se sintomas moderados com miocardite, quais exames antes do retorno?",
+          "expected_answer": "ECG 12 derivações, Holter 24h, ecocardiograma, teste ergométrico.",
+          "points": null
+        }
+      ],
+      "ideal_answer": "Liberar 10 dias após PCR positivo, sem exames complementares.; ECG 12 derivações, Holter 24h, ecocardiograma, teste ergométrico.",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2021-D04-APOSTILA",
+      "rubric_id": "rubrica_TEP2021-D04-APOSTILA",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [
+        {
+          "item": "Diagnóstico?",
+          "expected_answer": "Hérnia diafragmática congênita.",
+          "points": null
+        },
+        {
+          "item": "Três medidas de suporte?",
+          "expected_answer": "Ventilação suave (meta SatO2 >85%, hipercapnia permissiva), cateterismo umbilical, sonda gástrica, intubação traqueal, normotermia.",
+          "points": null
+        },
+        {
+          "item": "Procedimento a evitar?",
+          "expected_answer": "Ventilação prolongada com máscara facial.",
+          "points": null
+        }
+      ],
+      "ideal_answer": "Hérnia diafragmática congênita.; Ventilação suave (meta SatO2 >85%, hipercapnia permissiva), cateterismo umbilical, sonda gástrica, intubação traqueal, normotermia.; Ventilação prolongada com máscara facial.",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2021-D05-APOSTILA",
+      "rubric_id": "rubrica_TEP2021-D05-APOSTILA",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [
+        {
+          "item": "Como cursa o aumento das cadeias?",
+          "expected_answer": "Subagudo, indolor, assimétrico.",
+          "points": null
+        },
+        {
+          "item": "Cadeias principalmente acometidas?",
+          "expected_answer": "Cervicais anterior e posterior, supraclavicular.",
+          "points": null
+        },
+        {
+          "item": "Evolução dos gânglios?",
+          "expected_answer": "Flutuação e fistulização espontânea.",
+          "points": null
+        },
+        {
+          "item": "Dois diagnósticos diferenciais?",
+          "expected_answer": "Linfoma, bartonelose, toxoplasmose, sarcoidose, infecções por micobactérias atípicas.",
+          "points": null
+        }
+      ],
+      "ideal_answer": "Subagudo, indolor, assimétrico.; Cervicais anterior e posterior, supraclavicular.; Flutuação e fistulização espontânea.; Linfoma, bartonelose, toxoplasmose, sarcoidose, infecções por micobactérias atípicas.",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2023-D01",
+      "rubric_id": "rubrica_TEP2023-D01",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2023-D02",
+      "rubric_id": "rubrica_TEP2023-D02",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2023-D03",
+      "rubric_id": "rubrica_TEP2023-D03",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2023-D04",
+      "rubric_id": "rubrica_TEP2023-D04",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2023-D05",
+      "rubric_id": "rubrica_TEP2023-D05",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2023-D06",
+      "rubric_id": "rubrica_TEP2023-D06",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2023-D07",
+      "rubric_id": "rubrica_TEP2023-D07",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2023-D08",
+      "rubric_id": "rubrica_TEP2023-D08",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2023-D09",
+      "rubric_id": "rubrica_TEP2023-D09",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2023-D10",
+      "rubric_id": "rubrica_TEP2023-D10",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2023-D11",
+      "rubric_id": "rubrica_TEP2023-D11",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2023-D12",
+      "rubric_id": "rubrica_TEP2023-D12",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2023-D13",
+      "rubric_id": "rubrica_TEP2023-D13",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2022-D01",
+      "rubric_id": "rubrica_TEP2022-D01",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2022-D02",
+      "rubric_id": "rubrica_TEP2022-D02",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2022-D03",
+      "rubric_id": "rubrica_TEP2022-D03",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2022-D04",
+      "rubric_id": "rubrica_TEP2022-D04",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2022-D05",
+      "rubric_id": "rubrica_TEP2022-D05",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2022-D06",
+      "rubric_id": "rubrica_TEP2022-D06",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2022-D07",
+      "rubric_id": "rubrica_TEP2022-D07",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2022-D08",
+      "rubric_id": "rubrica_TEP2022-D08",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2022-D09",
+      "rubric_id": "rubrica_TEP2022-D09",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2022-D10",
+      "rubric_id": "rubrica_TEP2022-D10",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2022-D11",
+      "rubric_id": "rubrica_TEP2022-D11",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2022-D12",
+      "rubric_id": "rubrica_TEP2022-D12",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2022-D13",
+      "rubric_id": "rubrica_TEP2022-D13",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2022-D14",
+      "rubric_id": "rubrica_TEP2022-D14",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2022-D15",
+      "rubric_id": "rubrica_TEP2022-D15",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2022-D16",
+      "rubric_id": "rubrica_TEP2022-D16",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "R3TEP2018-D01",
+      "rubric_id": "rubrica_R3TEP2018-D01",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "R3TEP2018-D02",
+      "rubric_id": "rubrica_R3TEP2018-D02",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "R3TEP2018-D03",
+      "rubric_id": "rubrica_R3TEP2018-D03",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "R3TEP2018-D04",
+      "rubric_id": "rubrica_R3TEP2018-D04",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "R3TEP2018-D05",
+      "rubric_id": "rubrica_R3TEP2018-D05",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "R3TEP2018-D06",
+      "rubric_id": "rubrica_R3TEP2018-D06",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "R3TEP2018-D07",
+      "rubric_id": "rubrica_R3TEP2018-D07",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "R3TEP2018-D08",
+      "rubric_id": "rubrica_R3TEP2018-D08",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "R3TEP2018-D09",
+      "rubric_id": "rubrica_R3TEP2018-D09",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "R3TEP2018-D10",
+      "rubric_id": "rubrica_R3TEP2018-D10",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "R3TEP2018-D11",
+      "rubric_id": "rubrica_R3TEP2018-D11",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "R3TEP2018-D12",
+      "rubric_id": "rubrica_R3TEP2018-D12",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "R3TEP2018-D13",
+      "rubric_id": "rubrica_R3TEP2018-D13",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "R3TEP2018-D14",
+      "rubric_id": "rubrica_R3TEP2018-D14",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "R3TEP2018-D15",
+      "rubric_id": "rubrica_R3TEP2018-D15",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "R3TEP2018-D16",
+      "rubric_id": "rubrica_R3TEP2018-D16",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2025-D40",
+      "rubric_id": "rubrica_TEP2025-D40",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "Parte 1: Infecção por Bordetella pertussis (coqueluche/pertússis).\nParte 2: Macrolídeo — azitromicina, claritromicina ou eritromicina.",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2025-D41",
+      "rubric_id": "rubrica_TEP2025-D41",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "Parte 1: Dengue com sinais de alarme — classificação Grupo C.\nParte 2: Leptospirose, chikungunya, Zika, outras viroses exantemáticas.",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "APOSTILA2024-D31",
+      "rubric_id": "rubrica_APOSTILA2024-D31",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "Pancreatite aguda.",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "APOSTILA2024-D32",
+      "rubric_id": "rubrica_APOSTILA2024-D32",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "Laparoscopia de urgência para destorção do ovário.",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "APOSTILA2024-D42",
+      "rubric_id": "rubrica_APOSTILA2024-D42",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "Profilaxia pós-exposição ao HIV (PEP) — iniciar o quanto antes (até 72h); anticoncepção de emergência; coleta de sorologias basais (HIV, hepatite B, hepatite C, sífilis); profilaxia para ISTs (ceftriaxona + azitromicina + metronidazol); vacina hepatite B se não vacinada; notificação compulsória; suporte psicossocial e BO.",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "APOSTILA2024-D43",
+      "rubric_id": "rubrica_APOSTILA2024-D43",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "Crise febril simples — manejo conservador, sem EEG, sem neuroimagem, sem tratamento antiepiléptico profilático.",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2024-DISC01",
+      "rubric_id": "rubrica_TEP2024-DISC01",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2024-DISC02",
+      "rubric_id": "rubrica_TEP2024-DISC02",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2024-DISC03",
+      "rubric_id": "rubrica_TEP2024-DISC03",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2024-DISC04",
+      "rubric_id": "rubrica_TEP2024-DISC04",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "TEP2024-DISC05",
+      "rubric_id": "rubrica_TEP2024-DISC05",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "tep_discursiva_2021_caso_01",
+      "rubric_id": "rubrica_tep_discursiva_2021_caso_01",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "Intolerância à lactose secundária. | Teste H2 respiratório (2g/kg até 25g). | Não são obrigatórios. Mudanças na dieta que reduzem ou eliminam a lactose aliviam os sintomas. | Dieta sem lactose, fórmula à base de soja, leite com baixo teor de lactose, adição de lactase.",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "tep_discursiva_2021_caso_02",
+      "rubric_id": "rubrica_tep_discursiva_2021_caso_02",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "Glomerulonefrite pós-estreptocócica (GNDA). | C3 diminuído, CH50 diminuído. | Biópsia renal.",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "tep_discursiva_2021_caso_03",
+      "rubric_id": "rubrica_tep_discursiva_2021_caso_03",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "Nas formas leves liberar 10 dias após o resultado de PCR positivo, sem necessidade de exames complementares. | ECG 12 derivações, Holter 24h, ecocardiograma, teste ergométrico.",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "tep_discursiva_2021_caso_04",
+      "rubric_id": "rubrica_tep_discursiva_2021_caso_04",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "Hérnia diafragmática congênita. | Ventilação suave (meta SatO2 >85%, hipercapnia permissiva), cateterismo umbilical, sonda gástrica, intubação traqueal, normotermia. | Ventilação prolongada com máscara facial.",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    },
+    {
+      "case_id": "tep_discursiva_2021_caso_05",
+      "rubric_id": "rubrica_tep_discursiva_2021_caso_05",
+      "status": "pendente",
+      "status_2026": "revisar",
+      "rubric_source": "não oficial / resposta esperada quando disponível",
+      "scoring_items": [],
+      "ideal_answer": "Subagudo, indolor, assimétrico. | Cervicais anterior e posterior, supraclavicular. | Para flutuação e fistulização espontânea. | Linfoma, bartonelose, toxoplasmose, sarcoidose, infecções por micobactérias atípicas.",
+      "notes": "Usar para correção didática; não usar como rubrica oficial validada."
+    }
+  ],
+  "generated_at": "2026-05-06T14:48:27.862388",
+  "rubric_count": 66
+}

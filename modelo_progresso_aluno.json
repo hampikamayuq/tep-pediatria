@@ -1,0 +1,16 @@
+{
+  "data": "AAAA-MM-DD",
+  "sessao": "TEP Pediatria 2026",
+  "total_questoes": 0,
+  "acertos": 0,
+  "erros": 0,
+  "percentual": 0,
+  "desempenho_por_tema": {},
+  "desempenho_por_subtema": {},
+  "questoes_erradas": [],
+  "discursivas": [],
+  "discursivas_corrigidas": 0,
+  "media_discursiva": 0,
+  "temas_para_revisar": [],
+  "proximo_plano": []
+}
