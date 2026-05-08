@@ -67,7 +67,8 @@
           "resposta_esperada": "Não são obrigatórios. Mudanças na dieta que reduzem/eliminem lactose aliviam os sintomas.",
           "comentario": "Tratamento: dieta sem leite, fórmula à base de soja, leite com baixo teor de lactose."
         }
-      ]
+      ],
+      "case_id": "TEP2021-D01-APOSTILA"
     },
     {
       "id": "TEP2021-D02-APOSTILA",
@@ -123,7 +124,8 @@
           "resposta_esperada": "Biópsia renal.",
           "comentario": "C3 persistentemente diminuído >2 meses sugere diagnóstico diferencial (GN membranoproliferativa, LES)."
         }
-      ]
+      ],
+      "case_id": "TEP2021-D02-APOSTILA"
     },
     {
       "id": "TEP2021-D03-APOSTILA",
@@ -168,7 +170,8 @@
           "resposta_esperada": "ECG 12 derivações, Holter 24h, ecocardiograma, teste ergométrico.",
           "comentario": "Miocardite pós-COVID requer avaliação cardíaca completa antes de liberar atividades."
         }
-      ]
+      ],
+      "case_id": "TEP2021-D03-APOSTILA"
     },
     {
       "id": "TEP2021-D04-APOSTILA",
@@ -224,7 +227,8 @@
           "resposta_esperada": "Ventilação prolongada com máscara facial.",
           "comentario": "Insufla ar no estômago e intestinos herniados, agravando compressão pulmonar."
         }
-      ]
+      ],
+      "case_id": "TEP2021-D04-APOSTILA"
     },
     {
       "id": "TEP2021-D05-APOSTILA",
@@ -291,7 +295,8 @@
           "resposta_esperada": "Linfoma, bartonelose, toxoplasmose, sarcoidose, infecções por micobactérias atípicas.",
           "comentario": "Diferenciais incluem causas de linfadenopatia cervical crônica."
         }
-      ]
+      ],
+      "case_id": "TEP2021-D05-APOSTILA"
     },
     {
       "id": "TEP2023-D01",
@@ -301,16 +306,26 @@
       "theme": "Gastroenterologia",
       "subtheme": "Cólica do lactente",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Cólica do lactente. Critérios de Wessel modificados: choro/irritabilidade ≥3 horas/dia, ≥3 dias/semana, ≥3 semanas, em lactente saudável com boa alimentação, sem causa orgânica identificável.",
+      "scoring_items": [
+        {
+          "item": "Hipótese diagnóstica correta",
+          "points": 2
+        },
+        {
+          "item": "Critérios de Wessel (duração, frequência, semanas)",
+          "points": 3
+        }
+      ],
+      "ideal_answer": "Cólica do lactente — critérios de Wessel modificados (3h/dia, 3 dias/semana, 3 semanas).",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf",
       "year": 2023,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2023-D01"
     },
     {
       "id": "TEP2023-D02",
@@ -320,16 +335,34 @@
       "theme": "Gastroenterologia",
       "subtheme": "Cólica do lactente",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Tranquilizar os pais (prognóstico benigno, melhora espontânea aos 3-4 meses); técnicas de acalmar (embalar, ruído branco, passeio de carro); manter aleitamento materno; se fórmula, considerar fórmula extensamente hidrolisada por 2 semanas como teste terapêutico; evitar estimulação excessiva.",
+      "scoring_items": [
+        {
+          "item": "Orientação para tranquilizar os pais",
+          "points": 1
+        },
+        {
+          "item": "Técnicas de acalmar",
+          "points": 1
+        },
+        {
+          "item": "Manutenção do aleitamento materno",
+          "points": 1
+        },
+        {
+          "item": "Teste terapêutico com fórmula EH ou dieta materna",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Tranquilizar pais; técnicas de acalmar; manter AME; considerar fórmula EH como teste.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf",
       "year": 2023,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2023-D02"
     },
     {
       "id": "TEP2023-D03",
@@ -339,16 +372,26 @@
       "theme": "Gastroenterologia",
       "subtheme": "Cólica do lactente",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Dieta de exclusão de proteínas do leite de vaca pela mãe (se em aleitamento materno) por 2-4 semanas, ou substituição por fórmula extensamente hidrolisada (FEH) por 2 semanas.",
+      "scoring_items": [
+        {
+          "item": "Exclusão de PLV da dieta materna ou troca de fórmula para EH",
+          "points": 3
+        },
+        {
+          "item": "Duração do teste (2-4 semanas)",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Exclusão de PLVMM pela mãe ou troca para fórmula extensamente hidrolisada por 2 semanas.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf",
       "year": 2023,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2023-D03"
     },
     {
       "id": "TEP2023-D04",
@@ -358,16 +401,26 @@
       "theme": "Infectologia",
       "subtheme": "Histoplasmose pulmonar",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Histoplasmose pulmonar — infecção por Histoplasma capsulatum. Justificativa: adolescente com exposição a cavernas/morcegos em área rural (epidemiologia clássica), com síndrome gripal e tosse sem sinais de gravidade.",
+      "scoring_items": [
+        {
+          "item": "Diagnóstico correto: histoplasmose",
+          "points": 3
+        },
+        {
+          "item": "Agente etiológico: Histoplasma capsulatum",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Histoplasmose pulmonar (Histoplasma capsulatum) — exposição a cavernas/morcegos.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf",
       "year": 2023,
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2023-D04"
     },
     {
       "id": "TEP2023-D05",
@@ -377,16 +430,30 @@
       "theme": "Infectologia",
       "subtheme": "Histoplasmose pulmonar",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Forma leve/assintomática: observação (autolimitado). Forma moderada a grave: itraconazol 200 mg 3x/dia por 3 dias, depois 200 mg 2x/dia por 12 semanas. Formas graves com comprometimento respiratório: anfotericina B lipossomal.",
+      "scoring_items": [
+        {
+          "item": "Forma leve: observação/autolimitado",
+          "points": 1
+        },
+        {
+          "item": "Itraconazol para formas moderadas/graves",
+          "points": 3
+        },
+        {
+          "item": "Anfotericina B para formas graves",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "Forma leve: observação. Forma moderada/grave: itraconazol. Grave: anfotericina B lipossomal.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf",
       "year": 2023,
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2023-D05"
     },
     {
       "id": "TEP2023-D06",
@@ -396,16 +463,30 @@
       "theme": "Erros Inatos do Metabolismo",
       "subtheme": "Galactosemia clássica",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Galactosemia clássica — deficiência de galactose-1-fosfato uridiltransferase (GALT). O acúmulo de galactose-1-fosfato é hepatotóxico e imunossupressor, predispondo a sepse neonatal por E. coli.",
+      "scoring_items": [
+        {
+          "item": "Diagnóstico: galactosemia clássica",
+          "points": 2
+        },
+        {
+          "item": "Enzima deficiente: GALT",
+          "points": 2
+        },
+        {
+          "item": "Mecanismo: imunossupressão → sepse por E. coli",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "Galactosemia clássica — deficiência de GALT → acúmulo de Gal-1-P → hepatotoxicidade + imunossupressão → sepse por E. coli.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf",
       "year": 2023,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2023-D06"
     },
     {
       "id": "TEP2023-D07",
@@ -415,16 +496,26 @@
       "theme": "Erros Inatos do Metabolismo",
       "subtheme": "Galactosemia clássica",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Exclusão imediata de galactose da dieta: suspender leite materno e fórmulas à base de leite de vaca; substituir por fórmula de soja isenta de galactose ou fórmula especial sem lactose/galactose.",
+      "scoring_items": [
+        {
+          "item": "Suspensão do leite materno e fórmulas com lactose",
+          "points": 3
+        },
+        {
+          "item": "Substituição por fórmula de soja ou isenta de galactose",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Suspender AME e fórmula com lactose; substituir por fórmula de soja ou isenta de galactose.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf",
       "year": 2023,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2023-D07"
     },
     {
       "id": "TEP2023-D08",
@@ -434,16 +525,26 @@
       "theme": "Erros Inatos do Metabolismo",
       "subtheme": "Galactosemia clássica",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Cirrose hepática / insuficiência hepática; catarata; deficiência intelectual / atraso no desenvolvimento neuropsicomotor; insuficiência ovariana prematura (meninas); ataxia cerebelar.",
+      "scoring_items": [
+        {
+          "item": "1ª complicação correta (ex: cirrose, catarata, DI)",
+          "points": 2
+        },
+        {
+          "item": "2ª complicação correta",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Cirrose; catarata; deficiência intelectual; insuficiência ovariana prematura; ataxia cerebelar.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf",
       "year": 2023,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2023-D08"
     },
     {
       "id": "TEP2023-D09",
@@ -453,16 +554,26 @@
       "theme": "Ética Médica",
       "subtheme": "Acesso ao prontuário e defesa médica",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Não. O médico agiu incorretamente. O prontuário pertence ao paciente e ao seu responsável legal, que têm direito de acesso e cópia a qualquer momento, conforme Resolução CFM nº 1.821/2007. A ilegibilidade não justifica a negativa — deve ser fornecida transcrição se necessário.",
+      "scoring_items": [
+        {
+          "item": "Resposta correta: não agiu corretamente",
+          "points": 2
+        },
+        {
+          "item": "Justificativa: direito do paciente ao prontuário (CFM 1.821/2007)",
+          "points": 3
+        }
+      ],
+      "ideal_answer": "Não. Paciente/responsável tem direito ao prontuário (CFM 1.821/2007). Ilegibilidade não justifica negativa.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf",
       "year": 2023,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2023-D09"
     },
     {
       "id": "TEP2023-D10",
@@ -472,16 +583,30 @@
       "theme": "Ética Médica",
       "subtheme": "Acesso ao prontuário e defesa médica",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Sim. O médico pode guardar cópia do prontuário para sua própria defesa, desde que mantenha o sigilo e utilize exclusivamente para essa finalidade, conforme Resolução CFM nº 1.821/2007 e Código de Ética Médica.",
+      "scoring_items": [
+        {
+          "item": "Resposta correta: sim, pode",
+          "points": 2
+        },
+        {
+          "item": "Condição: manter sigilo e uso exclusivo para defesa",
+          "points": 2
+        },
+        {
+          "item": "Base legal: CFM 1.821/2007 / CEM",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "Sim. Pode guardar cópia para defesa própria, com sigilo (CFM 1.821/2007).",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf",
       "year": 2023,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2023-D10"
     },
     {
       "id": "TEP2023-D11",
@@ -491,16 +616,26 @@
       "theme": "Pneumologia e Infectologia",
       "subtheme": "Pneumonia viral/atípica e insuficiência respiratória",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Pneumonia atípica (provavelmente por Mycoplasma pneumoniae ou vírus Influenza). Justificativa: adolescente com febre baixa (<38,5°C), tosse, cefaleia intensa, fadiga e contato domiciliar com caso semelhante, com infiltrado bilateral à radiografia.",
+      "scoring_items": [
+        {
+          "item": "Diagnóstico: pneumonia atípica",
+          "points": 3
+        },
+        {
+          "item": "Agente: Mycoplasma e/ou Influenza",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Pneumonia atípica — Mycoplasma pneumoniae ou Influenza; contato domiciliar + febre baixa + cefaleia.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf",
       "year": 2023,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2023-D11"
     },
     {
       "id": "TEP2023-D12",
@@ -510,16 +645,26 @@
       "theme": "Pneumologia e Infectologia",
       "subtheme": "Pneumonia viral/atípica e insuficiência respiratória",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Mycoplasma pneumoniae e vírus Influenza. Outros aceitos: adenovírus, parainfluenza, SARS-CoV-2.",
+      "scoring_items": [
+        {
+          "item": "1º agente correto (Mycoplasma pneumoniae ou Influenza)",
+          "points": 2
+        },
+        {
+          "item": "2º agente correto",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Mycoplasma pneumoniae e vírus Influenza.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf",
       "year": 2023,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2023-D12"
     },
     {
       "id": "TEP2023-D13",
@@ -529,16 +674,34 @@
       "theme": "Pneumologia e Infectologia",
       "subtheme": "Pneumonia viral/atípica e insuficiência respiratória",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "1. Oxigênio suplementar (manter SpO2 >95%); 2. Acesso venoso e hidratação; 3. Antibioticoterapia com macrolídeo (azitromicina) para cobertura de atípicos; 4. Antiviral (oseltamivir) se suspeita de influenza nas primeiras 48h; 5. Monitorização cardiorrespiratória; 6. Radiografia de tórax.",
+      "scoring_items": [
+        {
+          "item": "Oxigênio suplementar",
+          "points": 1
+        },
+        {
+          "item": "Hidratação IV",
+          "points": 1
+        },
+        {
+          "item": "Antibiótico macrolídeo (azitromicina)",
+          "points": 1
+        },
+        {
+          "item": "Antiviral (oseltamivir)",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "O2 suplementar; acesso venoso/hidratação; macrolídeo (azitromicina); oseltamivir se influenza <48h.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2023 10 09 2024 17 01 41 download.pdf",
       "year": 2023,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2023-D13"
     },
     {
       "id": "TEP2022-D01",
@@ -548,16 +711,22 @@
       "theme": "Gastroenterologia",
       "subtheme": "Intolerância transitória à lactose",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Intolerância à lactose (secundária/transitória pós-gastroenterite ou adquirida).",
+      "scoring_items": [
+        {
+          "item": "Diagnóstico correto",
+          "points": 5
+        }
+      ],
+      "ideal_answer": "Intolerância à lactose (secundária).",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf",
       "year": 2022,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2022-D01"
     },
     {
       "id": "TEP2022-D02",
@@ -567,16 +736,26 @@
       "theme": "Gastroenterologia",
       "subtheme": "Intolerância transitória à lactose",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Teste do hidrogênio expirado (H2 respiratório): administrar 2g/kg (máximo 25g) de lactose VO e coletar amostras de ar expirado seriadamente. Elevação ≥20 ppm acima do basal confirma má-absorção de lactose.",
+      "scoring_items": [
+        {
+          "item": "Método correto: teste H2 respiratório",
+          "points": 3
+        },
+        {
+          "item": "Dose e critério diagnóstico",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Teste H2 respiratório (2g/kg, máx 25g) — elevação ≥20 ppm confirma.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf",
       "year": 2022,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2022-D02"
     },
     {
       "id": "TEP2022-D03",
@@ -586,16 +765,26 @@
       "theme": "Gastroenterologia",
       "subtheme": "Intolerância transitória à lactose",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Não há necessidade obrigatória de testes diagnósticos. Modificações dietéticas que reduzem ou eliminam a lactose da dieta já aliviam os sintomas. O diagnóstico é essencialmente clínico.",
+      "scoring_items": [
+        {
+          "item": "Resposta correta: não são obrigatórios",
+          "points": 3
+        },
+        {
+          "item": "Justificativa: resposta à exclusão de lactose / diagnóstico clínico",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Não são obrigatórios. Dieta sem lactose alivia sintomas; diagnóstico é clínico.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf",
       "year": 2022,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2022-D03"
     },
     {
       "id": "TEP2022-D04",
@@ -605,16 +794,26 @@
       "theme": "Gastroenterologia",
       "subtheme": "Intolerância transitória à lactose",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Dieta com restrição/exclusão de lactose; leite sem lactose; fórmula à base de soja; adição de lactase exógena (gotas de lactase); leite de vaca com baixo teor de lactose.",
+      "scoring_items": [
+        {
+          "item": "Restrição de lactose na dieta",
+          "points": 2
+        },
+        {
+          "item": "Alternativas: leite sem lactose, soja, lactase",
+          "points": 3
+        }
+      ],
+      "ideal_answer": "Restrição de lactose; leite sem lactose; fórmula de soja; lactase exógena.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf",
       "year": 2022,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2022-D04"
     },
     {
       "id": "TEP2022-D05",
@@ -624,16 +823,22 @@
       "theme": "Nefrologia",
       "subtheme": "Glomerulonefrite pós-infecciosa",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Glomerulonefrite pós-estreptocócica (GNDA) / Glomerulonefrite difusa aguda pós-infecciosa.",
+      "scoring_items": [
+        {
+          "item": "Diagnóstico correto: GNDA",
+          "points": 5
+        }
+      ],
+      "ideal_answer": "Glomerulonefrite pós-estreptocócica (GNDA).",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf",
       "year": 2022,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2022-D05"
     },
     {
       "id": "TEP2022-D06",
@@ -643,16 +848,26 @@
       "theme": "Nefrologia",
       "subtheme": "Glomerulonefrite pós-infecciosa",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "C3 (complemento) diminuído; CH50 diminuído. Também aceitos: ASLO elevado (antiestreptolisina O); cultura de orofaringe positiva para Streptococcus beta-hemolítico do grupo A.",
+      "scoring_items": [
+        {
+          "item": "C3 diminuído",
+          "points": 2
+        },
+        {
+          "item": "CH50 diminuído",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "C3 diminuído; CH50 diminuído.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf",
       "year": 2022,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2022-D06"
     },
     {
       "id": "TEP2022-D07",
@@ -662,16 +877,34 @@
       "theme": "Nefrologia",
       "subtheme": "Glomerulonefrite pós-infecciosa",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Tratamento sintomático: restrição de sódio e líquidos, diurético (furosemida) para controle do edema e pressão arterial, anti-hipertensivo se necessário. Biópsia renal indicada se evolução atípica (oligoanúria >3-4 dias, sem melhora, síndrome nefrótica associada).",
+      "scoring_items": [
+        {
+          "item": "Restrição de sódio e líquidos",
+          "points": 1
+        },
+        {
+          "item": "Diurético (furosemida)",
+          "points": 2
+        },
+        {
+          "item": "Anti-hipertensivo se necessário",
+          "points": 1
+        },
+        {
+          "item": "Indicação de biópsia em caso atípico",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "Tratamento sintomático (furosemida, restrição sódica, anti-hipertensivo). Biópsia se evolução atípica.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf",
       "year": 2022,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2022-D07"
     },
     {
       "id": "TEP2022-D08",
@@ -681,16 +914,26 @@
       "theme": "Cardiologia e COVID",
       "subtheme": "Retorno à atividade física pós-COVID",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Liberar para atividades físicas recreativas após 10 dias do início dos sintomas (ou 10 dias após PCR positivo), sem necessidade de exames complementares, nos casos de COVID-19 leve.",
+      "scoring_items": [
+        {
+          "item": "Prazo correto: 10 dias",
+          "points": 3
+        },
+        {
+          "item": "Sem necessidade de exames complementares nas formas leves",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Liberar após 10 dias do PCR positivo, sem exames complementares, nas formas leves.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf",
       "year": 2022,
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2022-D08"
     },
     {
       "id": "TEP2022-D09",
@@ -700,16 +943,26 @@
       "theme": "Cardiologia e COVID",
       "subtheme": "Retorno à atividade física pós-COVID",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "ECG de 12 derivações e ecocardiograma. Também indicados: Holter 24h e teste ergométrico (conforme SBP/SBC).",
+      "scoring_items": [
+        {
+          "item": "ECG de 12 derivações",
+          "points": 2
+        },
+        {
+          "item": "Ecocardiograma",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "ECG 12 derivações e ecocardiograma.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf",
       "year": 2022,
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2022-D09"
     },
     {
       "id": "TEP2022-D10",
@@ -719,16 +972,22 @@
       "theme": "Neonatologia",
       "subtheme": "Hérnia diafragmática congênita e reanimação",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Hérnia diafragmática congênita (HDC).",
+      "scoring_items": [
+        {
+          "item": "Diagnóstico correto: HDC",
+          "points": 5
+        }
+      ],
+      "ideal_answer": "Hérnia diafragmática congênita.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf",
       "year": 2022,
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2022-D10"
     },
     {
       "id": "TEP2022-D11",
@@ -738,16 +997,30 @@
       "theme": "Neonatologia",
       "subtheme": "Hérnia diafragmática congênita e reanimação",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "1. Intubação orotraqueal imediata (evitar VPP com máscara); 2. Ventilação suave (baixo volume corrente, meta SpO2 >85% e hipercapnia permissiva); 3. Sonda nasogástrica de alívio; 4. Cateterismo de vasos umbilicais; 5. Normotermia.",
+      "scoring_items": [
+        {
+          "item": "Intubação orotraqueal imediata",
+          "points": 2
+        },
+        {
+          "item": "Ventilação suave (baixo volume, hipercapnia permissiva)",
+          "points": 2
+        },
+        {
+          "item": "Sonda nasogástrica de alívio",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "Intubação imediata; ventilação suave (SpO2 >85%, hipercapnia permissiva); sonda gástrica.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf",
       "year": 2022,
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2022-D11"
     },
     {
       "id": "TEP2022-D12",
@@ -757,16 +1030,26 @@
       "theme": "Neonatologia",
       "subtheme": "Hérnia diafragmática congênita e reanimação",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Ventilação com máscara facial (VPP com máscara) — distende o estômago herniado no tórax, comprimindo ainda mais os pulmões hipoplásicos e agravando a insuficiência respiratória.",
+      "scoring_items": [
+        {
+          "item": "Procedimento a evitar: VPP com máscara",
+          "points": 3
+        },
+        {
+          "item": "Justificativa: distensão do conteúdo herniado",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Ventilação com máscara facial (VPP com máscara).",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf",
       "year": 2022,
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2022-D12"
     },
     {
       "id": "TEP2022-D13",
@@ -776,16 +1059,30 @@
       "theme": "Tuberculose",
       "subtheme": "Tuberculose ganglionar periférica",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Aumento subagudo, indolor e assimétrico das cadeias ganglionares.",
+      "scoring_items": [
+        {
+          "item": "Subagudo",
+          "points": 1
+        },
+        {
+          "item": "Indolor",
+          "points": 1
+        },
+        {
+          "item": "Assimétrico",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "Subagudo, indolor, assimétrico.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf",
       "year": 2022,
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2022-D13"
     },
     {
       "id": "TEP2022-D14",
@@ -795,16 +1092,26 @@
       "theme": "Tuberculose",
       "subtheme": "Tuberculose ganglionar periférica",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Cadeias cervicais anterior e posterior e supraclavicular. (Menos frequentemente: axilar e inguinal.)",
+      "scoring_items": [
+        {
+          "item": "Cadeias cervicais (anterior e/ou posterior)",
+          "points": 2
+        },
+        {
+          "item": "Supraclavicular",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Cervicais anterior e posterior, supraclavicular.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf",
       "year": 2022,
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2022-D14"
     },
     {
       "id": "TEP2022-D15",
@@ -814,16 +1121,26 @@
       "theme": "Tuberculose",
       "subtheme": "Tuberculose ganglionar periférica",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Os gânglios podem amolecer (flutuação por necrose caseosa), evoluir com periadenite, fistulizar espontaneamente para a pele e formar cicatrizes queloides.",
+      "scoring_items": [
+        {
+          "item": "Flutuação/amolecimento",
+          "points": 2
+        },
+        {
+          "item": "Fistulização espontânea",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Flutuação (amolecimento) e fistulização espontânea para a pele.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf",
       "year": 2022,
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2022-D15"
     },
     {
       "id": "TEP2022-D16",
@@ -833,16 +1150,26 @@
       "theme": "Tuberculose",
       "subtheme": "Tuberculose ganglionar periférica",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Linfoma de Hodgkin ou não Hodgkin; doença da arranhadura do gato (bartonelose/Bartonella henselae); toxoplasmose; sarcoidose; infecções por micobactérias não tuberculosas (atípicas); mononucleose infecciosa.",
+      "scoring_items": [
+        {
+          "item": "1º diagnóstico diferencial correto",
+          "points": 2
+        },
+        {
+          "item": "2º diagnóstico diferencial correto",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Linfoma; doença da arranhadura do gato; toxoplasmose; sarcoidose; micobactérias atípicas.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "TEP DISCURSIVA 2022 10 09 2024 17 02 05 download.pdf",
       "year": 2022,
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2022-D16"
     },
     {
       "id": "R3TEP2018-D01",
@@ -852,16 +1179,22 @@
       "theme": "Adolescência",
       "subtheme": "Ginecomastia puberal",
       "difficulty": "facil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Puberdade normal masculina (desenvolvimento puberal fisiológico) / Ginecomastia puberal fisiológica. Estádio puberal compatível com Tanner II-III para 13 anos.",
+      "scoring_items": [
+        {
+          "item": "Diagnóstico correto: puberdade normal / ginecomastia puberal",
+          "points": 5
+        }
+      ],
+      "ideal_answer": "Puberdade normal / ginecomastia puberal fisiológica.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf",
       "year": 2018,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "R3TEP2018-D01"
     },
     {
       "id": "R3TEP2018-D02",
@@ -871,16 +1204,17 @@
       "theme": "Adolescência",
       "subtheme": "Ginecomastia puberal",
       "difficulty": "facil",
-      "expected_answer": "",
+      "expected_answer": "Não há pergunta registrada no material original. Provável: avaliação do estadiamento puberal — Estadiamento de Tanner (genitais e pelos pubianos). Verificar presença de ginecomastia puberal (esperada em até 65% dos adolescentes no pico puberal).",
       "scoring_items": [],
-      "ideal_answer": "",
+      "ideal_answer": "Pergunta não disponível. Provável: estadiamento de Tanner; verificar ginecomastia.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf",
       "year": 2018,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "R3TEP2018-D02"
     },
     {
       "id": "R3TEP2018-D03",
@@ -890,16 +1224,30 @@
       "theme": "Adolescência",
       "subtheme": "Ginecomastia puberal",
       "difficulty": "facil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Explicar que as mudanças físicas (pelos, crescimento dos pés e mãos, odor) e comportamentais (isolamento, irritabilidade, necessidade de privacidade) são normais para a adolescência; respeitar a privacidade do filho; manter diálogo aberto e sem julgamentos; não invadir seu quarto sem permissão; estabelecer limites com respeito; orientar sobre sexualidade se necessário.",
+      "scoring_items": [
+        {
+          "item": "Normalidade das mudanças físicas e comportamentais",
+          "points": 2
+        },
+        {
+          "item": "Respeitar privacidade e individuação",
+          "points": 2
+        },
+        {
+          "item": "Manter diálogo aberto sem julgamentos",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "Mudanças normais da puberdade; respeitar privacidade; diálogo aberto; limites com respeito.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf",
       "year": 2018,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "R3TEP2018-D03"
     },
     {
       "id": "R3TEP2018-D04",
@@ -909,16 +1257,26 @@
       "theme": "Pneumologia e Infectologia",
       "subtheme": "Pneumonia viral/atípica e insuficiência respiratória",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Encefalopatia hipóxico-isquêmica (EHI) / Asfixia perinatal. Justificativa: RN a termo com parto distócico (difícil), bolsa rota, Apgar muito baixo (1 no 1º minuto), necessitou de VPP, evoluindo com convulsão neonatal precoce.",
+      "scoring_items": [
+        {
+          "item": "Diagnóstico correto: EHI/asfixia perinatal",
+          "points": 3
+        },
+        {
+          "item": "Justificativa: parto distócico, Apgar baixo, VPP",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Encefalopatia hipóxico-isquêmica (EHI) / Asfixia perinatal.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf",
       "year": 2018,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "R3TEP2018-D04"
     },
     {
       "id": "R3TEP2018-D05",
@@ -928,16 +1286,26 @@
       "theme": "Pneumologia e Infectologia",
       "subtheme": "Pneumonia viral/atípica e insuficiência respiratória",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Fenobarbital — dose de ataque: 20 mg/kg IV (droga de 1ª linha para convulsão neonatal).",
+      "scoring_items": [
+        {
+          "item": "Medicamento correto: fenobarbital",
+          "points": 3
+        },
+        {
+          "item": "Dose: 20 mg/kg IV",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Fenobarbital 20 mg/kg IV.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf",
       "year": 2018,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "R3TEP2018-D05"
     },
     {
       "id": "R3TEP2018-D06",
@@ -947,16 +1315,30 @@
       "theme": "Pneumologia e Infectologia",
       "subtheme": "Pneumonia viral/atípica e insuficiência respiratória",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Hipotermia terapêutica (resfriamento corporal para 33-34°C por 72 horas) — iniciada até 6 horas após o nascimento em RN ≥36 semanas com EHI moderada/grave. Reduz lesão neurológica secundária, mortalidade e sequelas neurocognitivas.",
+      "scoring_items": [
+        {
+          "item": "Hipotermia terapêutica",
+          "points": 3
+        },
+        {
+          "item": "Temperatura alvo e duração (33-34°C / 72h)",
+          "points": 1
+        },
+        {
+          "item": "Janela de tempo: até 6 horas",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "Hipotermia terapêutica (33-34°C por 72h), iniciada até 6h após o nascimento.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf",
       "year": 2018,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "R3TEP2018-D06"
     },
     {
       "id": "R3TEP2018-D07",
@@ -966,16 +1348,30 @@
       "theme": "Terapia Intensiva Pediátrica",
       "subtheme": "Complicações da ventilação mecânica",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Diagnóstico: Pneumotórax hipertensivo (por barotrauma/volutrauma em VM). Conduta imediata: punção de alívio no 2º espaço intercostal, linha hemiclavicular, no lado afetado (toracocentese de emergência com agulha/jelco); seguida de drenagem pleural (dreno de tórax).",
+      "scoring_items": [
+        {
+          "item": "Diagnóstico: pneumotórax hipertensivo",
+          "points": 2
+        },
+        {
+          "item": "Conduta: punção imediata 2º EIC linha hemiclavicular",
+          "points": 2
+        },
+        {
+          "item": "Drenagem pleural",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "Pneumotórax hipertensivo. Conduta: punção de alívio 2º EIC linha hemiclavicular + dreno de tórax.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf",
       "year": 2018,
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "R3TEP2018-D07"
     },
     {
       "id": "R3TEP2018-D08",
@@ -985,16 +1381,26 @@
       "theme": "Terapia Intensiva Pediátrica",
       "subtheme": "Complicações da ventilação mecânica",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Choque obstrutivo — causado pela compressão mediastinal e desvio do mediastino secundário ao pneumotórax hipertensivo, comprometendo o retorno venoso e o débito cardíaco.",
+      "scoring_items": [
+        {
+          "item": "Tipo correto: obstrutivo",
+          "points": 3
+        },
+        {
+          "item": "Mecanismo: compressão mediastinal / desvio mediastinal",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Choque obstrutivo.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf",
       "year": 2018,
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "R3TEP2018-D08"
     },
     {
       "id": "R3TEP2018-D09",
@@ -1004,16 +1410,34 @@
       "theme": "Terapia Intensiva Pediátrica",
       "subtheme": "Complicações da ventilação mecânica",
       "difficulty": "dificil",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Mnemônico DOPES: D — Deslocamento/extubação acidental do tubo; O — Obstrução do tubo (secreção, dobramento); P — Pneumotórax; E — Equipamento (falha/desconexão do ventilador); S — Stomach (distensão gástrica). Outras: broncoespasmo, atelectasia, pneumonia.",
+      "scoring_items": [
+        {
+          "item": "Deslocamento/extubação acidental",
+          "points": 1
+        },
+        {
+          "item": "Obstrução do tubo",
+          "points": 1
+        },
+        {
+          "item": "Pneumotórax",
+          "points": 1
+        },
+        {
+          "item": "Falha de equipamento",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "DOPES: Deslocamento do tubo; Obstrução; Pneumotórax; Equipamento/falha; Stomach/distensão gástrica.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf",
       "year": 2018,
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "R3TEP2018-D09"
     },
     {
       "id": "R3TEP2018-D10",
@@ -1023,16 +1447,26 @@
       "theme": "Endocrinologia",
       "subtheme": "Baixa estatura e crescimento",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Baixa estatura — estatura abaixo de -2 desvios-padrão (DP) / percentil 3 para idade e sexo, segundo os gráficos de crescimento do Ministério da Saúde (OMS 2006/2007).",
+      "scoring_items": [
+        {
+          "item": "Classificação correta: baixa estatura",
+          "points": 3
+        },
+        {
+          "item": "Critério: < -2 DP ou percentil 3",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Baixa estatura (< -2 DP / percentil 3 para idade e sexo).",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf",
       "year": 2018,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "R3TEP2018-D10"
     },
     {
       "id": "R3TEP2018-D11",
@@ -1042,16 +1476,26 @@
       "theme": "Endocrinologia",
       "subtheme": "Baixa estatura e crescimento",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Velocidade de crescimento (VC) — expressa em cm/ano. É o parâmetro auxológico mais sensível para detectar distúrbios do crescimento e avaliar resposta terapêutica.",
+      "scoring_items": [
+        {
+          "item": "Velocidade de crescimento",
+          "points": 3
+        },
+        {
+          "item": "Unidade: cm/ano",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "Velocidade de crescimento (cm/ano) — parâmetro mais sensível para distúrbios do crescimento.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf",
       "year": 2018,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "R3TEP2018-D11"
     },
     {
       "id": "R3TEP2018-D12",
@@ -1061,16 +1505,26 @@
       "theme": "Endocrinologia",
       "subtheme": "Baixa estatura e crescimento",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Fórmula do alvo genético para meninos: [Estatura do pai (cm) + Estatura da mãe (cm) + 13] ÷ 2 (± 8,5 cm). Para meninas: [Estatura do pai + Estatura da mãe − 13] ÷ 2 (± 8,5 cm). Os dados dos pais não foram fornecidos no enunciado; aplicar com as estaturas reais dos pais quando disponíveis.",
+      "scoring_items": [
+        {
+          "item": "Fórmula correta para o sexo masculino",
+          "points": 3
+        },
+        {
+          "item": "Intervalo de ±8,5 cm",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Meninos: (Pai + Mãe + 13) / 2 ± 8,5 cm. Meninas: (Pai + Mãe − 13) / 2 ± 8,5 cm.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf",
       "year": 2018,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "R3TEP2018-D12"
     },
     {
       "id": "R3TEP2018-D13",
@@ -1080,16 +1534,26 @@
       "theme": "Gastroenterologia",
       "subtheme": "Diarreia persistente",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Diarreia persistente — diarreia com duração superior a 14 dias. Justificativa: lactente de 12 meses com episódio diarreico agudo inicial que persiste além de 14 dias (16 dias), com piora progressiva e alteração do padrão das fezes.",
+      "scoring_items": [
+        {
+          "item": "Diagnóstico correto: diarreia persistente",
+          "points": 3
+        },
+        {
+          "item": "Critério: >14 dias",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "Diarreia persistente (>14 dias) — episódio agudo que não resolveu em 14 dias.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf",
       "year": 2018,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "R3TEP2018-D13"
     },
     {
       "id": "R3TEP2018-D14",
@@ -1099,16 +1563,26 @@
       "theme": "Gastroenterologia",
       "subtheme": "Diarreia persistente",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Gastroenterite aguda viral. Etiologia mais provável: Rotavírus — pico em menores de 2 anos, quadro autolimitado, febre e vômitos iniciais, diarreia aquosa sem sangue.",
+      "scoring_items": [
+        {
+          "item": "Doença inicial: gastroenterite aguda viral",
+          "points": 2
+        },
+        {
+          "item": "Etiologia: rotavírus",
+          "points": 3
+        }
+      ],
+      "ideal_answer": "Gastroenterite aguda viral — Rotavírus (mais provável em <2 anos).",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf",
       "year": 2018,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "R3TEP2018-D14"
     },
     {
       "id": "R3TEP2018-D15",
@@ -1118,16 +1592,30 @@
       "theme": "Gastroenterologia",
       "subtheme": "Diarreia persistente",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "pH fecal (< 5,5 indica má-absorção de carboidratos); substâncias redutoras nas fezes (positivo indica intolerância à lactose / má-absorção de carboidratos); teste do hidrogênio expirado (H2 respiratório).",
+      "scoring_items": [
+        {
+          "item": "pH fecal",
+          "points": 1
+        },
+        {
+          "item": "Substâncias redutoras nas fezes",
+          "points": 2
+        },
+        {
+          "item": "Teste H2 respiratório",
+          "points": 2
+        }
+      ],
+      "ideal_answer": "pH fecal; substâncias redutoras nas fezes; teste H2 respiratório.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf",
       "year": 2018,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "R3TEP2018-D15"
     },
     {
       "id": "R3TEP2018-D16",
@@ -1137,16 +1625,34 @@
       "theme": "Gastroenterologia",
       "subtheme": "Intolerância transitória à lactose",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "Manter hidratação oral (SRO se necessário); reduzir ou suspender leite de vaca/lactose temporariamente (intolerância transitória pós-infecciosa); oferecer dieta leve de fácil digestão; retornar se piora, sangue nas fezes ou sinais de desidratação grave; higiene das mãos; manter aleitamento materno se possível.",
+      "scoring_items": [
+        {
+          "item": "Hidratação oral/SRO",
+          "points": 1
+        },
+        {
+          "item": "Restrição temporária de lactose",
+          "points": 2
+        },
+        {
+          "item": "Sinais de alarme para retornar",
+          "points": 1
+        },
+        {
+          "item": "Higiene das mãos",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "Hidratação oral; reduzir lactose temporariamente; dieta leve; higiene das mãos; retornar se piora.",
       "status_2026": "revisar",
       "source_validation": "Caso extraído do PDF enviado pelo usuário (#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf). Rubrica validada não anexada.",
       "rubric_status": "pendente",
       "origin_file": "#2 - R3 TEP - PEDIATRIA DISCURSIVA - Prova.pdf",
       "year": 2018,
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "R3TEP2018-D16"
     },
     {
       "id": "TEP2025-D40",
@@ -1166,7 +1672,8 @@
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2025-D40"
     },
     {
       "id": "TEP2025-D41",
@@ -1186,7 +1693,8 @@
       "origin_file": "ca4bbbac.md",
       "year": 2025,
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "TEP2025-D41"
     },
     {
       "id": "APOSTILA2024-D31",
@@ -1208,7 +1716,8 @@
       "year": 2024,
       "source_type": "apostila_comentada",
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "APOSTILA2024-D31"
     },
     {
       "id": "APOSTILA2024-D32",
@@ -1230,7 +1739,8 @@
       "year": 2024,
       "source_type": "apostila_comentada",
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "APOSTILA2024-D32"
     },
     {
       "id": "APOSTILA2024-D42",
@@ -1252,7 +1762,8 @@
       "year": 2024,
       "source_type": "apostila_comentada",
       "requires_2026_review": true,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "APOSTILA2024-D42"
     },
     {
       "id": "APOSTILA2024-D43",
@@ -1274,7 +1785,8 @@
       "year": 2024,
       "source_type": "apostila_comentada",
       "requires_2026_review": false,
-      "type": "discursiva"
+      "type": "discursiva",
+      "case_id": "APOSTILA2024-D43"
     },
     {
       "id": "TEP2024-DISC01",
@@ -1288,9 +1800,22 @@
       "theme": "Vacinação",
       "subtheme": "Covid-19 no calendário infantil / PNI",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "A) Sim, está indicada. De acordo com o PNI/MS, a vacina Covid-19 está indicada para crianças a partir de 6 meses de vida. Pré-escolar de 2 anos está na faixa etária contemplada. B) Para crianças de 6 meses a 4 anos (Pfizer): 3 doses — 1ª dose, 2ª dose (8 semanas após) e 3ª dose (8 semanas após a 2ª). Para crianças com imunidade prévia comprovada, pode-se utilizar esquema reduzido. Verificar calendário vigente do PNI, pois está sujeito a atualizações periódicas.",
+      "scoring_items": [
+        {
+          "item": "Indicação correta: sim, a partir de 6 meses",
+          "points": 2
+        },
+        {
+          "item": "Esquema de 3 doses para 6 meses–4 anos",
+          "points": 2
+        },
+        {
+          "item": "Intervalo correto entre as doses (8 semanas)",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "A) Sim, indicada a partir de 6 meses. B) 6 meses–4 anos: 3 doses (0, 8, 16 semanas). Verificar PNI vigente.",
       "status_2026": "revisar",
       "source_validation": "Extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2024 10 09 2024 17 03 04 download.pdf). O arquivo contém apenas enunciado e gabarito placeholder; rubrica validada não anexada. Tema exige conferência em fonte atualizada para 2026.",
       "rubric_status": "pendente",
@@ -1299,7 +1824,8 @@
       "requires_2026_review": true,
       "type": "discursiva",
       "source_type": "pdf_discursiva_medcof_qbank",
-      "deduplication_note": "As questões 1 e 2 do PDF têm o mesmo enunciado e foram consolidadas neste caso único."
+      "deduplication_note": "As questões 1 e 2 do PDF têm o mesmo enunciado e foram consolidadas neste caso único.",
+      "case_id": "TEP2024-DISC01"
     },
     {
       "id": "TEP2024-DISC02",
@@ -1313,9 +1839,30 @@
       "theme": "Gastroenterologia",
       "subtheme": "Constipação funcional / escape fecal",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "A) Encoprese (incontinência fecal por constipação funcional / overflow incontinence). Características: escape de fezes líquidas em torno de fecaloma (diarreia paradoxal), dor abdominal precedendo episódios, roupa suja involuntária, provável constipação crônica subjacente. B) Conduta: 1) Desimpactação fecal (polietileno glicol [PEG] em dose alta por 3-6 dias, ou enema de fosfato); 2) Manutenção com laxativo osmótico (PEG 0,4-0,8 g/kg/dia) por meses; 3) Dieta rica em fibras e hidratação; 4) Treinamento do hábito defecatório (sentar no vaso por 5-10 min após refeições); 5) Apoio psicológico se necessário.",
+      "scoring_items": [
+        {
+          "item": "Diagnóstico: encoprese por constipação funcional",
+          "points": 2
+        },
+        {
+          "item": "3 características diagnósticas corretas",
+          "points": 3
+        },
+        {
+          "item": "Desimpactação (PEG ou enema)",
+          "points": 2
+        },
+        {
+          "item": "Manutenção com laxativo osmótico",
+          "points": 1
+        },
+        {
+          "item": "Treinamento defecatório",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "A) Encoprese por constipação funcional. B) Desimpactação (PEG dose alta) + manutenção (PEG) + treinamento defecatório.",
       "status_2026": "revisar",
       "source_validation": "Extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2024 10 09 2024 17 03 04 download.pdf). O arquivo contém apenas enunciado e gabarito placeholder; rubrica validada não anexada.",
       "rubric_status": "pendente",
@@ -1324,7 +1871,8 @@
       "requires_2026_review": false,
       "type": "discursiva",
       "source_type": "pdf_discursiva_medcof_qbank",
-      "deduplication_note": "As questões 3 e 4 do PDF têm o mesmo enunciado e foram consolidadas neste caso único."
+      "deduplication_note": "As questões 3 e 4 do PDF têm o mesmo enunciado e foram consolidadas neste caso único.",
+      "case_id": "TEP2024-DISC02"
     },
     {
       "id": "TEP2024-DISC03",
@@ -1338,9 +1886,22 @@
       "theme": "Neonatologia",
       "subtheme": "Desconforto respiratório neonatal / taquipneia transitória do recém-nascido",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "A) Taquipneia transitória do recém-nascido (TTRN). B) 1) Radiografia de tórax — hiperinsuflação, aumento da trama vascular perihilar, espessamento das cisuras interlobares, cardiomegalia discreta; 2) Gasometria arterial — hipoxemia leve, hipercapnia leve a moderada.",
+      "scoring_items": [
+        {
+          "item": "Diagnóstico: TTRN",
+          "points": 2
+        },
+        {
+          "item": "Rx tórax e achados esperados",
+          "points": 2
+        },
+        {
+          "item": "Gasometria e resultado esperado",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "A) TTRN. B) Rx tórax (congestão perihilar, cisuras, hiperinsuflação); gasometria (hipoxemia leve).",
       "status_2026": "revisar",
       "source_validation": "Extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2024 10 09 2024 17 03 04 download.pdf). O arquivo contém apenas enunciado e gabarito placeholder; rubrica validada não anexada.",
       "rubric_status": "pendente",
@@ -1349,7 +1910,8 @@
       "requires_2026_review": false,
       "type": "discursiva",
       "source_type": "pdf_discursiva_medcof_qbank",
-      "deduplication_note": "As questões 5 e 6 do PDF têm o mesmo enunciado e foram consolidadas neste caso único."
+      "deduplication_note": "As questões 5 e 6 do PDF têm o mesmo enunciado e foram consolidadas neste caso único.",
+      "case_id": "TEP2024-DISC03"
     },
     {
       "id": "TEP2024-DISC04",
@@ -1363,9 +1925,22 @@
       "theme": "Adolescência e Ginecologia Pediátrica",
       "subtheme": "Dor abdominal aguda / torção ovariana",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "A) Torção ovariana. B) Ultrassonografia pélvica com Doppler colorido — padrão ouro de imagem; avalia fluxo sanguíneo ovariano (ausente ou reduzido no ovário torcido) e visualiza massa anexial.",
+      "scoring_items": [
+        {
+          "item": "Diagnóstico: torção ovariana",
+          "points": 2
+        },
+        {
+          "item": "Exame de imagem: USG com Doppler colorido",
+          "points": 2
+        },
+        {
+          "item": "Achado esperado: ausência/redução de fluxo ovariano",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "A) Torção ovariana. B) USG pélvica com Doppler colorido.",
       "status_2026": "revisar",
       "source_validation": "Extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2024 10 09 2024 17 03 04 download.pdf). O arquivo contém apenas enunciado e gabarito placeholder; rubrica validada não anexada.",
       "rubric_status": "pendente",
@@ -1374,7 +1949,8 @@
       "requires_2026_review": false,
       "type": "discursiva",
       "source_type": "pdf_discursiva_medcof_qbank",
-      "deduplication_note": "As questões 7 e 8 do PDF têm o mesmo enunciado e foram consolidadas neste caso único."
+      "deduplication_note": "As questões 7 e 8 do PDF têm o mesmo enunciado e foram consolidadas neste caso único.",
+      "case_id": "TEP2024-DISC04"
     },
     {
       "id": "TEP2024-DISC05",
@@ -1388,9 +1964,22 @@
       "theme": "Gastroenterologia",
       "subtheme": "Dor abdominal aguda / pancreatite aguda",
       "difficulty": "media",
-      "expected_answer": "",
-      "scoring_items": [],
-      "ideal_answer": "",
+      "expected_answer": "A) Pancreatite aguda. B) Exame laboratorial: lipase sérica (>3x o limite superior da normalidade) — mais sensível e específica; ou amilase sérica. Exame de imagem padrão-ouro: tomografia computadorizada de abdome com contraste (TC de abdome).",
+      "scoring_items": [
+        {
+          "item": "Diagnóstico: pancreatite aguda",
+          "points": 2
+        },
+        {
+          "item": "Exame laboratorial: lipase sérica (>3x LSN)",
+          "points": 2
+        },
+        {
+          "item": "Imagem padrão-ouro: TC de abdome com contraste",
+          "points": 1
+        }
+      ],
+      "ideal_answer": "A) Pancreatite aguda. B) Lipase sérica (>3x LSN); TC de abdome com contraste (padrão-ouro).",
       "status_2026": "revisar",
       "source_validation": "Extraído do PDF enviado pelo usuário (TEP DISCURSIVA 2024 10 09 2024 17 03 04 download.pdf). O arquivo contém apenas enunciado e gabarito placeholder; rubrica validada não anexada.",
       "rubric_status": "pendente",
@@ -1399,7 +1988,8 @@
       "requires_2026_review": false,
       "type": "discursiva",
       "source_type": "pdf_discursiva_medcof_qbank",
-      "deduplication_note": "As questões 9 e 10 do PDF têm o mesmo enunciado e foram consolidadas neste caso único."
+      "deduplication_note": "As questões 9 e 10 do PDF têm o mesmo enunciado e foram consolidadas neste caso único.",
+      "case_id": "TEP2024-DISC05"
     },
     {
       "id": "tep_discursiva_2021_caso_01",
@@ -1420,7 +2010,8 @@
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "discursiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "case_id": "tep_discursiva_2021_caso_01"
     },
     {
       "id": "tep_discursiva_2021_caso_02",
@@ -1441,7 +2032,8 @@
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "discursiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "case_id": "tep_discursiva_2021_caso_02"
     },
     {
       "id": "tep_discursiva_2021_caso_03",
@@ -1462,7 +2054,8 @@
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "discursiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "case_id": "tep_discursiva_2021_caso_03"
     },
     {
       "id": "tep_discursiva_2021_caso_04",
@@ -1483,7 +2076,8 @@
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "discursiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "case_id": "tep_discursiva_2021_caso_04"
     },
     {
       "id": "tep_discursiva_2021_caso_05",
@@ -1504,7 +2098,8 @@
       "source": "TEP 2021 apostila definitiva",
       "source_type": "apostila_markdown",
       "type": "discursiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "case_id": "tep_discursiva_2021_caso_05"
     }
   ],
   "v6_update": "Adicionados 5 casos únicos da TEP Discursiva 2024, deduplicados a partir de 10 itens do PDF.",
