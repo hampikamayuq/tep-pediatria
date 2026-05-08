@@ -1,11 +1,8 @@
 {
-  "version": 2,
-  "buildCommand": null,
-  "outputDirectory": ".",
-  "framework": null,
+  "framework": "nextjs",
   "headers": [
     {
-      "source": "/(.*)",
+      "source": "/data/(.*)",
       "headers": [
         { "key": "Access-Control-Allow-Origin", "value": "*" },
         { "key": "Cache-Control", "value": "public, max-age=3600" }
