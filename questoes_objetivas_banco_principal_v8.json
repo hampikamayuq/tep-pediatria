@@ -281,7 +281,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "Com via aérea avançada estabelecida, o PALS orienta compressões torácicas contínuas a 100-120/min com uma ventilação a cada 2-3 segundos (20-30 vpm), sem necessidade de sincronização. A relação 30:1 ou 15:2 aplica-se apenas quando não há via aérea avançada. A hiperventilação deve ser evitada pois causa alcalose respiratória e reduz o débito cardíaco durante a RCP."
     },
     {
       "number": 2,
@@ -304,7 +305,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O quadro é de insônia comportamental do lactente por associação do sono: a criança aprendeu a adormecer amamentando e, ao despertar naturalmente durante a noite, exige a mesma condição para voltar a dormir. A conduta é o desvanecimento gradual da presença dos pais (fading), ensinando a criança a autorregular o sono sem a dependência do seio. O desmame noturno pode ser uma consequência, mas não é o objetivo primário; melatonina e polissonografia não são indicados para esse diagnóstico comportamental."
     },
     {
       "number": 3,
@@ -327,7 +329,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O quadro é de proctocolite alérgica à proteína do leite de vaca (APLV) mediada por células em lactente em aleitamento materno exclusivo: febre ausente, bom ganho ponderal e sangue oculto nas fezes são clássicos. Em lactentes amamentados, a conduta é a exclusão do leite de vaca e derivados da dieta materna, com caráter tranquilizador quanto à evolução benigna. Não há indicação de fórmula extensamente hidrolisada ou de aminoácidos enquanto o aleitamento materno for mantido com dieta materna restrita; e manter o aleitamento sem restrição alguma ignora o alérgeno causal."
     },
     {
       "number": 4,
@@ -350,7 +353,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A combinação de ITU de repetição, escapes urinários, retenção e constipação intestinal, com exames anatômicos normais (USG e uretrocistografia), aponta para disfunção vesical e intestinal (síndrome de eliminação disfuncional) como causa primária. A constipação aumenta a pressão intravesical e predispõe à colonização bacteriana; o refluxo vesico-ureteral foi excluído pela uretrocistografia normal, e a imunodeficiência não justifica o contexto miccional e intestinal."
     },
     {
       "number": 5,
@@ -373,7 +377,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Segundo as diretrizes da SBP, a consulta pré-natal com o pediatra deve ocorrer a partir do 7º mês de gestação, com o objetivo de estabelecer vínculo afetivo, orientar sobre amamentação, cuidados com o RN e acompanhar o parto quando necessário — o pediatra atua em parceria com o obstetra em todos esses aspectos. As demais alternativas restringem indevidamente o papel do pediatra (B e C) ou delegam apenas funções de apoio psicológico (D), contrariando as diretrizes vigentes."
     },
     {
       "number": 6,
@@ -396,7 +401,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Pericardite pós-pericardiotomia é complicação clássica de cirurgia cardíaca, ocorrendo dias a semanas após o procedimento; o atrito pericárdico ao exame físico, a dor pleurítica com irradiação para o ombro e o contexto pós-cirúrgico confirmam a efusão/pericardite. A embolia pulmonar cursaria com taquicardia intensa e hipoxemia; a pneumonia atípica teria infiltrado pulmonar; a mobilização de prótese de CIA (comunicação interatrial — geralmente fechada com dispositivo) apresentaria sopros novos ou deterioração hemodinâmica."
     },
     {
       "number": 7,
@@ -419,7 +425,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "RN de 35 semanas classificado como alto risco (mãe sem pré-natal, situação de rua, carga viral desconhecida) requer profilaxia combinada além da zidovudina. Para prematuros entre 34-36 semanas de alto risco, o Protocolo Brasileiro indica adição de lamivudina e nevirapina à zidovudina. O raltegravir é reservado para RN ≥37 semanas ou prematuros muito jovens em esquemas específicos; lamivudina isolada não é suficiente para esse nível de risco."
     },
     {
       "number": 8,
@@ -442,7 +449,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Na síndrome de Turner com cariótipo 45,X e agenesia ovariana bilateral, a infertilidade é irreversível — não existe capacidade reprodutiva espontânea mesmo após indução hormonal da puberdade, pois não há folículos ovarianos. A reposição hormonal é indicada para desenvolvimento dos caracteres sexuais secundários e saúde óssea, mas não restaura a fertilidade. O papel do pediatra/especialista é informar com empatia e apresentar alternativas de maternidade como adoção ou gestação de substituição, sem falsas expectativas de gravidez."
     },
     {
       "number": 9,
@@ -465,7 +473,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Impetigo extenso (múltiplos segmentos corporais) com adenomegalia indica infecção sistêmica subclínica e exige antibiótico oral sistêmico; a cefalexina (cefalosporina de 1ª geração) cobre Streptococcus e Staphylococcus aureus, os principais agentes. O antibiótico tópico (mupirocina ou ácido fusídico) é complementar nas lesões localizadas. Oxacilina IV não é necessária na ausência de sinais de gravidade; antissépticos isolados são insuficientes para impetigo extenso."
     },
     {
       "number": 10,
@@ -488,7 +497,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A conjuntivite neonatal por Chlamydia trachomatis tem período de incubação de 5 a 14 dias, explicando o surgimento ao 10º dia de vida com progressão rápida; a conjuntivite gonocócica surge mais precocemente (1-5 dias) e tende a ser mais hiperaguda com secreção purulenta abundante. Herpes simples e CMV raramente se manifestam como conjuntivite neonatal isolada. A pré-natal sem intercorrências não exclui colonização materna por clamídia, que é frequentemente assintomática."
     },
     {
       "number": 11,
@@ -511,7 +521,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "Conforme o Manual de Seguimento do Prematuro da SBP, a suplementação de zinco (5 mg/dia) em prematuros de muito baixo peso deve ser iniciada ao atingir 36 semanas de idade corrigida, mantida por 6 meses, visando melhora do desenvolvimento cognitivo e motor. A dose de 10 mg/dia e o início desde o nascimento ou até 12 meses de idade corrigida não correspondem às recomendações vigentes."
     },
     {
       "number": 12,
@@ -534,7 +545,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Leucocoria (reflexo branco na pupila) em recém-nascido é sinal cardinal de retinoblastoma até prova em contrário — é o tumor intraocular maligno mais comum na infância, com origem hereditária em parte dos casos. Retinopatia da prematuridade não ocorre em 36 semanas sem fator de risco adicional; conjuntivite neonatal não causa leucocoria; oftalmia simpática é bilateral e surge após trauma. Todo recém-nascido com leucocoria exige avaliação oftalmológica urgente."
     },
     {
       "number": 13,
@@ -557,7 +569,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O conjunto de dermatite eritematodescamativa desde 15 dias, diarreia com sangue, baixo ganho ponderal, infecções recorrentes graves, consanguinidade entre os pais e linfopenia relativa aponta fortemente para imunodeficiência primária combinada grave (SCID ou similar). A alergia alimentar não cursa com infecções graves e febre; a diarreia infecciosa não explica a dermatite difusa e o quadro sistêmico recorrente; a citomegalovírus congênito teria apresentação ao nascimento. Consanguinidade é alerta crítico para doenças autossômicas recessivas."
     },
     {
       "number": 14,
@@ -580,7 +593,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "O cateterismo de veia umbilical por 7 dias em prematuro é fator de risco clássico para trombose de veia porta, que evolui com hipertensão portal pré-hepática: esplenomegalia intensa, fígado normal/pequeno e varizes esofágicas com risco de sangramento. Alfa-1 antitripsina e esfingomielinase cursam com hepatoesplenomegalia e cirrose; esquistossomose é incomum em criança de 5 anos sem exposição epidemiológica relatada e apresentaria fibrose periportal."
     },
     {
       "number": 15,
@@ -603,7 +617,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O teste do coraçãozinho (oximetria pulsada diferencial) é considerado normal quando a saturação no membro superior direito é ≥95% e a diferença entre pré e pós-ductal é ≤3%. Neste caso, SpO2 97% (pré-ductal) e 95% (pós-ductal) representam diferença de apenas 2 pontos percentuais, sem queda abaixo de 95%, configurando teste negativo — o RN pode receber alta com 48 horas conforme protocolo. Não há indicação de ecocardiograma ou avaliação cardiológica com esse resultado."
     },
     {
       "number": 16,
@@ -626,7 +641,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Icterícia com 40 horas em RN a termo em aleitamento materno exige dosagem de bilirrubina total e frações antes de qualquer conduta, pois a decisão de iniciar fototerapia depende do nível sérico plotado em nomograma de Bhutani conforme horas de vida. Dar alta sem dosar (A, B) é inadequado; iniciar fototerapia sem dosar (D) é precipitado. O Coombs direto negativo e tipo sanguíneo A+ (mãe provavelmente O ou A) reduzem suspeita de incompatibilidade, mas não dispensam a dosagem."
     },
     {
       "number": 17,
@@ -649,7 +665,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O Código de Ética Médica (CFM 2217/2018) e o ECA preveem sigilo ao adolescente, inclusive para questões de sexualidade, anticoncepção e orientação sexual. Entretanto, a gravidez em menor de 14 anos configura violência sexual presumida por lei, exigindo quebra do sigilo e notificação; com 15 anos a gravidez, embora não seja necessariamente crime, é situação de vulnerabilidade que impõe comunicação aos responsáveis legais para proteção da menor. Atividade sexual, anticoncepcional e orientação sexual são protegidos pelo sigilo."
     },
     {
       "number": 18,
@@ -672,7 +689,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "Lactente com FC 210 bpm com sinais de baixo débito (enchimento capilar 5 segundos, pulsos fracos) e ECG sugestivo de taquicardia supraventricular (TSV) instável hemodinamicamente deve receber cardioversão elétrica sincronizada imediata pelo PALS. A desfibrilação é indicada em fibrilação ventricular/TV sem pulso (ritmos não sincronizáveis); expansão volêmica e antitérmico não tratam arritmia causadora do choque."
     },
     {
       "number": 19,
@@ -695,7 +713,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Na desnutrição aguda grave, a fase de estabilização aborda as ameaças imediatas à vida: hipoglicemia, hipotermia, desidratação/choque (com cautela), distúrbios eletrolíticos (especialmente hipocalemia e hipomagnesemia) e infecções; a recuperação nutricional intensiva só é iniciada na fase de reabilitação. A infusão de albumina no Kwashiorkor é contraindicada por agravar o edema. Os micronutrientes (zinco, vitamina A, folato) são iniciados ainda no internamento."
     },
     {
       "number": 20,
@@ -718,7 +737,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "A vacina tetravalente recombinante contra dengue (Qdenga/TAK-003) incorporada ao PNI é recomendada pela SBP para crianças a partir de 4 anos de idade, independentemente de soroestado prévio, diferentemente da vacina Dengvaxia (disponível na rede privada) que exige soropositividade prévia. As alternativas que restringem a faixa etária a adolescentes ou a partir de 6 anos não correspondem à recomendação vigente."
     },
     {
       "number": 21,
@@ -741,7 +761,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Tumor de Wilms (nefroblastoma) é a principal hipótese em pré-escolar com massa abdominal unilateral de superfície lisa, contornos regulares, consistência firme, que não ultrapassa a linha média, associado a hemi-hipertrofia corporal — síndrome que é fator de risco reconhecido para nefroblastoma. Neuroblastoma tende a cruzar a linha média e tem consistência irregular; linfoma costuma ser múltiplo e com adenomegalias; carcinoma de suprarrenal é raro e associado a virilização."
     },
     {
       "number": 22,
@@ -764,7 +785,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Segundo as diretrizes atuais de reanimação neonatal (SBP/AAP 2021), RN vigoroso (choro, tônus em flexão, FC >100 bpm) com líquido meconial espesso deve seguir o fluxo normal: contato pele a pele com a mãe e secagem, sem aspiração de rotina de boca e narinas. A aspiração seletiva foi abandonada por não reduzir a incidência de síndrome de aspiração meconial e aumentar o risco de bradicardia reflexa. Banho imediato não é recomendado."
     },
     {
       "number": 23,
@@ -787,7 +809,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O quadro de confusão mental, tentativas de suicídio recorrentes, pai alcoólatra e relacionamento parental conflituoso configura forte suspeita de violência intrafamiliar (abuso emocional, negligência ou outras formas). A conduta prioritária é investigar a violência, notificar o Conselho Tutelar e o Ministério Público, conforme o ECA (art. 13 e 18). Internar em clínica psiquiátrica sem investigar o contexto familiar seria inadequado; TDAH e transtorno bipolar são diagnósticos que exigem investigação mais detalhada e não explicam o quadro agudo."
     },
     {
       "number": 24,
@@ -810,7 +833,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A esofagite eosinofílica (EoE) é uma doença alérgica/imunomediada do esôfago fortemente associada a outras condições atópicas: asma, rinite alérgica e dermatite atópica. Em escolares, manifesta-se tipicamente por disfagia, dor retroesternal e impactação alimentar. Lactente com engasgos ou diarreia sugere outras etiologias; adolescente com impactação pode ocorrer na EoE, mas a associação com asma e dermatite atópica é o perfil mais característico e didático."
     },
     {
       "number": 25,
@@ -833,7 +857,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A síndrome mieloproliferativa transitória (SMT) é exclusiva de recém-nascidos com trissomia do 21 e caracteriza-se por blastos circulantes, anemia, trombocitopenia e leucocitose em neonatos geralmente assintomáticos; resolve-se espontaneamente em semanas a meses na maioria dos casos, embora ~20% evoluam para leucemia mieloide aguda megacariocítica. LMA e LLA em neonatos são entidades mais raras, não associadas ao contexto da síndrome de Down em período neonatal."
     },
     {
       "number": 26,
@@ -856,7 +881,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A Resolução CNS 466/2012 e o Código de Ética Médica exigem que em pesquisas com crianças e adolescentes o consentimento do representante legal seja sempre obtido, acrescido do assentimento livre e esclarecido do próprio participante na medida de sua capacidade de compreensão — sem limite de idade fixo para o assentimento. A alternativa A erra ao fixar 14 anos como marco; C é incorreta pois não existe vedação legal à participação de crianças menores em pesquisa; B erra ao dispensar o representante legal."
     },
     {
       "number": 27,
@@ -879,7 +905,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "Pré-escolar vacinada, sem frequentar creche, em bom estado geral com febre de baixo grau (37,8°C) há apenas 24 horas não preenche critérios para investigação laboratorial nesse momento. A conduta adequada é administrar antitérmico, orientar hidratação e observar diurese e estado geral, com retorno em 24-48 horas. Exames laboratoriais são reservados para febre persistente, aspecto tóxico ou ausência de melhora clínica. Intercalar antitérmicos não é recomendado como primeira medida."
     },
     {
       "number": 28,
@@ -902,7 +929,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Na triagem neonatal de erros inatos da imunidade, os TRECs quantificam células T (linfócitos T) e os KRECs quantificam linfócitos B. Neste caso, o TREC está normal (126 > 25/µL) e o KREC está zero (< 20/µL), indicando deficiência seletiva na produção de linfócitos B — padrão compatível com agamaglobulinemia ou outras imunodeficiências de células B. Portanto, os exames confirmatórios devem investigar defeitos de linfócitos B."
     },
     {
       "number": 30,
@@ -925,7 +953,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "RN de 20 dias com convulsão, hipoatividade e história materna de lesões vesiculares genitais (herpes genital ativo) apresenta quadro clínico altamente sugestivo de herpes neonatal — emergência infecciosa. A conduta imediata é coletar líquor, hemocultura e PCR para HSV (e Covid-19 como diagnóstico diferencial conforme contexto) e iniciar aciclovir endovenoso em dose antiviral, sem aguardar resultados. Penicilina cristalina e cefepime não cobrem vírus herpes e retardariam o tratamento específico."
     },
     {
       "number": 31,
@@ -948,7 +977,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O Código de Ética Médica (CFM 2217/2018) determina que o sumário de alta deve ser elaborado pelo médico assistente ou seu substituto designado, sendo documento médico de responsabilidade clínica direta. Não cabe à direção técnica da instituição, à enfermagem ou a qualquer médico que tenha participado de forma não assistencial elaborar esse documento."
     },
     {
       "number": 32,
@@ -971,7 +1001,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O ganho ponderal de 25 g/dia é adequado para a idade, a pega foi bem avaliada e o freio lingual curto, isoladamente, não é indicação cirúrgica imediata sem falha do manejo conservador. O problema identificável é o ingurgitamento mamário e o uso de chupeta (que interfere na sucção e no estímulo da produção láctea). A conduta correta é orientar extração do leite na mama ingurgitada para aliviar o ingurgitamento e suspender a chupeta para não prejudicar o aleitamento materno."
     },
     {
       "number": 33,
@@ -994,7 +1025,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O quadro de pápulas eritematosas e pústulas em face e couro cabeludo sem comedões em lactente de 6 meses, com início ao mês de vida, é característico de cefalite seborreica pustulosa ou dermatite seborreica infeccionada por Malassezia — fungo lipofílico frequente nessa faixa etária. O tratamento indicado é com derivados imidazólicos tópicos (cetoconazol, miconazol). Peróxido de benzoíla é contraindicado em lactentes; bacitracina não age sobre fungos; sabonetes antissépticos não são suficientes."
     },
     {
       "number": 34,
@@ -1017,7 +1049,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "Para pacientes imunocomprometidos, a SBP recomenda três doses de HPV (nonavalente, HPV9) no esquema 0-2-6 meses, independentemente da vacina previamente utilizada (HPV4 ou HPV9) e do número de doses recebidas antes do diagnóstico de imunossupressão. O esquema de duas doses vale apenas para imunocompetentes; a alternativa de dar apenas uma dose de HPV9 para completar o ciclo anterior seria inadequada para esse contexto de imunossupressão."
     },
     {
       "number": 35,
@@ -1040,7 +1073,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O aleitamento materno exclusivo deve ser mantido até os 6 meses; com o retorno materno ao trabalho, a melhor estratégia para manutenção do leite materno é orientar a ordenha e o armazenamento adequado do leite, que pode ser oferecido ao bebê durante a ausência da mãe. Introduzir fórmula aos 5 meses antecipa desnecessariamente o desmame; a alimentação complementar deve ser iniciada aos 6 meses, não antes ou depois do recomendado."
     },
     {
       "number": 36,
@@ -1063,7 +1097,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Terror noturno é uma parassonia do sono NREM que ocorre nas primeiras horas de sono (sono profundo), manifestando-se com agitação, gritos e ausência de memória do episódio — diferente de pesadelo, que ocorre no REM. A causa precipitante neste caso é a privação de sono pelo uso de celular até tarde. O tratamento de primeira linha é a higiene do sono (horário regular, restrição de telas). Medicações (benzodiazepínicos, passiflora) e psicoterapia não são indicadas como primeira conduta para caso não complicado."
     },
     {
       "number": 37,
@@ -1086,7 +1121,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Hiperleucocitose com desvio nuclear à esquerda (predomínio de granulócitos maduros e imaturos), anemia leve e plaquetas normais em adolescente assintomático com hepatoesplenomegalia é o padrão clássico de leucemia mieloide crônica (LMC), que tem evolução insidiosa. Na LLA, predominam blastos linfoides e costuma haver trombocitopenia e adenomegalia. Na LMA, o curso é mais agudo e o estado geral mais comprometido."
     },
     {
       "number": 38,
@@ -1109,7 +1145,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Adolescente de 14 anos com Tanner M5P5 (puberdade completa), menarca aos 11 anos, estatura em Z+2 e IMC normal apresenta alta estatura constitucional com crescimento já em fase final — o fechamento das epífises ocorre após a puberdade completa e o crescimento residual após Tanner 5 é mínimo (1-2 cm). Não há sinais de tumor hipofisário, gonadal ou excesso de GH. A conduta é tranquilizar, dispensando investigação adicional."
     },
     {
       "number": 39,
@@ -1132,7 +1169,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "O tratamento materno da sífilis com ceftriaxona é considerado inadequado pelo Ministério da Saúde, pois apenas a penicilina atravessa adequadamente a barreira placentária. Quando a mãe não foi tratada adequadamente (independentemente do VDRL do RN), o neonato deve receber penicilina cristalina IV por 10 dias. Penicilina benzatina dose única é reservada para RN assintomático com mãe adequadamente tratada e queda do VDRL; procaína IM não é a primeira escolha no neonato sintomático."
     },
     {
       "number": 40,
@@ -1155,7 +1193,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O princípio fundamental do manejo da dor oncológica crônica (OMS) é que opioides devem ser prescritos em intervalos regulares e fixos ('pelo relógio'), não 'se necessário' ou 'quando a dor for intensa', pois isso gera picos de dor e subtratamento. O erro atual é a prescrição de morfina condicional (SOS). Fentanil em adesivo e internação para opioide IV são escaladas terapêuticas desnecessárias nesse momento; benzodiazepínico não é analgésico."
     },
     {
       "number": 41,
@@ -1178,7 +1217,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A principal medida preventiva de afogamento em crianças pequenas é a supervisão ativa e contínua por adulto responsável, dentro da piscina ou a distância mínima, sem distrações (celular, conversas). Boias de braço não são dispositivos de segurança aprovados; coletes salva-vidas não substituem a supervisão; e crianças que sabem nadar ainda necessitam de supervisão adulta, pois não há idade segura para ficar sem vigilância."
     },
     {
       "number": 42,
@@ -1201,7 +1241,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O irmão adolescente utiliza um dispositivo para fins recreacionais com 'insumo' derramado — referência ao cigarro eletrônico (vape), cujo líquido pode conter derivados de cannabis (THC ou análogos sintéticos). Intoxicação por canabinoides em crianças causa convulsões, alteração do nível de consciência e agitação, exatamente como descrito. Cocaína e anfetaminas causariam hiperestimulação simpática; opioides causariam depressão respiratória e miose."
     },
     {
       "number": 43,
@@ -1224,7 +1265,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Neuroblastoma é o tumor sólido extracraniano mais comum em lactentes e pré-escolares; a tríade de massa abdominal, equimose periorbitária (sinal de 'olhos de guaxinim' por metástase orbitária) e sintomas constitucionais é característica. Tumor de Wilms não costuma metastatizar para órbita e a massa é renal; hepatoblastoma manifesta-se com hepatomegalia e AFP elevada; carcinoma de suprarrenal é raro nessa faixa etária."
     },
     {
       "number": 44,
@@ -1247,7 +1289,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Tetralogia de Fallot em paciente com trissomia do 21 (associação comum) manifesta-se com cianose, sopro sistólico na borda esternal esquerda e 2ª bulha hiperfonética no foco pulmonar (por hipertensão pulmonar relativa ou estenose pulmonar). O eixo do QRS em +120° e campos pulmonares normais (oligoemia pulmonar) corroboram. DSAV (defeito do septo atrioventricular) cursaria com hiperfluxo pulmonar e eixo em superesquerda (eixo negativo). CIV e PCA cursam com hiperfluxo pulmonar e sem cianose grave isolada."
     },
     {
       "number": 45,
@@ -1270,7 +1313,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "Hepatomegalia de 5 cm configura sinal de alarme para dengue (extravasamento plasmático iminente), exigindo internação e expansão volêmica endovenosa com cristaloide 10 mL/kg em etapa rápida. Hidratação oral e retorno ambulatorial são insuficientes diante de sinal de alarme. UTI e drogas vasoativas são reservados para dengue grave com choque refratário. Observação hospitalar sem expansão seria conduita insuficiente diante de sinal de alarme confirmado."
     },
     {
       "number": 46,
@@ -1293,7 +1337,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Mília neonatal são cistos de queratina de resolução espontânea nas primeiras semanas de vida, sem necessidade de tratamento. Localizam-se tipicamente na face (fronte, nariz, mento) e podem ocorrer em região genital. A conduta é apenas tranquilizar os pais, explicando o caráter benigno e autolimitado. Antibióticos, remoção cirúrgica imediata ou espera para cirurgia são condutas inadequadas para essa condição fisiológica."
     },
     {
       "number": 47,
@@ -1316,7 +1361,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O quadro de alopecia com pústulas, eritema e secreção purulenta no couro cabeludo é característico de quérion de Celso, forma inflamatória grave da tinha do couro cabeludo por dermatófitos (geralmente Trichophyton tonsurans ou Microsporum canis). O tratamento de escolha é griseofulvina oral por 4-8 semanas, pois os antifúngicos tópicos não penetram no folículo piloso. Oxacilina trata bactérias; hidroxicloroquina e corticosteroide não são indicados como tratamento primário."
     },
     {
       "number": 48,
@@ -1339,7 +1385,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "A PA de 128x85 mmHg (acima do percentil 95 para idade/sexo/estatura, que é 121x78 mmHg) mantida em duas aferições, sem causa secundária identificável em adolescente com história familiar positiva para HAS, configura hipertensão arterial primária (essencial). Hipertensão secundária seria investigada com exames se a PA persistir elevada e não houver resposta; hipertensão estágio 2 exigiria PA ≥30 mmHg acima do percentil 95. Normotensão é excluída pelos valores."
     },
     {
       "number": 49,
@@ -1362,7 +1409,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "Lactente prematuro de 32 semanas com 6 meses de idade cronológica tem cerca de 3,5 meses de idade corrigida — abaixo do marco de 6 meses de idade corrigida recomendado para início da alimentação complementar. Além disso, o lactente não apresenta prontidão alimentar completa (não sustenta cabeça por mais de 1 minuto, sem controle cervical pleno). A conduta correta é reavaliar em 30 dias para verificar a prontidão, respeitando a idade corrigida e o desenvolvimento neuromotor."
     },
     {
       "number": 50,
@@ -1385,7 +1433,8 @@
       "origin_file": "TEP 2024 PED 10 09 2024 17 02 30 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O bullying é uma forma de violência repetida e intencional entre pares, com desequilíbrio de poder; sua abordagem eficaz exige ação conjunta de família e escola, com foco no diálogo, inclusão e reinserção de ambos — vítima e agressor. A expulsão do agressor não resolve o problema e pode perpetuar o ciclo de violência. Judicialização e punição exclusiva são medidas extremas que devem vir apenas após esgotadas as tentativas de intervenção pedagógica e psicossocial."
     },
     {
       "id": "TEP2023-Q01",
@@ -1408,7 +1457,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "A pressão arterial de 130×85 mmHg está acima do percentil 95 (125×78 mmHg) para este adolescente, o que confirma hipertensão arterial — definida como PA ≥ percentil 95 em três medidas separadas. O valor não atinge o limiar de crise hipertensiva (geralmente associada a sinais de lesão de órgão-alvo), descartando emergência. A pressão arterial 'normal alta' (pré-hipertensão) corresponderia a valores entre os percentis 90 e 95 (121×75 a 125×78 mmHg), e normotensão seria abaixo do percentil 90. Pérola clínica: classificar a PA pediátrica exige comparar com os percentis específicos para idade, sexo e estatura — nunca use valores absolutos de adultos."
     },
     {
       "id": "TEP2023-Q02",
@@ -1431,7 +1481,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "O calendário vacinal da SBP para a vacina meningocócica ACWY prevê doses primárias aos 3, 5 e 12 meses, um 1º reforço entre 4 e 6 anos de idade (alternativa C) e 2º reforço entre 11 e 13 anos. A alternativa B descreve o 2º reforço (não o 1º), a alternativa A confunde com o esquema de adultos para viajantes, e a alternativa D não corresponde ao calendário vigente. Pérola clínica: lembre-se que o reforço escolar da MenACWY ocorre entre 4–6 anos, antes da entrada na escola, e o reforço de adolescente entre 11–13 anos."
     },
     {
       "id": "TEP2023-Q03",
@@ -1454,7 +1505,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O canabidiol (CBD) tem aprovação regulatória e evidência científica robusta especificamente para Síndrome de Dravet e Síndrome de Lennox-Gastaut, ambas epilepsias refratárias graves com múltiplos tipos de crises — exatamente o perfil descrito (tônico-clônicas, ausências e crises atônicas, com atraso grave do DNPM desde o 1º ano). As outras opções (epilepsia temporal por tumor, epilepsia benigna centrotemporal e epilepsia mioclônica juvenil) são condições de melhor prognóstico ou com outras opções de tratamento eficazes, sem indicação estabelecida para CBD. Pérola clínica: CBD só tem indicação formal em epilepsias refratárias graves — Dravet e Lennox-Gastaut são as únicas aprovadas no Brasil."
     },
     {
       "id": "TEP2023-Q04",
@@ -1477,7 +1529,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "Quando há atraso vacinal, a recomendação é utilizar os intervalos mínimos entre doses para atualizar o esquema o mais rápido possível, sem reiniciar as doses já aplicadas — pois as vacinas já tomadas são válidas e não devem ser desconsideradas. Não há restrição quanto ao número de injeções por visita quando clinicamente indicado, e vacinas inativadas podem ser administradas em qualquer idade. Reiniciar o esquema (alternativa C) desperdiça imunidade já adquirida. Pérola clínica: nunca desconsidere doses prévias documentadas — aproveite-as e use intervalos mínimos para recuperar o atraso."
     },
     {
       "id": "TEP2023-Q05",
@@ -1500,7 +1553,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "Pacientes com imunodeficiência primária (IDP) não devem receber vacinas de agentes vivos atenuados, pois o organismo imunocomprometido não consegue controlar a replicação viral/bacteriana vacinal. As vacinas contraindicadas são: Tríplice viral (sarampo, caxumba, rubéola), Rotavírus, BCG, Polio oral (VOP), Febre amarela e Varicela — todas de agentes vivos. A alternativa D inclui Coronavac que é vacina inativada (permitida), sendo por isso incorreta. Alternativas A e C incluem vacinas inativadas (Pneumo-10, Hepatite A, Hib) que são seguras em imunodeficientes. Pérola clínica: em IDP, vacinas vivas são contraindicadas — memorize as siglas VOP, BCG, VORH, FA, VZ e tríplice viral."
     },
     {
       "id": "TEP2023-Q06",
@@ -1523,7 +1577,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A toxoplasmose congênita é a infecção que classicamente cursa com hiperproteinorraquia intensa no LCR (pela encefalite periventricular) e coriorretinite grave (podendo levar à cegueira), além da tríade clássica com hidrocefalia e calcificações intracranianas difusas. A CMV pode causar coriorretinite, mas é mais leve; a rubéola causa catarata e retinopatia em sal e pimenta; a sífilis causa neurossífilis com alterações do LCR, mas coriorretinite grave não é sua marca. Pérola clínica: na toxoplasmose congênita, lembre-se da tríade hidrocefalia + calcificações difusas + coriorretinite intensa, com LCR de aspecto xantocrômico e hiperproteinorraquia."
     },
     {
       "id": "TEP2023-Q07",
@@ -1546,7 +1601,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O quadro descreve dermatite irritativa de fraldas clássica: eritema perineal com maceração, pápulas e ulcerações em área de contato com a fralda. O tratamento consiste em limpeza suave com água morna, evitar lenços umedecidos (que contêm álcool e conservantes irritantes) e aplicar creme de barreira (óxido de zinco). Corticoides são contraindicados em primeira linha na dermatite irritativa simples, e antibióticos orais ou venosos só são indicados se houver infecção bacteriana secundária confirmada. Pérola clínica: lenços umedecidos pioram a dermatite de fralda — oriente sempre a higiene apenas com água e creme de barreira."
     },
     {
       "id": "TEP2023-Q08",
@@ -1569,7 +1625,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A evolução descrita — pústulas sem eritema ao redor que, ao se romperem, deixam máculas hiperpigmentadas — é o padrão clássico da melanose pustulosa neonatal transitória (MPNT), condição benigna e autolimitada do recém-nascido. Não há etiologia infecciosa e, portanto, o antibiótico deve ser suspenso imediatamente. Biópsia não é necessária, pois o diagnóstico é clínico e a evolução confirma a hipótese. Pérola clínica: MPNT é mais comum em RN de pele escura; as pústulas se rompem espontaneamente e deixam máculas escuras que desaparecem em semanas — não requer tratamento."
     },
     {
       "id": "TEP2023-Q09",
@@ -1592,7 +1649,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O quadro é de escabiose em lactente jovem (35 dias): lesões serpiginosas, pruriginosas, com piora noturna, acometendo palmas, plantas e pregas. Em menores de 2 meses, a permetrina 5% e a ivermectina oral são contraindicadas; o tratamento de escolha nessa faixa etária é a pasta de enxofre a 5–10%, que pode ser aplicada com segurança. O cetoconazol não tem indicação para escabiose. Pérola clínica: em lactentes com menos de 2 meses, use enxofre precipitado 5–10% para tratar escabiose — permetrina só acima de 2 meses e ivermectina a partir de 15 kg ou 5 anos."
     },
     {
       "id": "TEP2023-Q10",
@@ -1615,7 +1673,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O perfil sorológico mostra: anti-HAV IgG positivo (imunidade prévia/vacinação) e IgM negativo (descarta hepatite A aguda); HBsAg negativo e anti-HBc negativo (descarta hepatite B); anti-HCV negativo (descarta hepatite C). A combinação de FAN positivo em título alto (1/640 nucleolar) e anticorpo anti-músculo liso positivo (1/640) são autoanticorpos característicos de hepatite autoimune tipo 1. Pérola clínica: na hepatite autoimune tipo 1, os marcadores clássicos são anti-músculo liso e FAN positivos em títulos ≥1/80 — sempre excluir causas virais antes de afirmar o diagnóstico."
     },
     {
       "id": "TEP2023-Q11",
@@ -1638,7 +1697,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Em pré-escolares (abaixo de 4–5 anos), a coordenação respiratória para acionar inaladores de pó ou aerossóis sem espaçador é insuficiente; por isso, o dispositivo recomendado é o espaçador com válvula acoplado a máscara facial, que permite a inalação passiva do medicamento. Dispositivos de pó seco exigem fluxo inspiratório alto (impossível nessa faixa etária). Nebulizadores ultrassônicos podem desnaturar o medicamento. Pérola clínica: abaixo de 5 anos, use sempre espaçador com máscara; de 5 a 7 anos, espaçador com bocal; acima de 7 anos, inalador com bocal ou pó seco."
     },
     {
       "id": "TEP2023-Q12",
@@ -1661,7 +1721,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O Linfoma de Hodgkin é o diagnóstico mais provável: adolescente com linfadenopatia cervical indolor, endurecida, aderida, progressiva por semanas, com acometimento mediastinal à TC — clássico padrão de disseminação em continuidade. A medula óssea normal afasta leucemia. O Linfoma não Hodgkin em adolescentes também ocorre, mas tende a crescer mais rapidamente e comprometer mais frequentemente sítios extraganglionares. A doença da arranhadura do gato causa linfadenomegalia regional aguda e dolorosa. Pérola clínica: adolescente + adenopatia cervical indolor + mediastino alargado = Linfoma de Hodgkin até prova em contrário — o diagnóstico é confirmado por biópsia excisional."
     },
     {
       "id": "TEP2023-Q13",
@@ -1684,7 +1745,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O quadro reúne critérios de choque séptico com foco pulmonar (disfunção respiratória, hipotensão, taquicardia, má perfusão periférica, tempo de enchimento capilar de 6 segundos) após infecção respiratória aguda. O manejo imediato inclui oferta de O2, acesso vascular e infusão de cristaloide em bólus de 10–20 mL/kg conforme as diretrizes atuais. Choque cardiogênico não é o diagnóstico principal neste caso sem achados cardíacos ou sombra cardíaca aumentada; a restrição hídrica seria perigosa. Pérola clínica: no choque séptico pediátrico, inicie ressuscitação com cristaloide 10–20 mL/kg rapidamente e reavalie sinais de perfusão após cada bólus."
     },
     {
       "id": "TEP2023-Q14",
@@ -1707,7 +1769,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A Síndrome da Enterocolite Induzida por Proteína Alimentar (FPIES) é uma reação alérgica não IgE mediada que se manifesta com vômitos profusos e repetitivos (em jato) 1–4 horas após a ingestão do alimento desencadeante, acompanhados de letargia, palidez e hipotonia, podendo haver diarreia tardia — exatamente como descrito após a ingestão de ovo. A dismotilidade gástrica e o refluxo não causam esse padrão agudo e grave. A enteropatia eosinofílica tem apresentação mais crônica. Pérola clínica: FPIES = vômitos profusos + letargia/palidez 1–4 horas após alimento específico, sem urticária ou broncoespasmo — é alergia não IgE mediada."
     },
     {
       "id": "TEP2023-Q15",
@@ -1730,7 +1793,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "Este RN a termo apresenta rotura de bolsa de 20 horas (fator de risco isolado para sepse precoce), mas tem estreptococo B negativo, ausência de febre materna e está clinicamente assintomático e estável. De acordo com as diretrizes da SBP baseadas na calculadora de risco de sepse neonatal (Neonatal Early-Onset Sepsis Calculator), este perfil indica apenas observação clínica seriada por 48 horas, sem necessidade de exames ou antibióticos de imediato. Iniciar antibioticoterapia ou coletar hemocultura/líquor não é justificado na ausência de sinais clínicos. Pérola clínica: rotura de bolsa isolada sem outros fatores de risco e RN assintomático = observação clínica; só investigue e trate se surgirem sintomas."
     },
     {
       "id": "TEP2023-Q16",
@@ -1753,7 +1817,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Os critérios diagnósticos da Artrite Idiopática Juvenil (AIJ), conforme a ILAR e reafirmados pela SBP, exigem: início antes dos 16 anos, artrite em uma ou mais articulações e duração superior a 6 semanas. Autoanticorpos não são obrigatórios (apenas o fator reumatoide e o ANA são usados para classificação de subtipos). O início após 16 anos não é critério de AIJ. Pérola clínica: para AIJ, lembre os três critérios obrigatórios — início antes de 16 anos + artrite em ≥1 articulação + duração ≥6 semanas, após exclusão de outras causas."
     },
     {
       "id": "TEP2023-Q17",
@@ -1776,7 +1841,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A SBP recomenda que os pediatras avaliem os sinais de prontidão para o desfralde por volta dos 24 meses, pois essa é a idade em que muitas crianças já demonstram maturidade fisiológica e psicológica necessária. O desfralde coletivo não é ideal sem considerar a prontidão individual. Iniciar o treinamento aos 4 anos não previne melhor a enurese. A integração social é um bônus, mas não justifica impor o desfralde antes da prontidão. Pérola clínica: o desfralde deve ser orientado individualmente pelos sinais de prontidão, idealmente avaliados com 24 meses — forçar antes aumenta o risco de resistência, constipação e enurese."
     },
     {
       "id": "TEP2023-Q18",
@@ -1799,7 +1865,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "A ausência de pulsos femorais palpáveis em RN com taquicardia, taquipneia, palidez e baixa saturação é o sinal cardinal de coarctação crítica da aorta — a obstrução do istmo aórtico impede o fluxo para a metade inferior do corpo. O diagnóstico diferencial inclui outras cardiopatias ducto-dependentes, mas a ausência de pulso femoral é o achado patognomônico da coarctação. CIV e CIA raramente causam crise tão grave no neonato; a PCA causa pulsos amplos, não ausentes. Pérola clínica: RN com ausência de pulsos femorais = coarctação de aorta até prova em contrário — inicie prostaglandina E1 imediatamente para manter o canal arterial patente."
     },
     {
       "id": "TEP2023-Q19",
@@ -1822,7 +1889,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "A vacina febre amarela é vírus vivo atenuado e pode ser excretado no leite materno, com relatos de casos de encefalite vacinal em lactentes amamentados. A SBP e o MS recomendam interromper o aleitamento por 10 dias após a vacinação da mãe lactante para eliminar o risco de transmissão do vírus vacinal ao lactente. Quatro semanas é tempo excessivo e desnecessário; manter o aleitamento sem interrupção expõe o lactente de 2 meses ao risco. Pérola clínica: mãe que vacina contra febre amarela deve suspender o aleitamento por 10 dias — use fórmula infantil nesse período e mantenha a ordenha para não perder a produção."
     },
     {
       "id": "TEP2023-Q20",
@@ -1845,7 +1913,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O conjunto de sinais — comportamento visual atípico, não atender ao chamado (sem resposta à voz), ausência de interesse social, movimentos repetitivos (estereotipias) e atraso de linguagem — constitui a tríade clássica do Transtorno do Espectro Autista (TEA): déficit na comunicação social, dificuldades de interação e comportamentos repetitivos/restritos. TDAH cursa com hiperatividade e impulsividade, não com alheamento social e estereotipias. TOD tem agressividade e desafio à autoridade. Pérola clínica: a tríade de alerta para TEA é: ausência de contato visual/interesse social + falta de linguagem/comunicação + comportamentos repetitivos — rastreie desde os 18 meses."
     },
     {
       "id": "TEP2023-Q21",
@@ -1868,7 +1937,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Na Síndrome de Down, a cardiopatia congênita está presente em 40–50% dos casos e é a principal causa de morbimortalidade nos primeiros anos; por isso, o ecocardiograma com Doppler colorido é o exame prioritário logo ao nascimento, junto ao cariótipo. A instabilidade atlantoaxial é investigada a partir dos 3–5 anos, não ao nascimento. Neuroimagem não é indicação de rotina. Pérola clínica: ao diagnosticar Síndrome de Down, solicite imediatamente cariótipo + ecocardiograma — não espere a primeira consulta de seguimento para avaliar cardiopatia."
     },
     {
       "id": "TEP2023-Q22",
@@ -1891,7 +1961,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Aos 9 meses, espera-se que o lactente sente sem apoio (a partir de 6–7 meses), produza sons e sílabas, demonstre interesse por pares e bata palmas. Este lactente ainda senta apenas com apoio, não bate palmas e não interage com colegas, sinais de atraso motor grosso e social para a idade. Embora emita sorriso social e pegue objetos, os atrasos observados (especialmente motor e de interação) justificam investigação — por isso a conduta é observar se está sendo adequadamente estimulado e acompanhar com atenção. Pérola clínica: sentar sem apoio aos 9 meses é esperado — a ausência desse marco junto com atraso social deve acender o alerta para atraso de DNPM."
     },
     {
       "id": "TEP2023-Q23",
@@ -1914,7 +1985,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O protocolo do teste do coraçãozinho (triagem para cardiopatia crítica) prevê: se a saturação pré-ductal (MSD) for ≥95% com diferença ≤3% em relação ao membro inferior, o teste é negativo. Neste caso, a SatO2 é 94% no MSD e 90% no MI — resultado alterado. Pela norma da SBP, o próximo passo é repetir o teste em 1 hora; somente se persistir alterado numa terceira medida é que se indica ecocardiograma. Transferir para UTI ou solicitar ecocardiograma diretamente após a segunda medida seria precipitado. Pérola clínica: no teste do coraçãozinho, são necessárias três medidas alteradas consecutivas (com 1 hora de intervalo) antes de indicar ecocardiograma."
     },
     {
       "id": "TEP2023-Q24",
@@ -1937,7 +2009,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A síndrome da realimentação ocorre quando pacientes gravemente desnutridos recebem oferta calórica rápida: o anabolismo celular consome fosfato, magnésio e potássio intracelular, levando a hipofosfatemia, hipomagnesemia e hipocalemia — os três distúrbios mais perigosos. A hipofosfatemia é o mais grave, podendo causar falência cardiorrespiratória. Os estados hiper (hiperfosfatemia, hipercalemia) são o oposto do que ocorre. Pérola clínica: em qualquer paciente gravemente desnutrido que inicia realimentação, monitore fosfato, magnésio e potássio séricos diariamente — a hipofosfatemia grave é fatal e frequentemente subestimada."
     },
     {
       "id": "TEP2023-Q25",
@@ -1960,7 +2033,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Em lactentes com menos de 4 meses, o núcleo femoral ainda não está ossificado e não aparece à radiografia, tornando a ultrassonografia o exame de escolha para avaliar a displasia do desenvolvimento do quadril (DDQ) — ela permite visualizar a cabeça femoral cartilaginosa e a cobertura acetabular. A TC expõe a radiação desnecessária e a RM tem indicações específicas; ambas são menos práticas nessa faixa etária. Pérola clínica: antes dos 4 meses, o diagnóstico de DDQ é ultrassonográfico; após 4–6 meses, quando o núcleo já está ossificado, a radiografia de bacia se torna o exame padrão."
     },
     {
       "id": "TEP2023-Q26",
@@ -1983,7 +2057,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "O quadro é de herpes-zóster: reativação do VZV em adolescente com história de varicela prévia, lesões vesiculares em cacho, unilaterais, seguindo dermátomo cervical sem cruzar a linha média, com dor e queimação precedendo as lesões. O tratamento é aciclovir oral (800 mg 5x/dia por 7 dias em adolescentes) iniciado idealmente até 72 horas das lesões. Cefalexina seria para infecção bacteriana, deltametrina para parasitoses, retapamulina para impetigo. Pérola clínica: herpes-zóster = vesículas unilaterais em dermátomo com neuralgia precedente — trate com aciclovir oral em até 72 horas para reduzir a gravidade e o risco de neuralgia pós-herpética."
     },
     {
       "id": "TEP2023-Q27",
@@ -2006,7 +2081,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A 'síndrome da adolescência normal' de Aberastury e Knobel descreve características esperadas do desenvolvimento psicossocial adolescente: deslocamento temporal (viver no presente imediato), flutuações do humor, contradições, ambivalência e comportamento contraditório. Abuso de drogas e agressividade não fazem parte do comportamento normal. A rejeição religiosa pode ocorrer, mas o item mais representativo das características normais do ponto de vista psicossocial é o deslocamento temporal com oscilações de humor. Pérola clínica: os 9 sinais da síndrome da adolescência normal incluem luto pelo corpo infantil, flutuação do humor, contradição e ambivalência — reconhecê-los evita medicalização desnecessária."
     },
     {
       "id": "TEP2023-Q28",
@@ -2029,7 +2105,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A combinação de cefaleia matinal, vômitos em jato (hipertensão intracraniana), edema de papila bilateral, ataxia de marcha, Romberg positivo e torcicolo (inclinação lateral da cabeça) em pré-escolar é o padrão clássico de tumor de fossa posterior — e o meduloblastoma é o tumor cerebral maligno mais comum nessa faixa etária e localização. Adenoma de hipófise é raro em crianças pequenas e não causa ataxia. Empiema e neurotuberculose cursam com febre e sinais meníngeos. Pérola clínica: cefaleia matinal + vômitos + ataxia em criança pequena = tumor de fossa posterior até prova em contrário — solicite RM de encéfalo com contraste urgentemente."
     },
     {
       "id": "TEP2023-Q29",
@@ -2052,7 +2129,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O paciente usa propranolol (betabloqueador), que bloqueia os receptores β-adrenérgicos — o mecanismo de ação da adrenalina para reverter a anafilaxia. Mesmo com três doses de adrenalina IM, a anafilaxia permanece refratária porque o betabloqueador impede sua ação vasopressora e broncodilatadora. Nesse cenário, o glucagon intravenoso é o fármaco de escolha, pois age por receptores não-adrenérgicos (receptores de glucagon), promovendo efeito inotrópico e cronotrópico positivo independentemente dos receptores β. Corticosteroides têm ação lenta e não resolvem a emergência imediata. Pérola clínica: anafilaxia refratária em usuário de betabloqueador = glucagon IV — é o único agente que supera o bloqueio β-adrenérgico."
     },
     {
       "id": "TEP2023-Q30",
@@ -2075,7 +2153,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "As diretrizes pediátricas recomendam que, quando a nutrição enteral por sonda nasogástrica/nasoentérica é necessária por mais de 4–6 semanas (aproximadamente 4 semanas segundo a maioria dos consensos), deve-se considerar gastrostomia para via de alimentação mais estável, confortável e com menor risco de deslocamento. Com 7 semanas de uso de sonda, a gastrostomia endoscópica percutânea (GEP) está claramente indicada. Manter a sonda NE por mais tempo é inadequado; nutrição parenteral não é a melhor opção se o TGI está funcionante. Pérola clínica: sonda nasogástrica por mais de 4–6 semanas = indicação de gastrostomia — a GEP oferece via mais segura, confortável e com menos complicações a longo prazo."
     },
     {
       "id": "TEP2023-Q31",
@@ -2098,7 +2177,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A sepse neonatal precoce (até 72 horas de vida) tem como agentes etiológicos mais frequentes o Streptococcus agalactiae (estreptococo do grupo B) e a Escherichia coli, que colonizam o trato genital materno e são adquiridos pelo RN durante a passagem pelo canal de parto. Staphylococcus epidermidis é o principal agente de sepse tardia em prematuros (associado a cateteres). Gonococo e Acinetobacter não são causas típicas de sepse precoce neonatal. Pérola clínica: sepse neonatal precoce = Streptococcus agalactiae + E. coli — cubra ambos com ampicilina + aminoglicosídeo empiricamente."
     },
     {
       "id": "TEP2023-Q32",
@@ -2121,7 +2201,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Na icterícia hemolítica por incompatibilidade ABO com bilirrubina de 14 mg/dL às 48 horas, o risco de progressão rápida por hemólise ativa exige fototerapia intensiva (irradiância ≥30 µW/cm²/nm), não fototerapia convencional domiciliar. A monitorização da hemólise é necessária para ajustar a terapia. Imunoglobulina EV é reservada para casos de hemólise grave com bilirrubina em zona de exsanguineotransfusão ou quando a fototerapia intensiva falha. Fototerapia convencional em casa seria insuficiente para o nível de bilirrubina e risco presentes. Pérola clínica: incompatibilidade ABO com hemólise = fototerapia intensiva hospitalar (≥30 µW/cm²/nm) com monitorização da curva de bilirrubina e hemólise."
     },
     {
       "id": "TEP2023-Q33",
@@ -2144,7 +2225,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O quadro descreve uma menina com desatenção, ausências ('desligada'), caligrafia com lacunas no meio dos textos — padrão clássico de crises de ausência (epilepsia de ausência da infância), em que a criança perde a consciência brevemente e não registra o que acontece durante a crise. A caligrafia incompleta nas partes centrais reflete justamente o momento da crise. A conduta correta é solicitar EEG, que mostrará a descarga ponta-onda 3 Hz generalizada. TDAH não causa essas 'falhas' específicas. Pérola clínica: criança 'distraída' com trechos do meio da cópia faltando = crises de ausência — EEG com hiperventilação confirma o diagnóstico e diferencia do TDAH."
     },
     {
       "id": "TEP2023-Q34",
@@ -2167,7 +2249,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O vérnix caseoso funciona como barreira protetora da pele do RN, com propriedades antimicrobianas e hidratantes; sua remoção precoce aumenta a perda transepidérmica de água e o risco de lesão cutânea. As recomendações atuais orientam que o vérnix não deve ser removido nas primeiras horas de vida. A exposição solar para icterícia não é recomendada (risco de queimadura), sabonetes de glicerina não são os únicos recomendados e as unhas devem ser cortadas em linha reta. Pérola clínica: o vérnix caseoso é benéfico — não o remova; espere que o próprio RN o absorva nas primeiras horas de vida."
     },
     {
       "id": "TEP2023-Q35",
@@ -2190,7 +2273,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A paralisia flácida ascendente, com início distal (pés) subindo em direção proximal, arreflexia e déficit sensorial (formigamento), é a apresentação clássica da Síndrome de Guillain-Barré (polirradiculoneuropatia inflamatória aguda). O AVC não causa padrão ascendente nem arreflexia; a mielite transversa tem nível sensitivo definido e hiperreflexia abaixo da lesão; a neuromielite óptica afeta também os olhos e o nervo óptico. Pérola clínica: paralisia flácida ascendente + arreflexia = Guillain-Barré — monitore a função respiratória (CVF) de perto e investigue com LCR (dissociação proteico-citológica)."
     },
     {
       "id": "TEP2023-Q36",
@@ -2213,7 +2297,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O pré-escolar de 4 anos com pneumonia sem critérios de gravidade (SatO2 95%, FR 38, sem esforço intenso, bom estado geral quando afebril, melhora com antitérmico) pode ser tratado ambulatorialmente. O agente mais provável nessa faixa etária é o Streptococcus pneumoniae, e a droga de primeira linha é a amoxicilina oral em dose adequada. Amoxicilina com clavulanato não é indicada de rotina para PAC sem suspeita de germe resistente. Azitromicina seria para atípicos (>5 anos com suspeita de Mycoplasma). A internação é reservada para critérios de gravidade ausentes neste caso. Pérola clínica: PAC sem critérios de gravidade em criança = amoxicilina oral ambulatorial; internação só se taquipneia grave, hipoxemia, intolerância oral ou falha terapêutica."
     },
     {
       "id": "TEP2023-Q37",
@@ -2236,7 +2321,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "Crianças com HIV são consideradas de alto risco para tuberculose ativa, independentemente do resultado do PPD, pois a imunodepressão pode falsiamente negativar o teste. O Manual de Controle da Tuberculose do Brasil recomenda que contatos de tuberculose bacilífera que sejam HIV positivos recebam tratamento preventivo (isoniazida) independentemente do PPD — não é necessário aguardar ou repetir o teste. Iniciar esquema completo de tratamento seria indicado apenas se houvesse TB ativa confirmada, o que não é o caso aqui (assintomático, RX normal). Pérola clínica: criança HIV+ contactante de TB pulmonar = iniciar profilaxia com isoniazida independentemente do PPD — a imunodeficiência invalida o critério do PPD ≥5 mm."
     },
     {
       "id": "TEP2023-Q38",
@@ -2259,7 +2345,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Xenobióticos são substâncias estranhas ao organismo, incluindo pesticidas, conservantes, corantes e aditivos químicos industriais. Alimentos sem xenobióticos são aqueles que não contêm conservantes e utilizam frutas frescas descascadas (que perdem a camada externa com agrotóxicos). Alimentos industrializados quase sempre contêm aditivos; 'in natura' embalados em plástico podem ter contaminação por plastificantes; dieta vegana não é sinônimo de ausência de xenobióticos. Pérola clínica: xenobiótico = substância química artificial (conservantes, agrotóxicos, plastificantes) — orientar alimentos frescos, naturais, sem conservantes é a chave da questão."
     },
     {
       "id": "TEP2023-Q39",
@@ -2282,7 +2369,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Um lactente de 2 meses em aleitamento materno exclusivo que cresce em comprimento mas não ganha peso adequadamente pode estar com frequência ou técnica de mamada subótima, ou a mãe pode estar com produção insuficiente ainda em ajuste. A conduta inicial correta é manter o aleitamento exclusivo e retornar em 7 dias para nova pesagem, orientando a mãe sobre sinais de fome, pega e frequência das mamadas. Introduzir fórmula prematuramente reduz a produção de leite (fisiologia da oferta e demanda) e não é indicado sem avaliar a causa do baixo ganho. Pérola clínica: baixo ganho ponderal em AME = avaliar técnica/frequência das mamadas e pesar em 7 dias antes de introduzir fórmula — a suplementação precoce sabota a lactação."
     },
     {
       "id": "TEP2023-Q40",
@@ -2305,7 +2393,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "As diretrizes atuais recomendam suspender a antibioticoterapia empírica após 48 horas se a hemocultura for negativa, a proteína C reativa for normal e o prematuro estiver clinicamente estável — essa estratégia de 'antimicrobial stewardship' reduz o uso desnecessário de antibióticos, que está associado a disbiose, colonização por germes resistentes e maior risco de enterocolite necrosante. O uso prolongado empírico de antibióticos é, na verdade, fator de risco para sepse grave e ECN — o oposto da alternativa A. Urocultura tem valor na sepse tardia (colhida por cateter). Pérola clínica: em prematuro com hemocultura negativa e PCR normal após 48 horas = suspenda o antibiótico — o uso prolongado injustificado causa mais mal do que bem."
     },
     {
       "id": "TEP2023-Q41",
@@ -2328,7 +2417,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A cultura do líquido pleural cresceu diplococos gram-positivos, compatíveis com Streptococcus pneumoniae. O pneumococo é altamente sensível à penicilina na maioria dos casos de pneumonia comunitária em crianças brasileiras, e a penicilina cristalina continua sendo o tratamento de escolha — não há razão para escalar o antibiótico. A evolução com febre por 24 horas após drenagem pleural é esperada e não indica falha do antibiótico. Ceftriaxona, claritromicina ou oxacilina seriam para cobrir outros germes não identificados aqui. Pérola clínica: pneumonia pneumocócica com derrame pleural em criança = manter penicilina cristalina após confirmação do agente — a troca de antibiótico só é indicada se houver deterioração clínica ou resistência documentada."
     },
     {
       "id": "TEP2023-Q42",
@@ -2351,7 +2441,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O lactente apresenta desidratação moderada: irritado, sem lágrimas, pulso débil — mas ainda com enchimento capilar de 2 segundos (desidratação sem choque). Segundo o protocolo do Ministério da Saúde, desidratação moderada (Plano B) é tratada com SRO 50–100 mL/kg em 4–6 horas no próprio serviço de saúde, com supervisão. Hidratação venosa (Plano C) é para choque ou incapacidade de ingerir SRO. Enviar para casa (200 mL/kg) seria inadequado para a gravidade. Transferir para centro de referência não é necessário se puder ser tratado no local. Pérola clínica: desidratação moderada sem choque = Plano B do MS: SRO 50–100 mL/kg em 4–6 horas no serviço — somente choque indica hidratação venosa imediata."
     },
     {
       "id": "TEP2023-Q43",
@@ -2374,7 +2465,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O pré-escolar com asma persistente moderada/grave (múltiplas visitas à emergência, internação, uso diário de broncodilatador com pouco controle) necessita de terapia controladora com corticoide inalado (CI) em dose baixa a moderada associado a beta-agonista de curta duração (SABA) como resgate — este é o passo de tratamento indicado para asma persistente moderada conforme as diretrizes GINA e SBP para essa faixa etária (abaixo de 4 anos). Beta-agonistas de longa ação (LABA) não são aprovados para menores de 4 anos. Palivizumabe é profilaxia de VSR, não tem papel no controle da asma. Pérola clínica: asma persistente em pré-escolar = CI em dose baixa/moderada + SABA resgate; LABA não é aprovado abaixo de 5–6 anos."
     },
     {
       "id": "TEP2023-Q44",
@@ -2397,7 +2489,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "O RN com 10 dias apresentando pseudoparalisia (dor à mobilização dos membros), hepatoesplenomegalia, icterícia, anemia e lesões eritemato-bolhosas em palmas e plantas são achados clássicos de sífilis congênita precoce. As lesões bolhosas palmo-plantares são praticamente patognomônicas da sífilis congênita. CMV pode causar hepatoesplenomegalia e icterícia, mas não as lesões palmares características. Osteomielite por S. aureus é focal, não multissistêmica. Tocotraumatismo não causa esse perfil. Pérola clínica: bolhas palmo-plantares + pseudoparalisia + hepatoesplenomegalia no RN = sífilis congênita — confirme com VDRL e trate com penicilina cristalina."
     },
     {
       "id": "TEP2023-Q45",
@@ -2420,7 +2513,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "Os sinais de alerta para erros inatos da imunidade (EII/IDP) incluem: infecções graves (pneumonia com necessidade de UTI = infecção grave, não apenas 'respiratória'), história familiar de óbito precoce inexplicado (irmão da mãe com 1 ano), diarreia crônica e citopenias (linfopenia: 12,3% com leucocitos de 7310 = cerca de 900 linfócitos/mm³, abaixo do esperado para 5 meses). Eczema e alergia à PLV são manifestações atópicas comuns, não sinais primários de IDP. A diferença entre A e B é que a infecção é 'grave' (UTI/intubação), não apenas 'respiratória'. Pérola clínica: os 10 sinais de alerta de IDP incluem infecções graves/recorrentes, óbito familiar precoce, diarreia crônica e citopenias — a linfopenia em lactente é sinal crítico."
     },
     {
       "id": "TEP2023-Q46",
@@ -2443,7 +2537,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A Imunodeficiência Combinada Grave (SCID) é o diagnóstico mais provável: lactente com linfopenia grave, ausência de sombra tímica (aplasia do timo), infecção grave precoce, diarreia crônica e óbito familiar em idade precoce. A SCID afeta tanto a imunidade celular quanto humoral desde os primeiros meses. Agamaglobulinemia ligada ao X afeta apenas linfócitos B (sem linfopenia total). Deficiência de adesão leucocitária cursa com leucocitose e infecções bacterianas sem pus. Fibrose cística não é imunodeficiência primária. Pérola clínica: SCID = ausência de timo à radiografia + linfopenia grave em lactente jovem — é emergência pediátrica, pois sem transplante de medula óssea precoce, o prognóstico é fatal."
     },
     {
       "id": "TEP2023-Q47",
@@ -2466,7 +2561,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O contato pele a pele imediato na sala de parto (método canguru precoce) e a avaliação da pega correta durante as primeiras mamadas são intervenções com evidência robusta de impacto positivo no estabelecimento e duração do aleitamento materno. A SBP recomenda AME por 6 meses e amamentação complementada até 2 anos ou mais (não apenas 1 ano — alternativa A errada). Dietas especiais maternas não são necessárias para o bom ganho de peso do bebê. O colostro é rico em proteínas e anticorpos, não em lactose e gordura (alternativa D errada). Pérola clínica: os dois pilares do sucesso da amamentação são o contato pele a pele precoce e a pega correta nas primeiras horas — intervenções simples com impacto enorme."
     },
     {
       "id": "TEP2023-Q48",
@@ -2489,7 +2585,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "A domperidona é um procinético antagonista da dopamina que acelera o esvaziamento gástrico. Conforme o documento científico da SBP, sua única indicação aceita em pediatria é a gastroparesia pós-processos virais, onde o esvaziamento gástrico está comprovadamente prejudicado. Na DRGE simples, síndrome de Sandifer e esofagites, o mecanismo não é gastroparesia e a domperidona não tem benefício comprovado. Além disso, há alertas internacionais sobre o risco de arritmia com seu uso. Pérola clínica: domperidona só tem indicação pediátrica aceita na gastroparesia pós-viral — não use rotineiramente em DRGE, pois o risco cardiovascular supera os benefícios na maioria dos casos."
     },
     {
       "id": "TEP2023-Q49",
@@ -2512,7 +2609,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": true
+      "requires_2026_review": true,
+      "commentary": "De acordo com a SBP, lactentes nascidos a termo em aleitamento materno exclusivo devem receber suplementação de ferro elementar na dose de 1 mg/kg/dia a partir do 6º mês de vida, pois o leite materno, embora com ferro de alta biodisponibilidade, contém quantidade insuficiente para atender à demanda crescente do lactente após os 6 meses. Prematuros e lactentes de baixo peso recebem suplementação mais precoce (a partir do 1º mês) e em doses maiores (2 mg/kg/dia). A dose de 5 mg/kg/dia é usada no tratamento de anemia ferropriva, não como profilaxia. Pérola clínica: RN a termo em AME = ferro 1 mg/kg/dia a partir dos 6 meses; prematuro = 2 mg/kg/dia a partir de 30 dias de vida."
     },
     {
       "id": "TEP2023-Q50",
@@ -2535,7 +2633,8 @@
       "origin_file": "TEP PED 2023 10 09 2024 16 59 24 download.pdf",
       "source_type": "prova_pdf",
       "type": "objetiva",
-      "requires_2026_review": false
+      "requires_2026_review": false,
+      "commentary": "O teste do pezinho com HbFS indica anemia falciforme (hemoglobina fetal + hemoglobina S, sem HbA), e a esplenomegalia aguda com palidez súbita e prostração em lactente de 7 meses caracteriza o sequestro esplênico — complicação aguda em que grandes volumes de sangue ficam retidos no baço, causando queda brusca da hemoglobina. A alfa talassemia não é detectada pelo padrão HbFS. Síndrome torácica aguda cursa com dor torácica, febre e infiltrado pulmonar, não com esplenomegalia aguda. Pérola clínica: HbFS no pezinho + esplenomegalia aguda + palidez súbita em lactente = sequestro esplênico na anemia falciforme — emergência que requer transfusão imediata e monitorização intensiva."
     },
     {
       "id": "TEP2025-Q01",
@@ -3496,7 +3595,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O Tumor de Wilms (nefroblastoma) é o tumor renal mais comum na infância, tipicamente em pré-escolares, e se apresenta com massa abdominal palpável unilateral (sem cruzar a linha média inicialmente), hipertensão arterial e hematúria microscópica — exatamente como descrito. A ultrassonografia abdominal total é o exame inicial de escolha por ser não invasiva, acessível e capaz de confirmar a origem renal da massa e afastar envolvimento contralateral. O linfoma não costuma causar massa renal solitária nessa faixa etária, a GDA e a Púrpura de HSP não cursam com massa sólida abdominal. A pérola clínica: criança pré-escolar + massa abdominal + HAS + hematúria = Tumor de Wilms até prova em contrário."
     },
     {
       "id": "tep_2018_pdf_q02",
@@ -3521,7 +3620,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A Leucemia Linfoblástica Aguda (LLA) é a neoplasia mais comum na infância e se manifesta com pancitopenia (palidez, petéquias), hepatoesplenomegalia, linfadenopatia generalizada, dores ósseas e febre — quadro clássico desta paciente. A presença de sopro funcional decorre da anemia grave. O neuroblastoma raramente cursa com adenomegalias múltiplas e hepatoesplenomegalia concomitantes; a artrite reumatoide juvenil não causa petéquias; a febre reumática não produz pancitopenia. A pérola: dores ósseas + palidez + adenomegalia + hepatoesplenomegalia + petéquias em criança = investigar LLA imediatamente com hemograma e mielograma."
     },
     {
       "id": "tep_2018_pdf_q03",
@@ -3546,7 +3645,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Crianças em uso de corticoide em dose imunossupressora (≥2 mg/kg/dia por ≥14 dias) são consideradas imunodeprimidas e não devem receber vacinas de vírus vivos atenuados, como tetraviral (sarampo, caxumba, rubéola e varicela) e febre amarela, até pelo menos um mês após a suspensão do corticoide. A BCG também é contraindicada, mas a alternativa A pede para aplicar, o que estaria errado. Vacinas inativadas (tríplice bacteriana) são seguras, mas a tríplice viral (que contém vírus vivos) não deve ser administrada durante a imunossupressão. A pérola: corticoide ≥2 mg/kg/dia = contraindicação a vírus vivos; suspender e aguardar ≥1 mês antes de vaciná-las."
     },
     {
       "id": "tep_2018_pdf_q04",
@@ -3571,7 +3670,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A rubéola é causada pelo Togavírus (vírus da rubéola) e classicamente se apresenta com linfadenopatia retroauricular e suboccipital (patognomônica), exantema maculopapular róseo de progressão cefalocaudal sem descamação, e manchas de Forchheimer (petéquias no palato mole) — todos presentes neste caso. O sarampo difere por apresentar manchas de Koplik, febre alta, coriza, conjuntivite intensa e exantema mais intenso com descamação. Rotavírus e norovírus causam gastroenterite, não exantema. A pérola: adenomegalia retroauricular + exantema rosado fino + manchas em palato mole = rubéola."
     },
     {
       "id": "tep_2018_pdf_q05",
@@ -3596,7 +3695,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O quadro descrito é típico da Doença de Kawasaki: febre persistente ≥5 dias, conjuntivite não purulenta, adenomegalia cervical, edema de extremidades, lábios secos e fissurados — critérios diagnósticos clássicos. O tratamento precoce com imunoglobulina intravenosa (IGIV, 2 g/kg em dose única) reduz drasticamente o risco de formação de aneurismas coronarianos, que é a principal complicação. Antibióticos não têm papel no tratamento, pois a etiologia é imunológica/vasculítica, não infecciosa bacteriana. A pérola: febre >5 dias + 4 critérios de Kawasaki = IGIV imediatamente para prevenir complicações cardíacas."
     },
     {
       "id": "tep_2018_pdf_q06",
@@ -3621,7 +3720,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A fissura mamilar decorre principalmente de pega incorreta do bebê ao seio, e a conduta correta é manter o aleitamento materno corrigindo a técnica de amamentação. O bebê com 15 dias ganhando peso adequadamente (3.650 g, com 150 g acima do peso de nascimento) confirma que a amamentação está sendo efetiva. Interromper a amamentação, mesmo unilateralmente, piora o ingurgitamento, reduz a produção láctea e não trata a causa. Compressas mornas podem aliviar o ingurgitamento, mas não são a conduta principal para fissura. A pérola: fissura mamilar = corrigir a pega, nunca interromper o aleitamento materno."
     },
     {
       "id": "tep_2018_pdf_q07",
@@ -3646,7 +3745,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O lactente de 4 meses com história de asfixia perinatal grave (Apgar 1/4/7, mecônio espesso, necessidade de reanimação) apresenta sinais de encefalopatia hipóxico-isquêmica: não sustenta a cabeça (marco esperado aos 3-4 meses), reflexos primitivos exacerbados, postura anormal em semiflexão — indicativos de distúrbio neuropsicomotor. Afirmar que a recuperação será completa (alternativa C) seria incorreto sem acompanhamento longitudinal; já afirmar atraso definitivo (B) também é prematura, pois o prognóstico depende da extensão da lesão. O acompanhamento multiprofissional (fisioterapia, fonoaudiologia, neurologia) é essencial para otimizar o desenvolvimento. A pérola: asfixia grave ao nascer + atraso de marcos = encaminhamento para equipe multiprofissional, sem prognóstico definitivo precoce."
     },
     {
       "id": "tep_2018_pdf_q08",
@@ -3671,7 +3770,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A Taquipneia Transitória do Recém-Nascido (TTRN) ocorre classicamente em neonatos a termo nascidos por cesárea eletiva, pois a passagem pelo canal de parto é responsável pela 'compressão torácica' que expulsa o líquido pulmonar fetal. Sem esse mecanismo, o líquido persiste nos pulmões temporariamente, gerando taquipneia, retrações leves e aumento da trama vascular ao RX, com resolução espontânea em 24-72 horas. Líquido amniótico claro afasta síndrome de aspiração meconial; ausência de febre e de fatores de risco afasta pneumonia; a hipertensão pulmonar cursaria com hipoxemia refratária. A pérola: RN a termo + cesárea + taquipneia precoce + trama vascular aumentada ao RX = TTRN."
     },
     {
       "id": "tep_2018_pdf_q09",
@@ -3696,7 +3795,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Atenção: a questão 9 apresenta problema de extração do PDF — as alternativas listadas (febre, tosse, hiperemia, abaulamento) não correspondem ao enunciado sobre icterícia neonatal em RN de 18 horas com incompatibilidade ABO (mãe O+, RN B+). Com base no contexto clínico original, a resposta correta assinalada é C (hiperemia), o que provavelmente se referia à indicação de fototerapia para icterícia neonatal precoce por incompatibilidade ABO. A incompatibilidade ABO é a causa mais comum de doença hemolítica neonatal; icterícia em menos de 24 horas é sempre considerada patológica e exige investigação e tratamento. A pérola: icterícia nas primeiras 24h de vida = sempre patológica, investigar hemólise e indicar fototerapia se necessário."
     },
     {
       "id": "tep_2018_pdf_q10",
@@ -3721,7 +3820,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O quadro de queimação, prurido nos mamilos, hiperemia com aspecto brilhante e friável durante a amamentação é típico de candidíase mamária (mastite por Candida), causada pelo fungo Candida albicans. A candidíase mamilar na mãe geralmente não apresenta lesões visíveis na orofaringe do lactente nesta fase inicial, mas é importante tratar apenas a mãe com antifúngico tópico (nistatina ou miconazol creme) mantendo a amamentação. Tratar o lactente assintomático não é necessário, e antifúngico oral para a mãe não é a primeira escolha para candidíase mamilar sem candidíase sistêmica. A pérola: dor em queimação nos mamilos com aspecto brilhante = candidíase mamilar; tratar mãe com antifúngico tópico, manter amamentação."
     },
     {
       "id": "tep_2018_pdf_q11",
@@ -3746,7 +3845,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O quadro de icterícia flutuante à custa de bilirrubina indireta em adolescente saudável, com hemograma e função hepática normais, e piora associada a doenças intercorrentes (resfriado) é clássico da Síndrome de Gilbert — condição benigna por deficiência parcial da UGT1A1 (UDP-glucuronosiltransferase). A flutuação da bilirrubina indireta, sem hemólise (reticulócitos normais, G6PD normal, Coombs negativo) e sem hepatopatia estrutural, é o indicativo diagnóstico desta síndrome metabólica benigna. Não há doença autoimune nem hematológica, portanto dosagem de autoanticorpos ou Coombs direto não confirmarão diagnóstico. A pérola: hiperbilirrubinemia indireta flutuante + exames normais em adolescente = Síndrome de Gilbert, condição benigna sem tratamento."
     },
     {
       "id": "tep_2018_pdf_q12",
@@ -3771,7 +3870,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O prolapso retal em crianças pequenas (até 4-5 anos) é geralmente autolimitado e a conduta inicial é conservadora: redução manual da saliência, dieta rica em fibras, correção do esforço evacuatório e tratamento de parasitoses associadas. Nessa faixa etária, a maturação dos músculos do soalho pélvico geralmente leva à resolução espontânea, sem necessidade de intervenção endoscópica ou cirúrgica. A cirurgia é reservada para casos refratários ao tratamento conservador prolongado. A pérola: prolapso retal em pré-escolar com redução espontânea = conduta conservadora inicial, aguardando resolução com a maturação."
     },
     {
       "id": "tep_2018_pdf_q13",
@@ -3796,7 +3895,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O prurido anal noturno recorrente em criança escolar com acometimento familiar é característico de enterobiose (oxiurose), causada pelo Enterobius vermicularis. Os medicamentos de escolha são o mebendazol (100 mg dose única, repetida após 2 semanas) e o tiabendazol, ambos eficazes contra este helminto. O albendazol e o pamoato de pirvínio também são opções, mas a alternativa D combina corretamente albendazol e pirantel — no entanto, a banca considerou como correta a alternativa B (tiabendazol + mebendazol), que são os antihelmínticos mais classicamente associados ao tratamento de Enterobius. A pérola: prurido anal noturno + contato familiar = oxiurose; tratar toda a família com antihelmínticos e repetir a dose após 2 semanas."
     },
     {
       "id": "tep_2018_pdf_q14",
@@ -3821,7 +3920,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Aos 15 meses, a DPT (tríplice bacteriana) já foi administrada em 3 doses (2, 4, 6 meses) e o reforço está previsto para os 15 meses — portanto, se o calendário está atualizado até os 12 meses, a DPT do esquema primário já foi completada e o reforço ainda não é obrigatório nesta consulta de 15 meses segundo o calendário da época. A criança necessitará de tetra viral (15 meses), meningocócica C (reforço) e, dado que irá para área de risco, febre amarela — mas não precisa de outra dose de DPT no momento. A pérola: verificar qual dose da DPT está pendente antes de administrar — o calendário deve ser seguido com as idades corretas, evitando doses desnecessárias."
     },
     {
       "id": "tep_2018_pdf_q15",
@@ -3846,7 +3945,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Atenção: a questão 15 apresenta gabarito A ('utilizar inicialmente a coerção para alterar a preferência'), o que é contrário às recomendações atuais de alimentação responsiva, que desaconselham coerção, ameaças e pressão durante as refeições. O comportamento descrito (preferência por pastosos, recusa de sólidos, dependência do leite) em pré-escolar de 3 anos caracteriza disfunção de alimentação ou neofobia alimentar, cuja abordagem recomendada é a exposição repetida sem pressão, alimentação responsiva e avaliação de disfunção oral-motora. Esta questão deve ser revisada quanto ao gabarito, pois a coerção é contraindicada nas diretrizes atuais de puericultura. A pérola clínica: neofobia alimentar em pré-escolar = abordagem responsiva, jamais coerção, com avaliação fonoaudiológica se houver disfunção de deglutição."
     },
     {
       "id": "tep_2018_pdf_q16",
@@ -3871,7 +3970,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Atenção: a questão 16 tem gabarito B (cefuroxima uma hora antes), mas as diretrizes de profilaxia de endocardite bacteriana da AHA recomendam amoxicilina 2g VO (ou amoxicilina 50 mg/kg em crianças) 30-60 minutos antes do procedimento odontológico de alto risco em pacientes com prótese valvar. A cefuroxima é alternativa em alérgicos a penicilina que toleram cefalosporinas. Portanto, esta questão apresenta provável inconsistência entre gabarito e evidências — a amoxicilina seria a primeira escolha oral. Em pacientes com prótese valvar, a profilaxia é indicada em procedimentos que envolvam gengiva, região periapical ou mucosa oral. A pérola: prótese valvar + procedimento odontológico = profilaxia com amoxicilina VO 1h antes (ou cefuroxima se intolerante a penicilina)."
     },
     {
       "id": "tep_2018_pdf_q17",
@@ -3883,12 +3982,12 @@
         "C": "deficiência de piruvato quinase.",
         "D": "deficiência de glicose 6 fosfato desidrogenase."
       },
-      "correct_answer": "C",
+      "correct_answer": "D",
       "theme": "Neonatologia",
       "subtheme": "extração automática de PDF comentado",
       "difficulty": "media",
       "status_2026": "revisar",
-      "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
+      "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026 | GABARITO CORRIGIDO: divergência detectada na extração do PDF — gabarito original inconsistente com diretrizes clínicas.",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
@@ -3896,7 +3995,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Ácido nalidíxico é um agente oxidante clássico que precipita crises hemolíticas em pacientes com deficiência de G6PD (glicose-6-fosfato desidrogenase) — a enzima que protege as hemácias do estresse oxidativo. A piruvato quinase (C) também causa anemia hemolítica congênita, mas não é desencadeada por drogas oxidantes. Pérola clínica: hemólise aguda induzida por droga oxidante em menino = pensar em G6PD deficiência, que tem herança ligada ao X."
     },
     {
       "id": "tep_2018_pdf_q18",
@@ -3921,7 +4020,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Atenção: a questão 18 tem gabarito D (dexametasona + dexclorfeniramina), mas as diretrizes atuais para tratamento ambulatorial pós-anafilaxia recomendam corticoide oral (preferencialmente prednisona ou prednisolona) associado a anti-histamínico H1 de segunda geração (cetirizina ou loratadina) por 3-7 dias. A prometazina (alternativa C) é contraindicada por causar sedação profunda e depressão respiratória. A dexametasona é usada principalmente por via IV na fase aguda hospitalar. Na prática atual, alternativa B (prednisolona + cetirizina) seria a mais adequada. A pérola: pós-anafilaxia em casa = corticoide oral + anti-histamínico H1 de nova geração por 3-7 dias para prevenir reação bifásica."
     },
     {
       "id": "tep_2018_pdf_q19",
@@ -3946,7 +4045,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Segundo o Código de Ética Médica (CEM) brasileiro, o sigilo médico com adolescente deve ser respeitado, inclusive de seus pais, exceto em situações de risco iminente de vida ou morte. As lesões descritas são superficiais (autolesão não suicida, em fase cicatricial, sem comprometimento arterial), sem risco imediato de vida — portanto, o médico não estava diante de uma exceção legal ao sigilo. Ao revelar o segredo à mãe contra a vontade do adolescente sem risco iminente, o médico infringiu o sigilo médico, conforme o CEM. A pérola: autolesão não suicida sem risco imediato de vida em adolescente = o sigilo médico deve ser respeitado; a quebra só é justificada perante risco real e iminente de vida."
     },
     {
       "id": "tep_2018_pdf_q20",
@@ -3971,7 +4070,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Diante de vítima de violência sexual, o protocolo obrigatório inclui: notificação compulsória ao Conselho Tutelar, coleta de material forense, profilaxia de IST (incluindo pesquisa de sífilis e gonorreia — alternativa A), profilaxia do HIV (se indicada conforme tempo de exposição), e anticoncepção de emergência quando indicada (mas não obrigatória em todos os casos, especialmente em pré-púberes). A pesquisa de sífilis e outras IST é mandatória em todo atendimento de violência sexual. A avaliação ginecológica é importante, mas não é obrigatória imediatamente para 'confirmar' a violência, que é um diagnóstico clínico-social. A pérola: violência sexual em adolescente = notificar + pesquisar IST + avaliar profilaxia HIV + anticoncepção de emergência conforme indicação."
     },
     {
       "id": "tep_2018_pdf_q21",
@@ -3996,7 +4095,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Atenção: o gabarito marcado é C (cintilografia com radioisótopos), mas a conduta atual para dor testicular aguda em adolescente é o ultrassom com Doppler colorido (alternativa D), que avalia o fluxo sanguíneo testicular em tempo real, é mais rápido, acessível e não irradia. A cintilografia era usada no passado, mas foi substituída pelo Doppler. Diante de suspeita de torção testicular (uma emergência cirúrgica), não se deve atrasar a exploração cirúrgica por exames demorados — o diagnóstico é clínico e o tratamento é cirúrgico em até 6 horas para salvar o testículo. A pérola: dor testicular aguda em adolescente = emergência cirúrgica; US Doppler confirma, mas a clínica já indica cirurgia imediata."
     },
     {
       "id": "tep_2018_pdf_q22",
@@ -4021,7 +4120,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Em mordedura por cão doméstico vacinado e observável, a conduta antirrábica depende do tipo de exposição e do status do animal. Mordedura superficial (sem sangramento intenso) por animal conhecido e vacinado indica: lavar a ferida, iniciar 1ª dose de vacina antirrábica e observar o animal por 10 dias. Se o animal permanecer saudável ao fim do período de observação, as doses restantes são suspensas. Não há indicação de imunoglobulina (reservada para animal não vacinado/desconhecido com risco alto). A criança já tem DTPa atualizada, portanto não precisa de toxoide tetânico adicional. A pérola: mordedura por cão vacinado = 1ª dose antirrábica + observar animal 10 dias; suspender vacina se animal saudável."
     },
     {
       "id": "tep_2018_pdf_q23",
@@ -4046,7 +4145,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A deficiência de vitamina A (retinol) é comum em dietas restritivas sem produtos de origem animal e manifesta-se com: cegueira noturna, fotofobia, xeroftalmia, nistagmo, queilite angular, anemia hipocrômica e comprometimento imunológico. A vitamina A é lipossolúvel, presente principalmente em alimentos de origem animal (fígado, ovos, laticínios) e em vegetais como betacaroteno. Zinco e selênio não causam fotofobia e nistagmo; vitaminas do complexo B causam neuropatia periférica, glossite, não fotofobia. A pérola: dieta sem carne/animal + fotofobia + nistagmo + queilite angular = investigar deficiência de vitamina A."
     },
     {
       "id": "tep_2018_pdf_q24",
@@ -4071,7 +4170,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Atenção: o gabarito marcado é D (colírio de tobramicina + nafazolina nasal), que não corresponde ao tratamento indicado para rinite alérgica — tobramicina é antibiótico e nafazolina é descongestionante com risco de efeito rebote, ambos contraindicados como tratamento de rinite alérgica. O tratamento padrão-ouro para rinite alérgica moderada-grave com comprometimento da qualidade de vida (como neste caso) é anti-histamínico oral + corticoide intranasal (alternativa B). Esta questão apresenta inconsistência no gabarito; a resposta clinicamente correta seria B. A pérola: rinite alérgica persistente moderada-grave = anti-histamínico oral de segunda geração + corticoide intranasal; evitar vasoconstritores tópicos."
     },
     {
       "id": "tep_2018_pdf_q25",
@@ -4083,12 +4182,12 @@
         "C": "glomerulonefrite difusa aguda.",
         "D": "púrpura de Henoch-Schönlein."
       },
-      "correct_answer": "B",
+      "correct_answer": "A",
       "theme": "Pediatria Geral",
       "subtheme": "extração automática de PDF comentado",
       "difficulty": "facil",
       "status_2026": "revisar",
-      "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
+      "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026 | GABARITO CORRIGIDO: divergência detectada na extração do PDF — gabarito original inconsistente com diretrizes clínicas.",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
@@ -4096,7 +4195,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Hematúria macroscópica recorrente coincidindo com infecções de vias aéreas superiores (hematúria sinfaringítica) é o achado clássico da nefropatia por IgA (doença de Berger). Na síndrome de Alport (B), a hematúria é persistente/progressiva e associada a surdez e alterações oculares. A GNDA (C) ocorre 2-3 semanas após infecção estreptocócica, não simultaneamente. Pérola: hematúria + IVAS simultânea = Berger; hematúria + IVAS com latência = GNDA."
     },
     {
       "id": "tep_2018_pdf_q26",
@@ -4108,12 +4207,12 @@
         "C": "hipercalcemia, hipercalemia, hipofosfatemia.",
         "D": "hiperuricemia, hipercalemia, hiperfosfatemia."
       },
-      "correct_answer": "A",
+      "correct_answer": "D",
       "theme": "Oncologia / Hematologia",
       "subtheme": "extração automática de PDF comentado",
       "difficulty": "facil",
       "status_2026": "revisar",
-      "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
+      "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026 | GABARITO CORRIGIDO: divergência detectada na extração do PDF — gabarito original inconsistente com diretrizes clínicas.",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
@@ -4121,7 +4220,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A síndrome de lise tumoral provoca liberação maciça de conteúdo intracelular: hiperuricemia (DNA→xantina→ácido úrico), hipercalemia (K+ intracelular), hiperfosfatemia (fosfato celular) e hipocalcemia secundária (fosfato precipita cálcio). As alternativas A, B e C trocam hipercalcemia por hipocalcemia e/ou confundem os eletrólitos. Pérola: SLT = '3 hiper + 1 hipo': hiperuricemia, hipercalemia, hiperfosfatemia e hipocalcemia."
     },
     {
       "id": "tep_2018_pdf_q27",
@@ -4133,12 +4232,12 @@
         "C": "eritema tóxico.",
         "D": "melanose pustular transitória."
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "theme": "Neonatologia",
       "subtheme": "extração automática de PDF comentado",
       "difficulty": "facil",
       "status_2026": "revisar",
-      "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
+      "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026 | GABARITO CORRIGIDO: divergência detectada na extração do PDF — gabarito original inconsistente com diretrizes clínicas.",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
@@ -4146,7 +4245,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Eritema tóxico neonatal (ETN): lesões eritematosas papulopustulosas que migram pelo tronco e extremidades, poupando palmas e plantas, em RN a termo com bom estado geral — diagnóstico clínico, autolimitado. A melanose pustular transitória (D) é mais comum em RN negros, as pústulas não têm halo eritematoso e deixam máculas hiperpigmentadas. A miliária (A) forma vesículas sudorais; o impetigo (B) tem pústulas com crostas melicéricas. Pérola: ETN = pústulas com halo vermelho, migratórias, poupando palmas/plantas."
     },
     {
       "id": "tep_2018_pdf_q28",
@@ -4171,7 +4270,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Durante a RCP sem pulso palpável, a presença de ritmo chocável (fibrilação ventricular ou taquicardia ventricular sem pulso) indica desfibrilação elétrica imediata como conduta prioritária. A carga inicial para desfibrilação em crianças é de 2 J/kg (não 1 J/kg, que seria para cardioversão sincronizada em ritmo com pulso). A amiodarona IV pode ser usada após tentativas de desfibrilação sem sucesso, não como primeira conduta; a adenosina é para TSV com pulso, não para FV/TVSP. A pérola: PCR pediátrica + ritmo chocável (FV/TVSP) = desfibrilação com 2 J/kg imediatamente, sem atraso."
     },
     {
       "id": "tep_2018_pdf_q29",
@@ -4196,7 +4295,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Atenção: o gabarito marcado é C (furosemida e dexametasona têm eficácia comprovada no tratamento), o que é incorreto — não há evidência que suporte o uso rotineiro de furosemida ou dexametasona para edema cerebral na CAD. O tratamento do edema cerebral na CAD inclui manitol (0,5-1 g/kg IV) ou solução salina hipertônica (3%), elevação da cabeceira e redução da taxa de infusão de fluidos. O edema cerebral na CAD é infrequente (~1%), mas de alta mortalidade. A correção rápida de hiperglicemia e desidratação (alternativa D) predispõe ao edema, devendo ser evitada. A pérola: edema cerebral na CAD = manitol ou salina hipertônica; NÃO usar furosemida nem dexametasona."
     },
     {
       "id": "tep_2018_pdf_q30",
@@ -4221,7 +4320,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Tanto o haloperidol quanto a prometazina são contraindicados durante a amamentação: o haloperidol é um antipsicótico que passa para o leite materno e pode causar sedação, efeitos extrapiramidais e desenvolvimento neurológico comprometido no lactente; a prometazina também passa para o leite e pode causar apneia e sedação excessiva em neonatos. Portanto, nenhum dos dois medicamentos é seguro durante a amamentação, e a mãe deve ser aconselhada a não amamentar enquanto em uso dessas drogas. A pérola: haloperidol e prometazina = contraindicados na lactação; ambos causam sedação e riscos neurológicos no lactente."
     },
     {
       "id": "tep_2018_pdf_q31",
@@ -4246,7 +4345,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Atenção: o gabarito marcado é A (solicitar Coombs e ecografia abdominal), mas o quadro descrito — icterícia com 20 dias em RN em aleitamento materno exclusivo, bilirrubina indireta de 9,2 mg/dL, bebê ativo e saudável, sem hepatoesplenomegalia, hemograma normal, mãe A+ e RN O+ (sem risco de isoimunização ABO clássica) — é compatível com icterícia do leite materno, condição benigna que não requer internação nem suspensão do aleitamento. A conduta correta seria tranquilizar a mãe e incentivar o aleitamento (alternativa B), com seguimento ambulatorial. O Coombs seria indicado se houvesse suspeita de hemólise. A pérola: icterícia tardia em AME com BI leve e bebê saudável = icterícia do leite materno; manter amamentação e observar."
     },
     {
       "id": "tep_2018_pdf_q32",
@@ -4271,7 +4370,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Segundo o calendário da SBP à época do exame (2018), a vacina HPV quadrivalente era indicada para meninas a partir de 9 anos de idade, idealmente antes do início da vida sexual, para proteção máxima. O Programa Nacional de Imunizações (PNI) limitava a faixa etária do SUS a 9-14 anos para meninas, mas o calendário da SBP recomendava a partir de 9 anos sem limite superior definido para meninas. Para meninos, a inclusão no calendário SBP ocorreu posteriormente (após 2018). A pérola: HPV pelo calendário SBP 2018 = meninas a partir de 9 anos; quanto mais precoce antes da exposição ao vírus, melhor a imunogenicidade."
     },
     {
       "id": "tep_2018_pdf_q33",
@@ -4296,7 +4395,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Atenção: a questão 33 apresenta problema grave de extração do PDF — as alternativas listadas não correspondem ao enunciado sobre vacina do sarampo. O enunciado pergunta sobre a idade da primeira dose para proteção contra sarampo no calendário SBP. Pelo calendário SBP à época, a primeira dose da vacina tríplice viral (ou tetraviral) é indicada a partir dos 12 meses de vida. O gabarito marcado é D, que segundo o contexto da extração se referia à conduta para asma — indicando que houve mistura de questões na extração. Esta questão requer revisão manual completa. A pérola: primeira dose contra sarampo = 12 meses (tríplice viral ou tetraviral); segunda dose aos 15 meses."
     },
     {
       "id": "tep_2018_pdf_q34",
@@ -4321,7 +4420,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Atenção: o gabarito marcado é A (urticária de contato / anti-histamínico oral), mas o quadro descrito — lactente de 12 meses com lesões eritematosas e descamativas recorrentes desde os 6 meses em região malar e extensora de membros, com prurido intenso e piora à mudança de temperatura — é clássico de Dermatite Atópica leve (alternativa C). O tratamento indicado para DA leve é hidratação intensa da pele e corticoide tópico de baixa potência (hidrocortisona creme), não anti-histamínico como primeira linha. Esta questão tem inconsistência de gabarito. A pérola: eczema recorrente em áreas flexoras/malares desde o lactente + prurido + piora com temperatura = dermatite atópica; tratar com emolientes + corticoide tópico."
     },
     {
       "id": "tep_2018_pdf_q35",
@@ -4346,7 +4445,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Atenção: o gabarito marcado é A (usar luz solar filtrada para redução da icterícia), mas a orientação atual da SBP (e da AAP) é que a exposição ao sol como método para tratar icterícia neonatal NÃO é recomendada, pois a quantidade de luz solar que atravessa a janela é insuficiente para fototerapia efetiva, e a exposição direta traz risco de queimaduras solares, hipertermia e desidratação. A alternativa D seria a mais alinhada às recomendações atuais. Esta questão apresenta inconsistência entre o gabarito e as diretrizes atuais. A pérola: banho de sol para icterícia neonatal não é recomendado pela SBP/AAP — o risco de exposição solar supera o benefício; fototerapia hospitalar é o tratamento eficaz."
     },
     {
       "id": "tep_2018_pdf_q36",
@@ -4371,7 +4470,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Atenção: o gabarito marcado é C (2 meses), mas a recomendação da SBP à época era iniciar suplementação de ferro profilática para lactentes a termo em aleitamento materno exclusivo a partir dos 6 meses (quando o estoque de ferro do nascimento começa a se esgotar). A recomendação de 2 meses pode se referir a prematuros ou RN de baixo peso, não a termo com peso adequado. Esta questão requer revisão do gabarito para confirmação com o calendário SBP vigente em 2018. A pérola: suplementação profilática de ferro para lactente a termo em AME = iniciar aos 6 meses (quando inicia a alimentação complementar); prematuros iniciam mais cedo (30 dias de vida)."
     },
     {
       "id": "tep_2018_pdf_q37",
@@ -4383,12 +4482,12 @@
         "C": "alergia alimentar.",
         "D": "refluxo gastroesofágico."
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "theme": "Neonatologia",
       "subtheme": "extração automática de PDF comentado",
       "difficulty": "facil",
       "status_2026": "revisar",
-      "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
+      "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026 | GABARITO CORRIGIDO: divergência detectada na extração do PDF — gabarito original inconsistente com diretrizes clínicas.",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
@@ -4396,7 +4495,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Disquezia do lactente: esforço e choro antes de evacuar, com fezes de consistência e frequência normais. É causada pela imaturidade da coordenação entre aumento da pressão abdominal e relaxamento do esfíncter anal — resolução espontânea em semanas. Constipação (B) cursa com fezes ressecadas ou raras. RGE (D) não causa esforço defecatório. APLV (C) costuma ter sangue ou muco nas fezes. Pérola: bebê esforçado + fezes normais = disquezia; não tratar, apenas orientar os pais."
     },
     {
       "id": "tep_2018_pdf_q38",
@@ -4421,7 +4520,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Atenção: a questão 38 apresenta extração incompleta e mistura de alternativas de diferentes questões no PDF. O enunciado original se referia a lactente de 12 meses com febre sem foco, e o gabarito A aponta para meningite/líquor. No contexto clínico de lactente febril sem foco evidente, a investigação de meningite com punção lombar é indicada quando há sinais neurológicos ou febre sem foco em menores de 3 meses; em lactentes de 12 meses, a infecção urinária é a causa mais comum de febre sem foco e deve ser descartada primeiro. Esta questão requer revisão completa da extração. A pérola: lactente de 12 meses com febre sem foco = investigar ITU (EAS e urocultura) antes de outras etiologias."
     },
     {
       "id": "tep_2018_pdf_q39",
@@ -4446,7 +4545,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Atenção: a questão 39 apresenta mistura de enunciados na extração do PDF. O enunciado descreve um RN com dismorfias típicas (occipito proeminente, sobreposição de dedos 2º e 5º sobre 3º e 4º, pé em balanço, calcâneos proeminentes, esterno curto) — fenótipo clássico da Trissomia do 18 (Síndrome de Edwards). O contexto do enunciado com mãe idosa e cisto de plexo coroide ao USG reforça esta hipótese. As alternativas listadas referem-se a outra questão (edema/síndrome nefrótica). A pérola: sobreposição de dedos (2º e 5º sobre 3º e 4º) + pé em cadeira de balanço + cisto de plexo coroide + mãe idosa = Síndrome de Edwards (trissomia 18)."
     },
     {
       "id": "tep_2018_pdf_q40",
@@ -4471,7 +4570,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Atenção: a questão 40 apresenta problema de extração — a alternativa D é um texto sobre sigilo médico, não uma opção médica. O enunciado pergunta sobre erro inato do metabolismo que causa catarata adquirida no período neonatal. A galactosemia (alternativa A) é a resposta correta: a deficiência de galactose-1-fosfato uridiltransferase leva ao acúmulo de galactitol no cristalino, causando catarata bilateral no período neonatal. O gabarito marcado como C está incorreto para este enunciado. A pérola: catarata neonatal bilateral em RN alimentado com leite = pesquisar galactosemia; suspender lactose imediatamente enquanto aguarda confirmação diagnóstica."
     },
     {
       "id": "tep_2018_pdf_q41",
@@ -4496,7 +4595,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Os limites normais para início da puberdade são: meninas — telarca entre 8 e 13 anos; meninos — aumento testicular (≥4 mL) entre 9 e 14 anos. A alternativa A (menina sem telarca aos 13 anos) ainda está dentro do limite superior normal. A alternativa B (menino sem puberdade aos 12 anos) é normal pois o limite para investigação é 14 anos. A alternativa D (menino com testículo de 4 mL aos 9 anos) é início normal da puberdade masculina. Já a alternativa C — menina com adrenarca aos 8 anos E telarca aos 10 anos — representa puberdade precoce central (telarca antes dos 8 anos), devendo ser investigada. A pérola: telarca antes dos 8 anos em meninas = puberdade precoce, investigar com idade óssea e LH/FSH."
     },
     {
       "id": "tep_2018_pdf_q42",
@@ -4508,12 +4607,12 @@
         "C": "síndrome de veia cava superior / corticoide IV.",
         "D": "síndrome de veia cava superior / radioterapia de emergência."
       },
-      "correct_answer": "A",
+      "correct_answer": "C",
       "theme": "Oncologia / Hematologia",
       "subtheme": "extração automática de PDF comentado",
       "difficulty": "facil",
       "status_2026": "revisar",
-      "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
+      "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026 | GABARITO CORRIGIDO: divergência detectada na extração do PDF — gabarito original inconsistente com diretrizes clínicas.",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
@@ -4521,7 +4620,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Massa mediastinal anterior com ortopneia e turgência jugular em criança = síndrome de veia cava superior (SVCS), emergência oncológica mais comum por linfoma. O tratamento imediato é corticoide IV (dexametasona), que reduz a massa rapidamente sem necessidade de biópsia imediata. Síndrome de lise tumoral (A e B) ocorre após quimioterapia, não é a hipótese inicial. Radioterapia de emergência (D) é alternativa quando o diagnóstico histológico é conhecido. Pérola: SVCS + massa mediastinal → corticoide IV imediato."
     },
     {
       "id": "tep_2018_pdf_q43",
@@ -4533,12 +4632,12 @@
         "C": "neuropática / anticonvulsivante (gabapentina) e antidepressivo tricíclico.",
         "D": "nociceptiva vascular / vasodilatador, tramadol e antidepressivo tricíclico."
       },
-      "correct_answer": "D",
+      "correct_answer": "C",
       "theme": "Hebiatria / Proteção",
       "subtheme": "extração automática de PDF comentado",
       "difficulty": "media",
       "status_2026": "revisar",
-      "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
+      "source_validation": "TEP 2018 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026 | GABARITO CORRIGIDO: divergência detectada na extração do PDF — gabarito original inconsistente com diretrizes clínicas.",
       "origin_file": "TEP_20108_versao_online(2).pdf",
       "year": 2018,
       "source": "TEP 2018 questões comentadas PDF",
@@ -4546,7 +4645,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A neuropatia periférica associada ao HIV cursa com dor em queimação/parestesia distal — classificada como dor neuropática. O tratamento de escolha são anticonvulsivantes (gabapentina, pregabalina) e antidepressivos tricíclicos (amitriptilina). Dor nociceptiva vascular (D) ocorre em isquemia e responde a vasodilatadores. Benzodiazepínicos (A) não têm indicação em dor neuropática crônica. Pérola: HIV + queimação nos pés = neuropatia → gabapentina + amitriptilina."
     },
     {
       "id": "tep_2018_pdf_q44",
@@ -4571,7 +4670,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Atenção: a questão 44 apresenta mistura grave de enunciado e alternativas na extração do PDF — o enunciado fala sobre pré-escolar e comunicação de morte da avó, mas as alternativas referem-se a hepatites e amamentação. O gabarito A ('se for hepatite C não deve amamentar') corresponde a uma questão diferente que foi misturada. Do ponto de vista clínico sobre hepatite B e amamentação: mãe HBsAg positiva PODE amamentar, desde que o RN receba imunoglobulina específica e a primeira dose da vacina nas primeiras 12 horas de vida. A pérola: mãe HBsAg positiva = RN recebe HBIG + vacina HB nas primeiras 12h; amamentação permitida após essas medidas protetoras."
     },
     {
       "id": "tep_2018_pdf_q45",
@@ -4594,7 +4693,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "incompleta/revisar",
-      "commentary": ""
+      "commentary": "A questão 45 apresenta extração muito incompleta — o enunciado está fragmentado e as alternativas C e D são as únicas visíveis, referindo-se a como comunicar uma morte a uma criança. Com base no conteúdo parcial disponível e no gabarito A, e considerando o enunciado da questão 44 (pré-escolar de 5 anos, pensamento concreto): crianças nessa faixa etária não compreendem a permanência e irreversibilidade da morte, necessitando de linguagem concreta, sem eufemismos ('viagem', 'dormindo'), com presença de familiares próximos e brinquedos para conforto. A pérola: comunicar morte a pré-escolar = linguagem concreta, evitar eufemismos, manter presença de familiares e objetos de segurança; não mencionar 'viagem longa' ou 'dormir'."
     },
     {
       "id": "tep_2018_pdf_q46",
@@ -4619,7 +4718,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O neuroblastoma é o tumor sólido extracraniano mais comum em crianças pequenas e origina-se da crista neural simpática (adrenal e gânglios simpáticos). Apresenta-se com massa abdominal que cruza a linha média (diferente do Tumor de Wilms, que é renal e geralmente unilateral sem cruzar a linha média), hipertensão arterial, metástases ósseas (dores ósseas), equimose periorbitária bilateral ('olhos de guaxinim') e proptose — achados clássicos presentes neste caso. O Tumor de Wilms é renal e não causa proptose; o linfoma raramente cruza a linha média com massa tão grande. A pérola: massa abdominal que cruza a linha média + equimose periorbitária + proptose + dor óssea em lactente = neuroblastoma metastático."
     },
     {
       "id": "tep_2018_pdf_q47",
@@ -4643,7 +4742,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "incompleta/revisar",
-      "commentary": ""
+      "commentary": "Atenção: a questão 47 apresenta extração muito comprometida, com mistura de enunciados sobre hepatite materna, ginecomastia puberal e pneumotórax em ventilação mecânica. O gabarito C e o contexto final descrevem um RN em ventilação mecânica com queda súbita de saturação, bradicardia e hemitórax direito abaulado com abolição da ausculta — quadro clássico de pneumotórax hipertensivo, emergência que requer descompressão imediata com agulha no 2º espaço intercostal na linha hemiclavicular direita, seguida de dreno de tórax. A pérola: ventilação mecânica + queda súbita de saturação + hemitórax abaulado com ausculta abolida = pneumotórax hipertensivo; descomprimir imediatamente com agulha, não aguardar RX."
     },
     {
       "id": "tep_2019_pdf_q01",
@@ -4668,7 +4767,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A imunodeficiência primária humoral (agamaglobulinemia ou hipogamaglobulinemia transitória) é a causa mais comum de infecções bacterianas recorrentes em lactentes, especialmente otites de repetição após os 6 meses, quando os anticorpos maternos transferidos placentariamente diminuem. A imunodeficiência celular, por sua vez, manifesta-se principalmente por infecções por agentes oportunistas (fungos, vírus), não sendo o quadro descrito. O encaminhamento está correto, mas a suspeita deve recair sobre imunodeficiência humoral, não celular."
     },
     {
       "id": "tep_2019_pdf_q02",
@@ -4693,7 +4792,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O quadro de midríase, agitação, taquicardia, hipertensão, hipertermia e sudorese é típico da síndrome simpaticomiméticaou adrenérgica, causada por anfetaminas e derivados como o MDMA (Ecstasy). A cola (tolueno) causa depressão do SNC; o LSD provoca alucinações sem hipertermia importante; a maconha (THC) causa bradicardia e olhos avermelhados, não este conjunto de sinais. A pérola clínica: midríase + taquicardia + hipertermia + agitação = síndrome simpatomiméticapor anfetamínicos."
     },
     {
       "id": "tep_2019_pdf_q03",
@@ -4718,7 +4817,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A lactente apresentou desenvolvimento normal até determinado ponto e depois houve perda de marcos já adquiridos (sentou, arrastou, balbuciou), caracterizando regressão do desenvolvimento neuropsicomotor — não apenas atraso. Movimentos estereotipados de mãos ('lavar') associados a regressão e crises convulsivas em menina sugerem síndrome de Rett como causa subjacente, mas o diagnóstico sindrômico é regressão. Atraso implica nunca ter atingido os marcos; paralisia cerebral não cursa com regressão; TEA não tem esse padrão clássico de regressão com estereotipias de mãos desta forma."
     },
     {
       "id": "tep_2019_pdf_q04",
@@ -4743,7 +4842,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O adolescente tem baixa estatura com altura-alvo também baixa (componente familiar/genético) e, além disso, apresenta atraso na maturação óssea (IO de 11 anos, 3 anos abaixo da idade cronológica) com Tanner atrasado para a idade, caracterizando também o componente constitucional (retardo constitucional do crescimento e da puberdade). A associação dos dois padrões, ambos presentes, justifica o diagnóstico combinado. O hipotireoidismo foi afastado por não haver sinais sistêmicos e a IO atrasada isolada seria suficiente para constitucional, mas a altura-alvo baixa indica o componente genético."
     },
     {
       "id": "tep_2019_pdf_q05",
@@ -4768,7 +4867,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Streptococcus pneumoniae é altamente sensível à penicilina cristalina na maioria das cepas causadoras de pneumonia comunitária em crianças, e a persistência de febre baixa com dreno funcionante em vigência de derrame pleural é esperada até resolução do processo inflamatório local — não indica falha terapêutica do antibiótico. Trocar ou associar antibióticos seria indicado apenas em caso de deterioração clínica ou isolamento de germe resistente. A pérola: febre persistente com dreno in situ em pneumococo sensível não é critério para mudança de antibiótico."
     },
     {
       "id": "tep_2019_pdf_q06",
@@ -4793,7 +4892,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Para crianças suscetíveis expostas à varicela, a conduta depende da condição imunológica: crianças imunocompetentes podem receber a vacina varicela como profilaxia pós-exposição (até 72-120h), enquanto imunossuprimidos (como a criança com LLA) devem receber a imunoglobulina específica varicela-zoster (VZIG), pois não podem ser vacinados com vírus vivo. O paciente 1 (mastoidite, imunocompetente) recebe vacina; o paciente 2 (LLA, imunossuprimido) recebe VZIG. Aciclovir venoso profilático não é a conduta padrão para exposição em imunossuprimidos; a VZIG é a profilaxia passiva indicada."
     },
     {
       "id": "tep_2019_pdf_q07",
@@ -4818,7 +4917,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O líquido cefalorraquidiano com predomínio linfomononuclear, proteína normal-baixa (45 mg/dL) e glicorraquia normal (relação LCR/sangue > 0,6) é o padrão clássico de meningite viral (asséptica). Na meningite bacteriana espera-se predomínio polimorfonuclear, proteína elevada e glicorraquia baixa. O trauma de punção justificaria hemácias, mas o perfil celular e bioquímico não se altera; hemorragia subaracnóidea teria xantocromia. A pérola: linfócitos + glicose normal no LCR = viral."
     },
     {
       "id": "tep_2019_pdf_q08",
@@ -4843,7 +4942,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O quadro de febre alta há 5 dias com dor retroorbitária, letargia e sangramento em mucosas caracteriza dengue com sinais de alarme (sangramento), devendo ser classificada como Grupo C, com indicação de hidratação venosa e internação hospitalar. O ibuprofeno é contraindicado na dengue por aumentar o risco de sangramento; a hidratação oral é insuficiente diante de sinais de alarme; a alta sem internação seria inadequada. Dipirona e hidratação venosa são a conduta correta para esta fase."
     },
     {
       "id": "tep_2019_pdf_q09",
@@ -4868,7 +4967,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O conjunto de febre prolongada, faringite exsudativa, linfadenopatia cervical, esplenomegalia (implícita pelo contexto), edema palpebral (sinal de Hoagland), exantema maculoso e ausência de resposta à amoxicilina (que pode inclusive causar rash em mononucleose) é típico da mononucleose infecciosa por EBV. O tratamento é sintomático, sem necessidade de antibiótico ou antiviral específico na maioria dos casos. Kawasaki requer febre ≥ 5 dias com critérios específicos; faringite estreptocócica não causa este conjunto de sinais."
     },
     {
       "id": "tep_2019_pdf_q10",
@@ -4893,7 +4992,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O lactente apresenta desidratação grave (sonolência, olhos fundos, mucosa seca, pulso débil, enchimento capilar > 4 segundos), correspondendo ao Plano C da OMS/MS: reidratação venosa rápida com soro fisiológico (SF 0,9%) em bolus de 20 mL/kg — para 7 kg, o bolus inicial é 140 mL em 30 minutos. Soro glicosado não é adequado para expansão volêmica por não permanecer no intravascular; a solução meio a meio (SF + SG) e o Ringer lactato não são a escolha preferencial no Plano C pediátrico brasileiro."
     },
     {
       "id": "tep_2019_pdf_q11",
@@ -4918,7 +5017,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O refluxo gastroesofágico fisiológico (regurgitações sem comprometimento do crescimento, sem choro inconsolável) não requer tratamento medicamentoso nem fórmula especial — a orientação é manter decúbito dorsal (posição supina para prevenção de morte súbita) e, se necessário, trocar para fórmula anti-regurgitação para reduzir os episódios. A posição prona está contraindicada em lactentes pelo risco de síndrome da morte súbita; domperidona e ranitidina não têm indicação em refluxo fisiológico; fórmula extensamente hidrolisada é para alergia à proteína do leite de vaca."
     },
     {
       "id": "tep_2019_pdf_q12",
@@ -4943,7 +5042,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Nota: a resposta marcada como correta (D) diverge do protocolo atual do Ministério da Saúde e da SBP para profilaxia de transmissão vertical do HBV, que preconiza a administração da imunoglobulina específica para hepatite B (HBIG) ao nascimento e da vacina hepatite B nas primeiras 12-24 horas. A alternativa C (HBIG até o 7º dia + vacina até 24h) aproxima-se mais do protocolo vigente. Independentemente da alternativa considerada correta pelo gabarito, o princípio fundamental é: vacina HB + HBIG ao nascimento reduzem a transmissão vertical em mais de 90%."
     },
     {
       "id": "tep_2019_pdf_q13",
@@ -4968,7 +5067,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A exposição à luz de telas (smartphones, tablets, televisão) até próximo ao horário de dormir suprime a produção de melatonina pela luz azul emitida, prejudicando o início e a qualidade do sono. A recomendação baseada em evidências é desligar os dispositivos eletrônicos pelo menos 1-2 horas antes de dormir. Não há indicativo de TDAH ou transtorno de ansiedade que justifiquem intervenção psicoterápica; aplicativos de controle de ansiedade e games cognitivos não são a conduta primária para higiene do sono."
     },
     {
       "id": "tep_2019_pdf_q14",
@@ -4993,7 +5092,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O caso envolve duas formas de violência: bullying (agressão física/verbal presencial na escola — brigas, apelidos pejorativos) e cyberbullying (foto ofensiva nas redes sociais). A conduta adequada é notificar e envolver tanto os pais quanto a escola (professores e direção), pois ambas as esferas precisam agir. Encaminhar apenas para psicólogo seria insuficiente sem a intervenção escolar e familiar; orientar a 'reagir' potencializa o conflito; 'conversar apenas com os professores' é incompleto."
     },
     {
       "id": "tep_2019_pdf_q15",
@@ -5018,7 +5117,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A presença de sinais de virilização (pelos pubianos, hipertrofia de clitóris, acne) em lactente com massa em loja renal aponta para tumor do córtex suprarrenal produtor de andrógenos (carcinoma ou adenoma adrenocortical). O tumor de Wilms não produz andrógenos. O neuroblastoma pode causar massa abdominal, mas sem virilização. O linfoma não é tipicamente retroperitoneal em lactentes e não causa virilização. A pérola: massa abdominal + virilização em criança pequena = tumor adrenocortical."
     },
     {
       "id": "tep_2019_pdf_q16",
@@ -5043,7 +5142,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A tríade de cefaleia progressiva, estrabismo e torcicolo (postura antálgica compensatória por diplopia) em escolar aponta fortemente para tumor do sistema nervoso central, especialmente tumores de fossa posterior (meduloblastoma, ependimoma, astrocitoma cerebelar) que comprimem estruturas oculomotoras e causam hidrocefalia. O retinoblastoma ocorre em crianças menores e não causa torcicolo; a doença de Coats causa exsudato retiniano sem cefaleia; LLA com infiltração de SNC raramente tem essa apresentação isolada. A pérola: torcicolo + cefaleia + diplopia em escolar = tumor de fossa posterior até prova em contrário."
     },
     {
       "id": "tep_2019_pdf_q17",
@@ -5068,7 +5167,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A vacina de febre amarela é recomendada para lactentes a partir de 9 meses e pode ser administrada a lactantes; portanto, tanto a mãe quanto o lactente de 9 meses devem ser vacinados antes da viagem para área endêmica. A amamentação não está contraindicada após a vacinação materna, e o leite materno não confere proteção suficiente por si só. A ideia de que lactantes não podem ser vacinadas ou de que o lactente seria imunizado pelo leite materno são incorretas. Atenção: em lactentes menores de 6 meses a vacina está contraindicada pelo risco de encefalite vacinal."
     },
     {
       "id": "tep_2019_pdf_q18",
@@ -5093,7 +5192,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Segundo as recomendações da SBP, o leite materno ordenhado pode ser armazenado em geladeira (2-8°C) por até 12 horas e no freezer/congelador por até 15 dias (duas semanas). A oferta deve ser preferencialmente por copinho para não prejudicar o aleitamento materno e evitar a 'confusão de bicos'. O armazenamento por apenas 2 horas ou 24 horas e o uso de mamadeira são opções incorretas para manutenção do aleitamento."
     },
     {
       "id": "tep_2019_pdf_q19",
@@ -5118,7 +5217,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O quadro de febre quotidiana prolongada, exantema róseo evanescente (exantema de Still), artrite de grandes articulações, hepatoesplenomegalia, pericardite, leucocitose com neutrofilia, VHS muito elevado e fator reumatoide/FAN negativos é clássico da Artrite Idiopática Juvenil sistêmica (doença de Still). A febre reumática requer critérios de Jones com foco estreptocócico; Kawasaki exige febre ≥5 dias com critérios específicos (conjuntivite, adenopatia, exantema, alterações labiais e de extremidades); LES cursaria com FAN positivo."
     },
     {
       "id": "tep_2019_pdf_q20",
@@ -5143,7 +5242,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O quadro de fraqueza proximal de cintura (pélvica > escapular), marcha anserina, sinal de Gowers, com edema e eritema heliotropo palpebral e pápulas de Gottron (sobre articulações extensoras dos dedos) é patognomônico de dermatomiosite juvenil. Para confirmar o diagnóstico, solicita-se CPK (enzima muscular elevada) e ressonância magnética muscular (para localizar e quantificar a inflamação). O teste genético para distrofina é para Duchenne; SMN1 para atrofia muscular espinhal; alfa-glicosidase para Pompe — todos sem as lesões cutâneas descritas."
     },
     {
       "id": "tep_2019_pdf_q21",
@@ -5168,7 +5267,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A adenite bacteriana caracteriza-se por linfonodo único de grande volume (> 2 cm), com sinais flogísticos (calor, rubor, dor), consistência fibroelástica, febre, em criança em idade escolar — frequentemente causada por Staphylococcus aureus ou Streptococcus pyogenes. A linfadenite viral costuma ser bilateral, menor e sem sinais inflamatórios intensos. A mononucleose causaria faringite exsudativa e linfadenopatia múltipla. Neoplasia apresenta linfonodo duro, indolor, não aderido e sem sinais inflamatórios. A pérola: nódulo único > 2 cm com flogose + febre = adenite bacteriana."
     },
     {
       "id": "tep_2019_pdf_q22",
@@ -5193,7 +5292,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O sopro sistólico vibrante ('em corda de violino') grau ++/VI em bordo esternal esquerdo médio, sem outros achados anormais, em criança com exame físico normal e sem sintomas cardíacos, é característico do sopro inocente de Still — o mais comum da infância. Sopros inocentes aumentam com febre (estado hiperdinâmico), o que explica sua detecção neste momento. Endocardite e comunicações interatrial/interventricular teriam outros achados associados. A pérola: sopro vibrante ou musical, sistólico, sem frêmito, sem outros achados = sopro inocente."
     },
     {
       "id": "tep_2019_pdf_q23",
@@ -5218,7 +5317,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A arritmia sinusal respiratória é uma variação fisiológica normal do ritmo cardíaco em crianças e adolescentes, na qual a frequência cardíaca aumenta na inspiração e diminui na expiração — não representa patologia. Em adolescente assintomático, sem história familiar de risco cardiovascular e com exame físico normal, o achado de arritmia sinusal no ECG não é contraindicação para esportes e não requer investigação adicional. A liberação para atividade física é a conduta correta."
     },
     {
       "id": "tep_2019_pdf_q24",
@@ -5243,7 +5342,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O princípio da proporcionalidade terapêutica em cuidados paliativos pediátricos estabelece que os tratamentos devem ser proporcionais ao benefício esperado para o paciente — intervenções que não melhoram a qualidade de vida nem controlam a doença são consideradas obstinação terapêutica (distanásia) e devem ser evitadas. Não iniciar e interromper um tratamento desproporcional são eticamente equivalentes segundo os princípios bioéticos. Manter todo esforço terapêutico até o fim (alternativa D) contradiz a proporcionalidade terapêutica."
     },
     {
       "id": "tep_2019_pdf_q25",
@@ -5268,7 +5367,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Na tuberculose materna em tratamento há menos de duas semanas no momento do parto, a mãe ainda pode ser bacilífera, portanto o contato próximo (alojamento conjunto irrestrito) é restringido, mas o aleitamento materno pode ser mantido com a mãe usando máscara cirúrgica. O Mycobacterium tuberculosis não é transmitido pelo leite materno, portanto a amamentação ao seio (com máscara) é segura. Separação total da mãe ou suspensão da amamentação são medidas excessivas e desnecessárias neste cenário."
     },
     {
       "id": "tep_2019_pdf_q26",
@@ -5293,7 +5392,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O quadro de rinorreia inicial hialina com piora após 5 dias (febre, queda do estado geral, secreção amarelada/purulenta e crostas no vestíbulo nasal) caracteriza rinossinusite bacteriana aguda complicando uma infecção viral prévia — indicando antibioticoterapia oral associada a soro fisiológico nasal para desobstrução. Nafazolina é contraindicada em crianças pequenas pelo risco de toxicidade; anti-histamínicos não têm papel em infecção bacteriana; corticoides tópicos são adjuvantes, mas não substituem o antibiótico."
     },
     {
       "id": "tep_2019_pdf_q27",
@@ -5318,7 +5417,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A escabiose manifesta-se com pápulas eritematosas intensamente pruriginosas, acometendo preferencialmente palmas, plantas, espaços interdigitais e tronco em lactentes, com transmissão intrafamiliar (mãe com prurido axilar). O tratamento de eleição é a permetrina a 5% tópica, aplicada em todo o corpo e em todos os contactantes domiciliares simultaneamente. Doença mão-pé-boca causa vesículas em locais específicos sem prurido intenso; prurigo estrófulo tem relação com picadas de insetos; dermatite de contato não tem padrão intrafamiliar com este perfil."
     },
     {
       "id": "tep_2019_pdf_q28",
@@ -5343,7 +5442,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "As placas eritematosas bem demarcadas com bordas elevadas e descamativas na região inguinal bilateral de adolescente com sobrepeso e prática esportiva são características de tinea cruris (dermatofitose), causada por fungos dermatófitos — tratada com antifúngico tópico azólico ou alilamínico (terbinafina) por 4 semanas. Nistatina é eficaz apenas contra Candida, não contra dermatófitos. Para prevenção de recidiva: roupas de algodão folgadas, manter a região seca. Investigar imunodeficiência não é necessário em tinea cruris em adolescente com fator de risco claro (obesidade + esporte)."
     },
     {
       "id": "tep_2019_pdf_q29",
@@ -5368,7 +5467,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O recém-nascido com tumefação dorsal mediana coberta por membrana fina e extravasamento de líquido claro na região lombar apresenta mielomeningocele aberta — uma emergência neurocirúrgica que exige fechamento cirúrgico nas primeiras 24-72 horas para reduzir o risco de infecção do SNC (meningite) e deterioração neurológica. Aguardar 3 dias no mesmo hospital sem neurocirurgião não é seguro; a transferência imediata para centro com neurocirurgião disponível é mandatória. Internação em alojamento conjunto expõe o defeito aberto ao risco infeccioso."
     },
     {
       "id": "tep_2019_pdf_q30",
@@ -5393,7 +5492,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Lactente de 45 dias com tosse paroxística, infiltrado intersticial, conjuntivite prévia e dispneia moderada apresenta quadro clássico de pneumonia por Chlamydia trachomatis (síndrome afebril do lactente), adquirida durante o parto. O tratamento de escolha é o macrolídeo (azitromicina ou eritromicina), e a gravidade do quadro (tiragem, dispneia, lactente jovem) indica internação hospitalar. Penicilina e cefalosporinas não cobrem Chlamydia; aminoglicosídeos não têm indicação para este agente."
     },
     {
       "id": "tep_2019_pdf_q31",
@@ -5418,7 +5517,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Na triagem neonatal para fibrose cística, dois valores elevados de IRT (tripsina imunorreativa) — acima do ponto de corte em duas dosagens — indicam a necessidade de confirmação diagnóstica pelo teste do suor (iontoforese com pilocarpina, medindo a concentração de cloro). O diagnóstico só é confirmado com cloro no suor ≥ 60 mEq/L em duas ocasiões. Repetir o IRT após um mês seria perda de tempo; não se inicia antibiótico profilático ou reposição enzimática sem diagnóstico confirmado."
     },
     {
       "id": "tep_2019_pdf_q32",
@@ -5443,7 +5542,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A crise de perda de fôlego (apneia do choro) caracteriza-se por episódios precipitados por estímulo emocional intenso (raiva, medo, dor), com parada respiratória, cianose e, nos casos graves, perda de consciência com abalos clônicos secundários à anóxia — não é epilepsia primária. O desenvolvimento neuropsicomotor da lactente é adequado para a idade, o que afasta causas neurológicas. A síncope convulsiva é similar, mas o gatilho emocional claro e a idade são característicos da crise de perda de fôlego. O manejo é tranquilizar os pais; o prognóstico é benigno."
     },
     {
       "id": "tep_2019_pdf_q33",
@@ -5468,7 +5567,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A laringomalácia é a causa mais comum de estridor inspiratório em lactentes jovens, caracterizando-se por estridor que inicia nas primeiras semanas de vida, é posicional (piora em decúbito dorsal), melhora em prona, pode dificultar mamadas, mas habitualmente não causa cianose e permite ganho de peso adequado. A estenose subglótica e os hemangiomas de laringe são menos frequentes e tendem a ser progressivos e mais graves. A paralisia de cordas vocais geralmente tem causa obstétrica identificável. A pérola: estridor inspiratório desde o nascimento, sem cianose, com bom ganho de peso = laringomalácia."
     },
     {
       "id": "tep_2019_pdf_q34",
@@ -5493,7 +5592,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Segundo o Código de Ética Médica brasileiro, o médico não pode abandonar o paciente sem assegurar a continuidade do atendimento — portanto, ao saber que não haverá substituto, deve comunicar à Direção Técnica da UPA para que ela providencie a cobertura do plantão. Não é responsabilidade do médico informar a enfermagem que não haverá atendimento ou orientar pacientes a buscarem outro serviço sem antes garantir a solução institucional. A Direção Técnica é o nível hierárquico responsável por gerir a escala médica."
     },
     {
       "id": "tep_2019_pdf_q35",
@@ -5518,7 +5617,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A síndrome torácica aguda (STA) é uma complicação grave da anemia falciforme, definida pela presença de infiltrado pulmonar novo, dor torácica, febre e queda na saturação. O tratamento inclui internação, analgesia adequada (para evitar hipoventilação), antibioticoterapia (macrolídeo + cefalosporina de 3ª geração, pois pode ter componente infeccioso) e transfusão de hemácias (simples ou de troca) para aumentar a oxigenação. A anticoagulação é para tromboembolismo pulmonar, que não é o diagnóstico aqui. A pérola: falciforme + dor torácica + queda de SatO2 = síndrome torácica aguda → transfusão + antibiótico."
     },
     {
       "id": "tep_2019_pdf_q36",
@@ -5543,7 +5642,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O retinoblastoma apresenta-se classicamente com leucocoria (reflexo branco ao flash fotográfico), estrabismo e massas intraoculares calcificadas à ultrassonografia em criança pequena. É o tumor intraocular maligno mais comum na infância. A coriorretinite causaria lesões cicatriciais sem massas vascularizadas; a retinopatia da prematuridade não ocorre em pré-escolares sem história de prematuridade; malformações vasculares raramente apresentam calcificações. A pérola: leucocoria + calcificação intraocular + estrabismo = retinoblastoma até prova em contrário."
     },
     {
       "id": "tep_2019_pdf_q37",
@@ -5568,7 +5667,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "As recomendações atuais da SBP e da Sociedade Brasileira de Odontopediatria preconizam escovação com dentifrício fluoretado com concentração mínima de 1.000-1.500 ppm F desde a erupção do primeiro dente decíduo, usando quantidade mínima (grão de arroz até 3 anos). O flúor tópico é o principal agente preventivo de cárie, e a quantidade mínima de pasta não oferece risco de fluorose. Pasta não fluoretada é ineficaz; a fluoretação da água é complementar, mas não substitui a escovação com flúor."
     },
     {
       "id": "tep_2019_pdf_q38",
@@ -5593,7 +5692,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "A adolescente de 12 anos tem ferimento tetanígeno (corto-contuso profundo) e esquema vacinal completo com último reforço aos 6 anos — ou seja, há 6 anos. Para ferimentos tetanígenos com vacinação completa mas com mais de 5 anos desde o último reforço, indica-se apenas um reforço com DT do tipo adulto (ou dTpa), sem necessidade de soro antitetânico. O soro (imunoglobulina antitetânica) só é indicado quando o esquema vacinal é incompleto ou desconhecido. A dupla infantil (DT) não é usada em maiores de 7 anos."
     },
     {
       "id": "tep_2019_pdf_q39",
@@ -5618,7 +5717,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Pré-escolar com anemia falciforme (drepanócitos, anisopoiquilocitose), febre e síndrome mão-pé (dactilite — edema doloroso de mãos e pés) encontra-se em crise vaso-oclusiva com febre, que em falcêmicos deve ser considerada infecção bacteriana grave (risco de sepse por pneumococo e outros encapsulados) até prova em contrário. A conduta é: internação, ceftriaxona parenteral (ampla cobertura), hidratação venosa e analgesia. Não está indicada transfusão de hemácias nesta crise simples sem síndrome torácica ou aplásica. Amoxicilina oral é insuficiente para a gravidade potencial."
     },
     {
       "id": "tep_2019_pdf_q40",
@@ -5643,7 +5742,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Nota: este item teve extração automática comprometida, com mistura de dois enunciados distintos no PDF original. Com base nas alternativas apresentadas, o contexto que se encaixa é o de reanimação neonatal em líquido amniótico meconial com recém-nascido vigoroso (tônus preservado): a conduta atual (diretriz SBR/AAP 2016) é levar ao calor radiante, secar, estimular e avaliar — sem aspiração de rotina da traqueia, que foi abandonada. A alternativa A (contato pele a pele direto) seria correta para RN vigoroso sem mecônio; a alternativa C (secar + aspirar boca/nariz + avaliar) é a mais adequada para RN com mecônio e tônus preservado."
     },
     {
       "id": "tep_2019_pdf_q41",
@@ -5668,7 +5767,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Nota: este item apresenta problema de extração do PDF — as alternativas não correspondem ao enunciado (suplementação de ferro). Com base no enunciado, o lactente nasceu com 2.200g a termo, em aleitamento materno exclusivo. Pela diretriz da SBP, prematuros e recém-nascidos com peso < 2.500g a termo devem receber suplementação de ferro a partir do 1º mês de vida na dose de 2 mg/kg/dia. A alternativa B ('pertencente ao grupo de risco e internar') não se encaixa no contexto de suplementação; este item requer revisão editorial antes do uso."
     },
     {
       "id": "tep_2019_pdf_q42",
@@ -5693,7 +5792,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Nota: este item apresenta mistura de enunciados na extração do PDF — as alternativas correspondem a doses de ferro, mas o enunciado descreve um RN ictérico com 18 horas, com incompatibilidade ABO (mãe O+, filho A+). Nesse caso, a conduta correta é solicitar bilirrubina total e frações e teste de Coombs direto para confirmar hemólise por incompatibilidade ABO, além de monitorar a bilirrubina para decidir fototerapia. Para RN a termo com 18 horas, a icterícia já visível indica investigação imediata, pois icterícia nas primeiras 24h é sempre patológica. Este item necessita de revisão editorial."
     },
     {
       "id": "tep_2019_pdf_q43",
@@ -5705,12 +5804,12 @@
         "C": "Intubação siliconizada.",
         "D": "Dacriocistorrinostomia."
       },
-      "correct_answer": "D",
+      "correct_answer": "A",
       "theme": "Pediatria Geral",
       "subtheme": "extração automática de PDF comentado",
       "difficulty": "facil",
       "status_2026": "revisar",
-      "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
+      "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026 | GABARITO CORRIGIDO: divergência detectada na extração do PDF — gabarito original inconsistente com diretrizes clínicas.",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
@@ -5718,7 +5817,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Obstrução do canal nasolacrimal (dacriocistite congênita) em lactente de 2 meses: a conduta imediata é a massagem nasolacrimal (técnica de Crigler) — pressão sobre o saco lacrimal 2-3x/dia — que resolve 90% dos casos até os 6-12 meses de vida. Sondagem (B) é indicada somente se a obstrução persistir após 12 meses. Intubação siliconizada (C) e dacriocistorinostomia (D) são procedimentos cirúrgicos de exceção para casos refratários. Pérola: lactente com epífora + secreção purulenta unilateral = massagem nasolacrimal como 1ª linha."
     },
     {
       "id": "tep_2019_pdf_q44",
@@ -5743,7 +5842,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Em criança de 5 anos com otite média aguda (OMA) confirmada pelo abaulamento da membrana timpânica, a diretriz brasileira (e americana) indica antibioticoterapia imediata com amoxicilina associada a analgésico/antipirético. A observação sem antibiótico (conduta expectante) seria aceitável apenas em crianças maiores de 2 anos, com sintomas leves e sem abaulamento confirmado. Descongestionantes e nafazolina não têm benefício comprovado na OMA; prednisolona não é indicada. A pérola: abaulamento timpânico em < 6 anos = antibiótico imediato."
     },
     {
       "id": "tep_2019_pdf_q45",
@@ -5768,7 +5867,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O quadro de pele seca e pruriginosa com distribuição em flexuras (pregas antecubitais e poplíteas) e face, associada a asma brônquica (tríade atópica), é clássico de dermatite atópica moderada. O controle das crises é feito com corticosteroide tópico de baixa potência (hidrocortisona 1%) nas áreas acometidas; tacrolimus (imunomodulador tópico) é segunda linha e alternativa para regiões sensíveis (face, dobras). Dexametasona tópica tem alta potência e não deve ser usada em criança sistematicamente; dexclorfeniramina oral alivia o prurido mas não controla a doença de base."
     },
     {
       "id": "tep_2019_pdf_q46",
@@ -5780,12 +5879,12 @@
         "C": "18.",
         "D": "21."
       },
-      "correct_answer": "B",
+      "correct_answer": "D",
       "theme": "Neonatologia",
       "subtheme": "extração automática de PDF comentado",
       "difficulty": "media",
       "status_2026": "revisar",
-      "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026",
+      "source_validation": "TEP 2019 Questões Comentadas PDF; extração automática; conferir estrutura e validar 2026 | GABARITO CORRIGIDO: divergência detectada na extração do PDF — gabarito original inconsistente com diretrizes clínicas.",
       "origin_file": "TEP_comentado_2019-autorizado.pdf",
       "year": 2019,
       "source": "TEP 2019 questões comentadas PDF",
@@ -5793,7 +5892,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O fenótipo descrito (hipotonia, prega palmar única/simiesca, mãe de 38 anos, 36 semanas) é típico da Síndrome de Down, causada pela trissomia do cromossomo 21. A alternativa D (21) é a resposta correta. Trissomia 13 (B = Patau) cursa com holoprosencefalia, polidactilia e fenda palatina; trissomia 18 (C = Edwards) com punho fechado, rocker-bottom feet e cardiopatia complexa. Pérola: mãe >35 anos + hipotonia + prega palmar única no RN = Down (trissomia 21, alternativa D)."
     },
     {
       "id": "tep_2019_pdf_q47",
@@ -5817,7 +5916,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "incompleta/revisar",
-      "commentary": ""
+      "commentary": "Nota: o enunciado desta questão foi extraído de forma incompleta do PDF (está truncado). Com base no fragmento disponível e nas alternativas, o contexto trata de vacinação em criança com alergia ao ovo. A alternativa correta (D — solicitar IgE específica para ovo) seria indicada para anafilaxia grave; porém, as diretrizes atuais recomendam que crianças com alergia ao ovo, mesmo grave, podem receber a vacina influenza em ambiente hospitalar com observação. Vacinas como MMR têm quantidade mínima de proteína de ovo e são seguras mesmo em alérgicos. Este item requer revisão do enunciado completo."
     },
     {
       "id": "tep_2019_pdf_q48",
@@ -5842,7 +5941,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "O quadro de dor abdominal epigástrica súbita e intensa, irradiada para o dorso, com posição antálgica em flexão (cão de espingarda), em adolescente, associado a colédoco no limite da normalidade, é altamente sugestivo de pancreatite aguda. A enzima de maior especificidade diagnóstica para pancreatite aguda é a lipase sérica (permanece elevada por mais tempo que a amilase e tem maior especificidade pancreática); a amilase também é utilizada e é o exame de escolha segundo alguns protocolos, mas a lipase é superior. LDH e fosfatase alcalina não são específicos para pancreatite."
     },
     {
       "id": "tep_2019_pdf_q49",
@@ -5867,7 +5966,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "automatica/revisar",
-      "commentary": ""
+      "commentary": "Nota: a resposta marcada como correta (B — sulfato) é atípica para a síndrome de realimentação, cujo marcador clássico é a hipofosfatemia. Na síndrome de realimentação, a oferta de carboidratos após jejum prolongado estimula a insulina, que desloca fósforo, potássio e magnésio para o intracelular, causando hipofosfatemia grave com risco de arritmias, hemólise e insuficiência respiratória. O fosfato é o eletrólito a ser monitorado prioritariamente na realimentação. Este item apresenta inconsistência no gabarito e deve ser revisado."
     },
     {
       "id": "tep_2019_pdf_q50",
@@ -5891,7 +5990,7 @@
       "type": "objetiva",
       "requires_2026_review": true,
       "extraction_quality": "incompleta/revisar",
-      "commentary": ""
+      "commentary": "Nota: este item teve extração automática gravemente comprometida — o enunciado descreve uma lactente com reação cutânea ao ovo (vermelhidão), mas as alternativas são fragmentos de outras questões (solicitação de diagnóstico e exames de imagem) que não correspondem ao contexto. Com base no tema (vacinação em criança com provável alergia ao ovo de baixa gravidade — apenas urticária localizada, sem anafilaxia), a conduta adequada é aplicar a vacina normalmente, pois reações leves ao ovo não contraindicam a vacinação de rotina. Este item requer reconstrução completa do PDF original."
     },
     {
       "id": "tep_2021_q01",
